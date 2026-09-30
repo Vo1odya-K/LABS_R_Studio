@@ -1,0 +1,1721 @@
+record_id,date,student_id,group,subject,attempt,attendance,score,teacher,comment,student_name
+REC0920,2024-04-23,ST001,K-21,DA-101,1,Present,62.8,Petrenko,Good progress,Романенко Владислав Андріївна
+REC1683,2024-04-28,ST001,K-21,DA-102,1,Late,74.1,Petrenko,Additional task,Романенко Владислав Андріївна
+REC0591,2024-05-15,ST001,K-21,DA-101,1,Present,76.3,Ivanenko,Good progress,Романенко Владислав Андріївна
+REC0070,2024-05-23,ST001,K-21,DA-102,1,Late,73.9,Petrenko,Missed class,Романенко Владислав Андріївна
+REC0199,2024-06-20,ST001,K-21,DA-102,2,Present,76.6,Ivanenko,Needs improvement,Романенко Владислав Андріївна
+REC1427,2024-06-28,ST001,K-21,DA-102,1,Present,65.7,Petrenko,Additional task,Романенко Владислав Андріївна
+REC0152,2024-02-15,ST002,K-23,DA-102,1,Present,79.9,Ivanenko,Good work,Марченко Іван Дмитрович
+REC0883,2024-02-25,ST002,K-23,DA-102,1,Present,100,Petrenko,Was late,Марченко Іван Дмитрович
+REC0202,2024-04-06,ST002,K-23,DA-101,1,Present,87.5,Ivanenko,Good work,Марченко Іван Дмитрович
+REC0643,2024-06-15,ST002,K-23,DA-101,2,Absent,67.7,Ivanenko,Good work,Марченко Іван Дмитрович
+REC1628,2024-06-16,ST002,K-23,DA-102,1,Present,88.1,Ivanenko,Missed class,Марченко Іван Дмитрович
+REC1285,2024-06-30,ST002,K-23,DA-102,1,Present,61.1,Ivanenko,Good progress,Марченко Іван Дмитрович
+REC1029,2024-02-25,ST003,K-21,DA-102,1,Present,78.5,Petrenko,Excellent,Поліщук Максим Іванівна
+REC1073,2024-04-28,ST003,K-21,DA-102,1,Present,78.2,Ivanenko,Excellent,Поліщук Максим Іванівна
+REC0944,2024-05-06,ST003,K-21,DA-101,1,Present,83.1,Petrenko,Needs improvement,Поліщук Максим Іванівна
+REC1449,2024-05-08,ST003,K-21,DA-101,1,Present,86.1,Ivanenko,Missed class,Поліщук Максим Іванівна
+REC0782,2024-05-28,ST003,K-21,DA-102,1,Absent,73,Ivanenko,Needs improvement,Поліщук Максим Іванівна
+REC1134,2024-02-15,ST004,K-23,DA-101,1,Present,68,Ivanenko,Missed class,Сидоренко Вікторія Андрійович
+REC1290,2024-03-11,ST004,K-23,DA-101,1,Present,96,Petrenko,Good work,Сидоренко Вікторія Андрійович
+REC0891,2024-03-30,ST004,K-23,DA-102,1,Present,80.3,Petrenko,Good work,Сидоренко Вікторія Андрійович
+REC1603,2024-04-15,ST004,K-23,DA-101,1,Present,100,Ivanenko,Additional task,Сидоренко Вікторія Андрійович
+REC0700,2024-05-14,ST004,K-23,DA-102,1,Present,69.1,Petrenko,Was late,Сидоренко Вікторія Андрійович
+REC1221,2024-02-10,ST005,K-23,DA-102,1,Late,92.6,Ivanenko,Good work,Коваленко Анна Іванівна
+REC0663,2024-04-10,ST005,K-23,DA-102,2,Present,88.6,Petrenko,Good progress,Коваленко Анна Іванівна
+REC1589,2024-06-01,ST005,K-23,DA-101,1,Present,66.4,Ivanenko,Good work,Коваленко Анна Іванівна
+REC1640,2024-03-22,ST006,K-23,DA-102,1,Present,45.1,Ivanenko,Missed class,Сидоренко Дарина Олександрович
+REC1289,2024-04-11,ST006,K-23,DA-101,1,Present,74.2,Petrenko,Excellent,Сидоренко Дарина Олександрович
+REC0490,2024-04-26,ST006,K-23,DA-102,1,Present,88.3,Petrenko,Was late,Сидоренко Дарина Олександрович
+REC1095,2024-05-04,ST006,K-23,DA-102,1,Present,100,Petrenko,Good progress,Сидоренко Дарина Олександрович
+REC1311,2024-06-22,ST006,K-23,DA-101,2,Present,77.2,Petrenko,Excellent,Сидоренко Дарина Олександрович
+REC1033,2024-06-29,ST006,K-23,DA-101,1,Present,52.8,Petrenko,Needs improvement,Сидоренко Дарина Олександрович
+REC0542,2024-02-28,ST007,K-21,DA-101,1,Absent,73,Petrenko,Was late,Кравченко Дмитро Миколайович
+REC1121,2024-04-02,ST007,K-21,DA-102,1,Present,96.5,Petrenko,Good work,Кравченко Дмитро Миколайович
+REC1313,2024-04-03,ST007,K-21,DA-102,2,Late,81.1,Petrenko,No comment,Кравченко Дмитро Миколайович
+REC1244,2024-04-11,ST007,K-21,DA-101,1,Present,64.6,Petrenko,Was late,Кравченко Дмитро Миколайович
+REC0539,2024-05-04,ST007,K-21,DA-102,1,Absent,91.8,Ivanenko,Good work,Кравченко Дмитро Миколайович
+REC0857,2024-05-14,ST007,K-21,DA-101,1,Present,67.1,Petrenko,Missed class,Кравченко Дмитро Миколайович
+REC0400,2024-06-18,ST007,K-21,DA-101,1,Present,81.4,Petrenko,Was late,Кравченко Дмитро Миколайович
+REC0184,2024-02-24,ST008,K-24,DA-101,2,Absent,70.8,Ivanenko,No comment,Олійник Дарина Владиславович
+REC1716,2024-02-27,ST008,K-24,DA-101,1,Present,67.1,Petrenko,Excellent,Олійник Дарина Владиславович
+REC0552,2024-04-04,ST008,K-24,DA-102,1,Present,75,Petrenko,Missed class,Олійник Дарина Владиславович
+REC1429,2024-06-15,ST008,K-24,DA-102,1,Absent,73.7,Petrenko,Additional task,Олійник Дарина Владиславович
+REC0351,2024-02-05,ST009,K-22,DA-101,1,Present,57.1,Ivanenko,Additional task,Іваненко Софія Іванович
+REC1238,2024-04-08,ST009,K-22,DA-102,1,Absent,74.2,Petrenko,Good progress,Іваненко Софія Іванович
+REC1773,2024-04-11,ST009,K-22,DA-101,1,Present,74.2,Ivanenko,Good progress,Іваненко Софія Іванович
+REC1502,2024-04-30,ST009,K-22,DA-101,1,Present,59.5,Ivanenko,Good work,Іваненко Софія Іванович
+REC0611,2024-05-02,ST009,K-22,DA-102,2,Absent,73.7,Ivanenko,Missed class,Іваненко Софія Іванович
+REC1624,2024-05-15,ST009,K-22,DA-102,1,Late,72.2,Ivanenko,Good progress,Іваненко Софія Іванович
+REC0380,2024-06-19,ST009,K-22,DA-101,1,Present,69.4,Petrenko,Needs improvement,Іваненко Софія Іванович
+REC1772,2024-04-12,ST010,K-23,DA-102,1,Present,75.3,Petrenko,Good progress,Білик Дмитро Миколайович
+REC1539,2024-02-06,ST011,K-23,DA-102,2,Absent,76,Petrenko,Excellent,Бондаренко Марія Іванович
+REC0705,2024-03-13,ST011,K-23,DA-102,1,Absent,80.4,Ivanenko,Excellent,Бондаренко Марія Іванович
+REC0845,2024-05-18,ST011,K-23,DA-101,1,Absent,74.2,Ivanenko,Needs improvement,Бондаренко Марія Іванович
+REC1609,2024-04-19,ST012,K-21,DA-102,1,Absent,73,Petrenko,Good progress,Олійник Андрій Богданович
+REC0204,2024-05-13,ST012,K-21,DA-102,1,Present,65.9,Petrenko,No comment,Олійник Андрій Богданович
+REC0866,2024-05-29,ST012,K-21,DA-101,1,Present,68.4,Ivanenko,Excellent,Олійник Андрій Богданович
+REC0746,2024-02-20,ST013,K-21,DA-101,1,Present,58.6,Ivanenko,Excellent,Кравченко Дмитро Дмитрівна
+REC1217,2024-03-28,ST013,K-21,DA-101,1,Absent,73,Ivanenko,Excellent,Кравченко Дмитро Дмитрівна
+REC0750,2024-04-06,ST013,K-21,DA-102,1,Absent,73,Ivanenko,Excellent,Кравченко Дмитро Дмитрівна
+REC0055,2024-06-20,ST013,K-21,DA-102,1,Absent,71.8,Ivanenko,Good work,Кравченко Дмитро Дмитрівна
+REC0260,2024-02-07,ST014,K-22,DA-101,1,Present,44.9,Petrenko,No comment,Шевченко Катерина Максимович
+REC1411,2024-03-09,ST014,K-22,DA-102,1,Present,75.5,Ivanenko,Good work,Шевченко Катерина Максимович
+REC0969,2024-03-16,ST014,K-22,DA-101,1,Present,74.2,Ivanenko,Good work,Шевченко Катерина Максимович
+REC0326,2024-03-18,ST014,K-22,DA-102,1,Present,55.5,Petrenko,Was late,Шевченко Катерина Максимович
+REC1663,2024-05-03,ST014,K-22,DA-101,2,Present,82.3,Petrenko,Good progress,Шевченко Катерина Максимович
+REC0805,2024-05-19,ST014,K-22,DA-102,1,Late,56.6,Ivanenko,Good work,Шевченко Катерина Максимович
+REC0594,2024-06-08,ST014,K-22,DA-102,1,Present,59.9,Petrenko,Additional task,Шевченко Катерина Максимович
+REC1432,2024-06-16,ST014,K-22,DA-101,1,Present,85.1,Ivanenko,Good work,Шевченко Катерина Максимович
+REC1463,2024-02-24,ST015,K-23,DA-102,1,Present,82.8,Ivanenko,Excellent,Мороз Андрій Богданович
+REC1165,2024-03-27,ST015,K-23,DA-101,1,Present,60.2,Ivanenko,Needs improvement,Мороз Андрій Богданович
+REC0739,2024-05-05,ST015,K-23,DA-101,2,Absent,74,Ivanenko,Missed class,Мороз Андрій Богданович
+REC1595,2024-05-11,ST015,K-23,DA-101,1,Present,41.2,Petrenko,Excellent,Мороз Андрій Богданович
+REC1208,2024-05-28,ST015,K-23,DA-102,1,Present,81.7,Petrenko,Needs improvement,Мороз Андрій Богданович
+REC1508,2024-03-01,ST016,K-22,DA-102,1,Late,74.5,Ivanenko,Good progress,Клименко Олександр Владиславович
+REC0917,2024-03-13,ST016,K-22,DA-101,1,Present,74.2,Ivanenko,Was late,Клименко Олександр Владиславович
+REC1456,2024-03-30,ST016,K-22,DA-101,1,Present,95.7,Petrenko,Missed class,Клименко Олександр Владиславович
+REC1728,2024-05-11,ST016,K-22,DA-102,1,Present,82.5,Ivanenko,Needs improvement,Клименко Олександр Владиславович
+REC0374,2024-05-13,ST016,K-22,DA-102,1,Present,91.1,Petrenko,Additional task,Клименко Олександр Владиславович
+REC0881,2024-05-15,ST016,K-22,DA-102,1,Present,74.2,Petrenko,Was late,Клименко Олександр Владиславович
+REC0048,2024-05-06,ST017,K-23,DA-102,1,Absent,79.6,Ivanenko,Good progress,Гнатюк Микола Максимівна
+REC0317,2024-03-08,ST018,K-22,DA-101,2,Present,87,Petrenko,Was late,Мороз Іван Богданович
+REC0660,2024-03-23,ST018,K-22,DA-102,1,Present,50.9,Petrenko,Additional task,Мороз Іван Богданович
+REC1190,2024-05-18,ST018,K-22,DA-101,1,Present,82.2,Ivanenko,Needs improvement,Мороз Іван Богданович
+REC1445,2024-05-24,ST018,K-22,DA-102,2,Absent,46.3,Petrenko,Missed class,Мороз Іван Богданович
+REC0678,2024-06-01,ST018,K-22,DA-102,1,Present,74.2,Petrenko,Additional task,Мороз Іван Богданович
+REC0740,2024-06-11,ST018,K-22,DA-101,1,Present,66.2,Petrenko,Additional task,Мороз Іван Богданович
+REC0100,2024-02-05,ST019,K-22,DA-102,1,Present,74.2,Petrenko,No comment,Бондаренко Богдан Владиславович
+REC1714,2024-02-15,ST019,K-22,DA-101,1,Present,74.2,Ivanenko,Was late,Бондаренко Богдан Владиславович
+REC0837,2024-02-23,ST019,K-22,DA-102,2,Absent,70,Ivanenko,Additional task,Бондаренко Богдан Владиславович
+REC0713,2024-04-27,ST019,K-22,DA-101,1,Late,60.5,Petrenko,Good work,Бондаренко Богдан Владиславович
+REC0062,2024-06-20,ST019,K-22,DA-102,1,Present,95.8,Ivanenko,Needs improvement,Бондаренко Богдан Владиславович
+REC0931,2024-06-29,ST019,K-22,DA-101,1,Absent,74.2,Petrenko,Good work,Бондаренко Богдан Владиславович
+REC1359,2024-02-12,ST020,K-24,DA-102,2,Present,50.5,Petrenko,Needs improvement,Петренко Микола Владиславович
+REC1479,2024-03-12,ST020,K-24,DA-102,2,Present,73.5,Petrenko,Missed class,Петренко Микола Владиславович
+REC1746,2024-03-19,ST020,K-24,DA-101,1,Present,88.7,Petrenko,Additional task,Петренко Микола Владиславович
+REC0304,2024-06-25,ST020,K-24,DA-101,1,Present,100,Petrenko,Good work,Петренко Микола Владиславович
+REC0162,2024-06-28,ST020,K-24,DA-101,1,Absent,74.5,Petrenko,Additional task,Петренко Микола Владиславович
+REC0899,2024-02-23,ST021,K-21,DA-102,1,Present,100,Ivanenko,Was late,Романенко Катерина Миколаївна
+REC1512,2024-02-28,ST021,K-21,DA-101,1,Absent,78.8,Ivanenko,No comment,Романенко Катерина Миколаївна
+REC1336,2024-03-21,ST021,K-21,DA-102,1,Present,50.9,Petrenko,Good progress,Романенко Катерина Миколаївна
+REC1487,2024-04-10,ST021,K-21,DA-102,2,Absent,65.9,Petrenko,Excellent,Романенко Катерина Миколаївна
+REC0235,2024-04-22,ST021,K-21,DA-102,1,Present,65,Ivanenko,Missed class,Романенко Катерина Миколаївна
+REC1783,2024-05-31,ST021,K-21,DA-102,2,Absent,79.3,Petrenko,Additional task,Романенко Катерина Миколаївна
+REC1447,2024-03-02,ST022,K-24,DA-101,1,Late,93.1,Ivanenko,Needs improvement,Лисенко Богдан Максимович
+REC1696,2024-03-04,ST022,K-24,DA-102,1,Absent,57.1,Ivanenko,Good work,Лисенко Богдан Максимович
+REC0754,2024-03-18,ST022,K-24,DA-102,1,Absent,79.2,Ivanenko,Was late,Лисенко Богдан Максимович
+REC0208,2024-04-19,ST022,K-24,DA-102,1,Late,75,Petrenko,Missed class,Лисенко Богдан Максимович
+REC1707,2024-05-28,ST022,K-24,DA-102,1,Late,83.8,Petrenko,Needs improvement,Лисенко Богдан Максимович
+REC1040,2024-06-11,ST022,K-24,DA-101,2,Present,78.7,Petrenko,Missed class,Лисенко Богдан Максимович
+REC0308,2024-02-21,ST023,K-24,DA-102,1,Present,75,Ivanenko,Additional task,Клименко Олександр Дмитрович
+REC1297,2024-03-14,ST023,K-24,DA-102,1,Present,84.6,Petrenko,Additional task,Клименко Олександр Дмитрович
+REC0189,2024-04-16,ST023,K-24,DA-101,1,Present,75,Ivanenko,Missed class,Клименко Олександр Дмитрович
+REC1098,2024-06-30,ST023,K-24,DA-102,1,Present,34.9,Ivanenko,Was late,Клименко Олександр Дмитрович
+REC1480,2024-03-06,ST024,K-22,DA-101,1,Present,70.1,Petrenko,No comment,Іваненко Анна Богданович
+REC0661,2024-04-13,ST024,K-22,DA-101,1,Present,86.7,Ivanenko,Good progress,Іваненко Анна Богданович
+REC0078,2024-05-10,ST024,K-22,DA-101,1,Present,81.6,Petrenko,Good progress,Іваненко Анна Богданович
+REC1245,2024-06-20,ST024,K-22,DA-102,1,Late,89.5,Petrenko,Additional task,Іваненко Анна Богданович
+REC0979,2024-06-27,ST024,K-22,DA-102,1,Present,84.8,Petrenko,Good progress,Іваненко Анна Богданович
+REC0509,2024-04-05,ST025,K-23,DA-101,1,Present,68.6,Ivanenko,Needs improvement,Поліщук Дарина Дмитрівна
+REC0711,2024-06-24,ST025,K-23,DA-102,1,Present,70.9,Petrenko,No comment,Поліщук Дарина Дмитрівна
+REC0050,2024-02-07,ST026,K-21,DA-101,1,Absent,73.8,Petrenko,Additional task,Поліщук Вікторія Владиславович
+REC1558,2024-02-25,ST026,K-21,DA-102,1,Present,72.3,Petrenko,No comment,Поліщук Вікторія Владиславович
+REC0213,2024-03-03,ST026,K-21,DA-102,1,Present,73,Ivanenko,Excellent,Поліщук Вікторія Владиславович
+REC1605,2024-03-17,ST026,K-21,DA-101,1,Present,53.2,Petrenko,Good work,Поліщук Вікторія Владиславович
+REC1629,2024-03-18,ST026,K-21,DA-101,1,Late,69.2,Petrenko,Additional task,Поліщук Вікторія Владиславович
+REC1350,2024-03-23,ST026,K-21,DA-101,1,Late,61.6,Petrenko,Good work,Поліщук Вікторія Владиславович
+REC1386,2024-03-31,ST026,K-21,DA-101,2,Late,79.5,Ivanenko,Was late,Поліщук Вікторія Владиславович
+REC1056,2024-05-25,ST026,K-21,DA-102,2,Late,61.9,Petrenko,Good progress,Поліщук Вікторія Владиславович
+REC1109,2024-06-27,ST026,K-21,DA-101,1,Present,74.3,Ivanenko,Needs improvement,Поліщук Вікторія Владиславович
+REC0221,2024-02-19,ST027,K-21,DA-101,1,Present,70.4,Petrenko,Missed class,Коваленко Андрій Іванович
+REC1257,2024-06-22,ST027,K-21,DA-102,1,Present,38.9,Petrenko,Good work,Коваленко Андрій Іванович
+REC1058,2024-02-19,ST028,K-24,DA-101,1,Present,64,Petrenko,Was late,Клименко Максим Максимівна
+REC1518,2024-02-19,ST028,K-24,DA-102,1,Present,87.8,Ivanenko,Additional task,Клименко Максим Максимівна
+REC0227,2024-03-29,ST028,K-24,DA-102,1,Late,73.8,Petrenko,Additional task,Клименко Максим Максимівна
+REC1655,2024-04-11,ST028,K-24,DA-102,1,Present,70.4,Petrenko,Additional task,Клименко Максим Максимівна
+REC1225,2024-05-15,ST028,K-24,DA-102,1,Present,67.9,Ivanenko,Good progress,Клименко Максим Максимівна
+REC0934,2024-05-30,ST028,K-24,DA-102,1,Present,78.9,Petrenko,Good progress,Клименко Максим Максимівна
+REC1644,2024-06-24,ST028,K-24,DA-101,1,Present,75,Petrenko,Excellent,Клименко Максим Максимівна
+REC1267,2024-04-01,ST029,K-22,DA-101,1,Present,85.4,Ivanenko,Missed class,Петренко Дарина Іванович
+REC1187,2024-04-19,ST029,K-22,DA-101,1,Present,99,Petrenko,Good progress,Петренко Дарина Іванович
+REC0132,2024-05-10,ST029,K-22,DA-102,2,Present,100,Ivanenko,Additional task,Петренко Дарина Іванович
+REC0239,2024-05-17,ST029,K-22,DA-101,1,Absent,70.1,Petrenko,Excellent,Петренко Дарина Іванович
+REC0863,2024-05-18,ST029,K-22,DA-101,1,Present,73.2,Petrenko,Good work,Петренко Дарина Іванович
+REC0795,2024-05-26,ST029,K-22,DA-102,2,Present,71.5,Petrenko,Excellent,Петренко Дарина Іванович
+REC1114,2024-05-29,ST029,K-22,DA-102,1,Present,52.8,Petrenko,Additional task,Петренко Дарина Іванович
+REC0575,2024-06-09,ST029,K-22,DA-101,1,Late,57,Ivanenko,Was late,Петренко Дарина Іванович
+REC1404,2024-03-01,ST030,K-22,DA-102,1,Present,74.2,Petrenko,Needs improvement,Ткаченко Анастасія Дмитрович
+REC0538,2024-04-04,ST030,K-22,DA-101,1,Late,78.6,Ivanenko,Additional task,Ткаченко Анастасія Дмитрович
+REC1176,2024-05-01,ST030,K-22,DA-102,1,Present,90.1,Petrenko,Good work,Ткаченко Анастасія Дмитрович
+REC0373,2024-05-23,ST030,K-22,DA-101,2,Late,87.5,Ivanenko,Missed class,Ткаченко Анастасія Дмитрович
+REC1300,2024-05-28,ST030,K-22,DA-101,1,Present,94.8,Petrenko,Missed class,Ткаченко Анастасія Дмитрович
+REC1781,2024-05-30,ST030,K-22,DA-102,1,Late,93.1,Ivanenko,No comment,Ткаченко Анастасія Дмитрович
+REC1317,2024-06-03,ST030,K-22,DA-102,1,Absent,100,Petrenko,Good work,Ткаченко Анастасія Дмитрович
+REC1027,2024-06-08,ST030,K-22,DA-102,1,Present,59.4,Ivanenko,Good work,Ткаченко Анастасія Дмитрович
+REC1597,2024-06-22,ST030,K-22,DA-101,1,Present,72,Ivanenko,Missed class,Ткаченко Анастасія Дмитрович
+REC0632,2024-03-15,ST031,K-22,DA-101,2,Present,79.55,Ivanenko,Good progress,Гнатюк Дарина Миколайович
+REC0186,2024-03-27,ST031,K-22,DA-101,1,Present,56.3,Ivanenko,Missed class,Гнатюк Дарина Миколайович
+REC0919,2024-04-03,ST031,K-22,DA-102,1,Present,83.3,Petrenko,Excellent,Гнатюк Дарина Миколайович
+REC1516,2024-04-18,ST031,K-22,DA-102,1,Present,71.6,Petrenko,Missed class,Гнатюк Дарина Миколайович
+REC0410,2024-02-14,ST032,K-23,DA-102,1,Present,100,Petrenko,No comment,Сидоренко Марія Іванівна
+REC1186,2024-02-21,ST032,K-23,DA-101,1,Absent,74.2,Ivanenko,No comment,Сидоренко Марія Іванівна
+REC0976,2024-03-06,ST032,K-23,DA-101,2,Absent,67.5,Ivanenko,Good work,Сидоренко Марія Іванівна
+REC0089,2024-04-26,ST032,K-23,DA-101,1,Absent,43.5,Ivanenko,Excellent,Сидоренко Марія Іванівна
+REC1239,2024-05-09,ST032,K-23,DA-102,1,Absent,100,Petrenko,Missed class,Сидоренко Марія Іванівна
+REC0738,2024-05-22,ST032,K-23,DA-102,1,Present,57.6,Ivanenko,Additional task,Сидоренко Марія Іванівна
+REC1021,2024-05-31,ST032,K-23,DA-101,1,Present,74.2,Ivanenko,Good progress,Сидоренко Марія Іванівна
+REC1422,2024-06-02,ST032,K-23,DA-101,1,Late,75.3,Ivanenko,Additional task,Сидоренко Марія Іванівна
+REC1050,2024-05-10,ST033,K-22,DA-102,1,Present,89.8,Ivanenko,Additional task,Кравченко Богдан Миколаївна
+REC0852,2024-03-03,ST034,K-24,DA-102,2,Present,72.6,Petrenko,Needs improvement,Петренко Дмитро Максимович
+REC0278,2024-03-21,ST034,K-24,DA-102,1,Present,75,Ivanenko,Good work,Петренко Дмитро Максимович
+REC0974,2024-03-27,ST034,K-24,DA-102,2,Absent,70.8,Petrenko,Missed class,Петренко Дмитро Максимович
+REC0493,2024-04-24,ST034,K-24,DA-101,1,Present,81.9,Ivanenko,Excellent,Петренко Дмитро Максимович
+REC1768,2024-02-24,ST035,K-23,DA-101,1,Present,74.2,Petrenko,Was late,Мельник Катерина Іванівна
+REC1525,2024-03-29,ST035,K-23,DA-101,1,Present,49.1,Petrenko,Was late,Мельник Катерина Іванівна
+REC0423,2024-05-03,ST035,K-23,DA-102,1,Late,84.2,Petrenko,Good work,Мельник Катерина Іванівна
+REC0717,2024-05-04,ST035,K-23,DA-102,1,Present,78.8,Ivanenko,Good progress,Мельник Катерина Іванівна
+REC1763,2024-05-11,ST035,K-23,DA-102,1,Present,81.9,Petrenko,Needs improvement,Мельник Катерина Іванівна
+REC0827,2024-05-25,ST035,K-23,DA-101,1,Late,71.8,Ivanenko,Additional task,Мельник Катерина Іванівна
+REC0005,2024-06-24,ST035,K-23,DA-101,1,Present,64.1,Petrenko,Was late,Мельник Катерина Іванівна
+REC1230,2024-02-18,ST036,K-22,DA-101,1,Present,73.6,Ivanenko,Good progress,Савченко Микола Дмитрович
+REC0095,2024-03-07,ST036,K-22,DA-102,1,Late,89.7,Ivanenko,Good work,Савченко Микола Дмитрович
+REC0908,2024-03-28,ST036,K-22,DA-102,1,Present,50.7,Ivanenko,Good progress,Савченко Микола Дмитрович
+REC1076,2024-04-24,ST036,K-22,DA-102,1,Present,82.1,Petrenko,Additional task,Савченко Микола Дмитрович
+REC1403,2024-05-21,ST036,K-22,DA-102,1,Present,62.6,Petrenko,Missed class,Савченко Микола Дмитрович
+REC0085,2024-02-13,ST037,K-21,DA-102,1,Present,73,Petrenko,Excellent,Марченко Іван Владиславович
+REC1517,2024-03-09,ST037,K-21,DA-101,1,Present,39.4,Petrenko,Good work,Марченко Іван Владиславович
+REC1087,2024-03-15,ST037,K-21,DA-101,1,Present,73,Ivanenko,Was late,Марченко Іван Владиславович
+REC1277,2024-03-27,ST037,K-21,DA-101,1,Present,87.6,Ivanenko,Needs improvement,Марченко Іван Владиславович
+REC0262,2024-05-17,ST037,K-21,DA-101,1,Absent,69.5,Petrenko,Additional task,Марченко Іван Владиславович
+REC1046,2024-02-26,ST038,K-24,DA-102,1,Present,77.1,Ivanenko,Missed class,Білик Іван Андрійович
+REC1497,2024-05-26,ST038,K-24,DA-102,1,Present,72.8,Ivanenko,Needs improvement,Білик Іван Андрійович
+REC1665,2024-06-12,ST038,K-24,DA-101,1,Absent,75,Ivanenko,Good work,Білик Іван Андрійович
+REC0798,2024-06-17,ST038,K-24,DA-102,1,Present,83.7,Ivanenko,Needs improvement,Білик Іван Андрійович
+REC0744,2024-02-15,ST039,K-22,DA-101,2,Present,97.2,Ivanenko,No comment,Білик Олександр Олександрович
+REC0491,2024-03-17,ST039,K-22,DA-102,1,Present,75.9,Ivanenko,Was late,Білик Олександр Олександрович
+REC0439,2024-04-22,ST039,K-22,DA-101,1,Present,91.8,Petrenko,Was late,Білик Олександр Олександрович
+REC0844,2024-02-05,ST040,K-21,DA-101,1,Present,64.3,Ivanenko,Excellent,Мельник Микола Максимович
+REC1158,2024-03-04,ST040,K-21,DA-102,1,Late,82.1,Ivanenko,Excellent,Мельник Микола Максимович
+REC0021,2024-03-25,ST040,K-21,DA-102,1,Present,100,Petrenko,Additional task,Мельник Микола Максимович
+REC1646,2024-06-16,ST040,K-21,DA-102,1,Present,96.1,Petrenko,Good work,Мельник Микола Максимович
+REC1279,2024-03-14,ST041,K-24,DA-101,2,Late,83.9,Ivanenko,Good work,Іваненко Анастасія Миколаївна
+REC0034,2024-03-29,ST041,K-24,DA-101,2,Present,70.8,Petrenko,Good progress,Іваненко Анастасія Миколаївна
+REC0946,2024-04-01,ST041,K-24,DA-102,1,Present,99,Ivanenko,Good work,Іваненко Анастасія Миколаївна
+REC0119,2024-05-01,ST041,K-24,DA-101,1,Absent,75,Ivanenko,Was late,Іваненко Анастасія Миколаївна
+REC0733,2024-06-06,ST041,K-24,DA-102,1,Present,75,Ivanenko,Needs improvement,Іваненко Анастасія Миколаївна
+REC1720,2024-06-08,ST041,K-24,DA-101,1,Present,47.2,Petrenko,Needs improvement,Іваненко Анастасія Миколаївна
+REC1169,2024-06-16,ST041,K-24,DA-102,1,Present,45.7,Ivanenko,Needs improvement,Іваненко Анастасія Миколаївна
+REC1053,2024-02-08,ST042,K-21,DA-102,1,Present,90.4,Ivanenko,Excellent,Бондаренко Марія Іванович
+REC1043,2024-04-06,ST042,K-21,DA-102,1,Present,65.9,Ivanenko,Good work,Бондаренко Марія Іванович
+REC1139,2024-04-29,ST042,K-21,DA-101,1,Present,78.7,Petrenko,Missed class,Бондаренко Марія Іванович
+REC1749,2024-06-18,ST042,K-21,DA-101,1,Present,84.7,Ivanenko,Additional task,Бондаренко Марія Іванович
+REC1488,2024-02-05,ST043,K-21,DA-101,1,Present,46.4,Petrenko,Good work,Марченко Марія Іванович
+REC0244,2024-03-06,ST043,K-21,DA-102,1,Present,72.4,Petrenko,Was late,Марченко Марія Іванович
+REC0096,2024-04-01,ST043,K-21,DA-102,1,Present,66.4,Petrenko,Missed class,Марченко Марія Іванович
+REC0245,2024-05-08,ST043,K-21,DA-102,1,Present,48,Ivanenko,Missed class,Марченко Марія Іванович
+REC1583,2024-02-19,ST044,K-23,DA-101,1,Absent,78.1,Ivanenko,Was late,Лисенко Марія Андріївна
+REC0029,2024-03-03,ST044,K-23,DA-101,2,Present,64.2,Ivanenko,Good progress,Лисенко Марія Андріївна
+REC1241,2024-03-16,ST044,K-23,DA-102,1,Present,100,Ivanenko,Was late,Лисенко Марія Андріївна
+REC1424,2024-03-22,ST044,K-23,DA-102,1,Present,51,Petrenko,Missed class,Лисенко Марія Андріївна
+REC0607,2024-03-25,ST044,K-23,DA-101,1,Present,66.6,Petrenko,Good progress,Лисенко Марія Андріївна
+REC0352,2024-04-25,ST044,K-23,DA-101,1,Present,88.9,Petrenko,Good progress,Лисенко Марія Андріївна
+REC0004,2024-04-30,ST044,K-23,DA-102,1,Present,74.2,Ivanenko,Was late,Лисенко Марія Андріївна
+REC1255,2024-05-02,ST044,K-23,DA-101,1,Present,77.8,Ivanenko,Good work,Лисенко Марія Андріївна
+REC0265,2024-06-02,ST044,K-23,DA-102,1,Present,90,Petrenko,Good work,Лисенко Марія Андріївна
+REC0009,2024-06-13,ST044,K-23,DA-102,2,Present,44.1,Ivanenko,Was late,Лисенко Марія Андріївна
+REC0995,2024-02-13,ST045,K-23,DA-102,2,Present,76,Petrenko,Good work,Бондаренко Дмитро Іванович
+REC1526,2024-02-14,ST045,K-23,DA-102,1,Present,71.2,Petrenko,Excellent,Бондаренко Дмитро Іванович
+REC0452,2024-02-24,ST045,K-23,DA-102,1,Present,66.5,Ivanenko,Additional task,Бондаренко Дмитро Іванович
+REC0084,2024-03-13,ST045,K-23,DA-101,1,Present,89.4,Petrenko,Missed class,Бондаренко Дмитро Іванович
+REC0383,2024-06-15,ST045,K-23,DA-102,1,Present,74.2,Ivanenko,Was late,Бондаренко Дмитро Іванович
+REC0675,2024-02-22,ST047,K-24,DA-102,1,Present,41.9,Ivanenko,Good work,Іваненко Богдан Олександрівна
+REC1081,2024-03-09,ST047,K-24,DA-102,2,Present,100,Petrenko,Good work,Іваненко Богдан Олександрівна
+REC0905,2024-03-28,ST047,K-24,DA-102,1,Present,75,Ivanenko,No comment,Іваненко Богдан Олександрівна
+REC0537,2024-04-29,ST047,K-24,DA-102,1,Absent,63.4,Ivanenko,Good work,Іваненко Богдан Олександрівна
+REC0146,2024-05-09,ST047,K-24,DA-102,1,Present,75,Ivanenko,Was late,Іваненко Богдан Олександрівна
+REC0590,2024-05-28,ST047,K-24,DA-102,1,Present,75,Ivanenko,Good work,Іваненко Богдан Олександрівна
+REC1006,2024-03-21,ST048,K-23,DA-102,1,Late,68.7,Ivanenko,Good progress,Сидоренко Микола Олександрівна
+REC1430,2024-06-30,ST048,K-23,DA-101,1,Present,71.9,Petrenko,Was late,Сидоренко Микола Олександрівна
+REC0347,2024-02-11,ST049,K-23,DA-102,1,Present,74.2,Petrenko,Needs improvement,Клименко Владислав Дмитрович
+REC1660,2024-03-09,ST049,K-23,DA-101,1,Present,82.9,Petrenko,Was late,Клименко Владислав Дмитрович
+REC1700,2024-04-23,ST049,K-23,DA-101,1,Absent,74.2,Petrenko,Good progress,Клименко Владислав Дмитрович
+REC0354,2024-06-07,ST049,K-23,DA-102,2,Present,86,Petrenko,Good progress,Клименко Владислав Дмитрович
+REC0052,2024-06-25,ST049,K-23,DA-101,1,Present,82.2,Petrenko,Needs improvement,Клименко Владислав Дмитрович
+REC0384,2024-02-29,ST050,K-22,DA-101,1,Present,72.4,Petrenko,Good work,Коваленко Анастасія Андрійович
+REC1406,2024-03-12,ST050,K-22,DA-101,1,Present,56.9,Ivanenko,Needs improvement,Коваленко Анастасія Андрійович
+REC1673,2024-04-27,ST050,K-22,DA-101,1,Present,87.8,Ivanenko,Good progress,Коваленко Анастасія Андрійович
+REC1774,2024-06-16,ST050,K-22,DA-102,1,Late,70.4,Ivanenko,Good progress,Коваленко Анастасія Андрійович
+REC0638,2024-02-15,ST051,K-22,DA-102,1,Present,74.2,Petrenko,Good work,Бондаренко Анна Миколайович
+REC0514,2024-02-18,ST051,K-22,DA-101,2,Late,89.9,Ivanenko,Excellent,Бондаренко Анна Миколайович
+REC0019,2024-02-09,ST052,K-23,DA-102,1,Present,83.7,Petrenko,Excellent,Бондаренко Софія Олександрівна
+REC0756,2024-03-26,ST052,K-23,DA-101,1,Present,68.5,Ivanenko,Good progress,Бондаренко Софія Олександрівна
+REC0185,2024-05-03,ST052,K-23,DA-101,1,Present,57,Ivanenko,Was late,Бондаренко Софія Олександрівна
+REC1392,2024-02-24,ST053,K-23,DA-101,1,Present,57.9,Ivanenko,Excellent,Лисенко Олександр Андрійович
+REC0785,2024-03-11,ST053,K-23,DA-102,1,Present,72,Ivanenko,Additional task,Лисенко Олександр Андрійович
+REC1105,2024-05-10,ST053,K-23,DA-101,1,Late,87.4,Ivanenko,No comment,Лисенко Олександр Андрійович
+REC0226,2024-05-11,ST053,K-23,DA-102,2,Present,32.8,Petrenko,Good progress,Лисенко Олександр Андрійович
+REC0429,2024-06-30,ST053,K-23,DA-102,1,Present,74.2,Ivanenko,No comment,Лисенко Олександр Андрійович
+REC1788,2024-03-09,ST054,K-23,DA-102,1,Present,61.1,Ivanenko,Additional task,Марченко Іван Дмитрівна
+REC0299,2024-05-03,ST054,K-23,DA-101,1,Absent,69.4,Petrenko,Good progress,Марченко Іван Дмитрівна
+REC0780,2024-05-07,ST054,K-23,DA-101,1,Absent,61.9,Ivanenko,Additional task,Марченко Іван Дмитрівна
+REC1070,2024-05-29,ST054,K-23,DA-101,2,Present,100,Ivanenko,Additional task,Марченко Іван Дмитрівна
+REC1278,2024-02-26,ST055,K-21,DA-102,1,Present,75.2,Petrenko,Good progress,Іваненко Катерина Іванович
+REC0658,2024-03-05,ST055,K-21,DA-102,1,Absent,73,Ivanenko,Was late,Іваненко Катерина Іванович
+REC0117,2024-03-17,ST055,K-21,DA-102,2,Late,76.6,Ivanenko,Was late,Іваненко Катерина Іванович
+REC1782,2024-04-01,ST055,K-21,DA-102,1,Present,85.6,Petrenko,Missed class,Іваненко Катерина Іванович
+REC0240,2024-05-11,ST055,K-21,DA-102,1,Present,73,Ivanenko,Additional task,Іваненко Катерина Іванович
+REC1129,2024-05-30,ST055,K-21,DA-101,1,Present,77.2,Ivanenko,Good work,Іваненко Катерина Іванович
+REC0788,2024-02-17,ST056,K-22,DA-102,1,Present,52.5,Petrenko,Excellent,Олійник Катерина Миколаївна
+REC0430,2024-06-09,ST056,K-22,DA-101,1,Present,83.6,Ivanenko,Needs improvement,Олійник Катерина Миколаївна
+REC0241,2024-03-09,ST057,K-22,DA-102,1,Present,91.2,Ivanenko,Needs improvement,Савченко Владислав Андрійович
+REC1100,2024-04-11,ST057,K-22,DA-102,2,Present,62.1,Petrenko,No comment,Савченко Владислав Андрійович
+REC0233,2024-05-18,ST057,K-22,DA-102,1,Present,78.6,Petrenko,Excellent,Савченко Владислав Андрійович
+REC0125,2024-06-02,ST057,K-22,DA-101,2,Present,74.7,Ivanenko,Good work,Савченко Владислав Андрійович
+REC0065,2024-03-07,ST058,K-22,DA-101,2,Present,45.1,Petrenko,Additional task,Мельник Олександр Андріївна
+REC1794,2024-03-07,ST058,K-22,DA-102,1,Present,74.2,Petrenko,Needs improvement,Мельник Олександр Андріївна
+REC0388,2024-04-16,ST058,K-22,DA-101,1,Present,65,Ivanenko,Good progress,Мельник Олександр Андріївна
+REC1455,2024-04-20,ST058,K-22,DA-101,1,Absent,69,Petrenko,Additional task,Мельник Олександр Андріївна
+REC0504,2024-03-15,ST059,K-22,DA-101,1,Present,96.9,Ivanenko,Needs improvement,Лисенко Олександр Андрійович
+REC0570,2024-02-07,ST060,K-22,DA-101,1,Present,73,Ivanenko,Excellent,Мороз Софія Олександрівна
+REC0358,2024-02-07,ST060,K-22,DA-101,2,Absent,63.2,Petrenko,Good progress,Мороз Софія Олександрівна
+REC1016,2024-03-03,ST060,K-22,DA-101,1,Present,78,Petrenko,Good progress,Мороз Софія Олександрівна
+REC0904,2024-05-06,ST060,K-22,DA-102,1,Present,96.1,Petrenko,Was late,Мороз Софія Олександрівна
+REC1258,2024-05-14,ST060,K-22,DA-101,1,Present,51.4,Ivanenko,Excellent,Мороз Софія Олександрівна
+REC0378,2024-02-05,ST061,K-24,DA-102,1,Absent,75,Petrenko,Missed class,Бондаренко Іван Миколайович
+REC1785,2024-02-15,ST061,K-24,DA-101,1,Present,75,Petrenko,Good progress,Бондаренко Іван Миколайович
+REC1540,2024-03-06,ST061,K-24,DA-101,1,Present,98.3,Ivanenko,Additional task,Бондаренко Іван Миколайович
+REC1678,2024-03-21,ST061,K-24,DA-101,1,Absent,67.6,Petrenko,Needs improvement,Бондаренко Іван Миколайович
+REC1274,2024-05-03,ST061,K-24,DA-101,2,Present,70.8,Ivanenko,Good work,Бондаренко Іван Миколайович
+REC0913,2024-05-19,ST061,K-24,DA-101,1,Present,91,Ivanenko,Excellent,Бондаренко Іван Миколайович
+REC1042,2024-02-13,ST062,K-23,DA-102,1,Present,74.2,Petrenko,Needs improvement,Мельник Андрій Максимович
+REC1563,2024-03-08,ST062,K-23,DA-101,1,Late,81.8,Ivanenko,No comment,Мельник Андрій Максимович
+REC0406,2024-06-14,ST062,K-23,DA-101,1,Present,65.1,Petrenko,Good work,Мельник Андрій Максимович
+REC0902,2024-06-16,ST062,K-23,DA-101,1,Absent,64.9,Petrenko,Good progress,Мельник Андрій Максимович
+REC1569,2024-02-23,ST063,K-23,DA-101,1,Absent,96.8,Ivanenko,Additional task,Сидоренко Анастасія Андріївна
+REC0327,2024-03-06,ST063,K-23,DA-102,1,Present,58.2,Ivanenko,Excellent,Сидоренко Анастасія Андріївна
+REC0901,2024-04-16,ST063,K-23,DA-101,1,Late,66.9,Petrenko,Was late,Сидоренко Анастасія Андріївна
+REC0412,2024-05-10,ST063,K-23,DA-101,1,Present,57,Ivanenko,Good progress,Сидоренко Анастасія Андріївна
+REC1549,2024-05-30,ST063,K-23,DA-102,1,Absent,69.7,Ivanenko,Good progress,Сидоренко Анастасія Андріївна
+REC0492,2024-06-29,ST063,K-23,DA-101,1,Absent,60.6,Ivanenko,Good work,Сидоренко Анастасія Андріївна
+REC1334,2024-02-07,ST064,K-24,DA-101,1,Present,59.4,Ivanenko,Needs improvement,Ткаченко Олена Миколайович
+REC0456,2024-05-06,ST064,K-24,DA-101,1,Present,100,Petrenko,Additional task,Ткаченко Олена Миколайович
+REC1552,2024-06-03,ST064,K-24,DA-101,1,Absent,63.2,Ivanenko,Good progress,Ткаченко Олена Миколайович
+REC0103,2024-03-29,ST065,K-22,DA-101,1,Present,83.8,Ivanenko,Excellent,Сидоренко Максим Іванович
+REC0179,2024-04-23,ST065,K-22,DA-102,1,Present,58.4,Petrenko,Additional task,Сидоренко Максим Іванович
+REC1356,2024-04-30,ST065,K-22,DA-101,1,Present,69.9,Petrenko,Good progress,Сидоренко Максим Іванович
+REC0549,2024-05-03,ST065,K-22,DA-102,1,Present,100,Ivanenko,Good work,Сидоренко Максим Іванович
+REC0524,2024-03-19,ST066,K-21,DA-101,1,Present,63.5,Petrenko,Good work,Білик Дмитро Миколаївна
+REC0467,2024-04-07,ST066,K-21,DA-102,1,Late,78.7,Ivanenko,Good work,Білик Дмитро Миколаївна
+REC0116,2024-04-25,ST066,K-21,DA-101,1,Present,71.1,Ivanenko,Additional task,Білик Дмитро Миколаївна
+REC0319,2024-05-01,ST066,K-21,DA-102,1,Present,72.8,Petrenko,Additional task,Білик Дмитро Миколаївна
+REC0451,2024-06-19,ST066,K-21,DA-101,1,Present,62.7,Petrenko,Needs improvement,Білик Дмитро Миколаївна
+REC0936,2024-06-26,ST066,K-21,DA-102,1,Present,76,Ivanenko,Additional task,Білик Дмитро Миколаївна
+REC0091,2024-02-26,ST067,K-24,DA-101,1,Present,75,Ivanenko,Missed class,Бондаренко Олена Іванович
+REC1560,2024-02-29,ST067,K-24,DA-101,1,Present,75,Ivanenko,Additional task,Бондаренко Олена Іванович
+REC1578,2024-03-24,ST067,K-24,DA-101,1,Present,75,Petrenko,Good progress,Бондаренко Олена Іванович
+REC0404,2024-04-09,ST067,K-24,DA-101,1,Present,72.2,Petrenko,Good progress,Бондаренко Олена Іванович
+REC0940,2024-04-12,ST067,K-24,DA-101,1,Absent,84.3,Ivanenko,Excellent,Бондаренко Олена Іванович
+REC1075,2024-04-23,ST067,K-24,DA-101,1,Late,75,Ivanenko,Excellent,Бондаренко Олена Іванович
+REC1755,2024-02-16,ST068,K-22,DA-102,1,Present,74.4,Petrenko,No comment,Іваненко Владислав Олександрович
+REC1089,2024-05-13,ST068,K-22,DA-101,1,Present,80.9,Petrenko,Needs improvement,Іваненко Владислав Олександрович
+REC1137,2024-05-18,ST068,K-22,DA-102,1,Present,56.7,Ivanenko,Additional task,Іваненко Владислав Олександрович
+REC1179,2024-06-02,ST068,K-22,DA-101,1,Present,93.9,Ivanenko,Good work,Іваненко Владислав Олександрович
+REC0728,2024-02-15,ST069,K-21,DA-101,1,Present,73,Petrenko,Missed class,Савченко Дарина Андріївна
+REC0440,2024-03-13,ST069,K-21,DA-101,1,Present,73,Ivanenko,Excellent,Савченко Дарина Андріївна
+REC0409,2024-04-02,ST069,K-21,DA-102,1,Present,86.4,Ivanenko,Good work,Савченко Дарина Андріївна
+REC1168,2024-04-09,ST069,K-21,DA-101,1,Present,100,Ivanenko,Needs improvement,Савченко Дарина Андріївна
+REC0229,2024-04-24,ST069,K-21,DA-101,1,Present,100,Petrenko,Excellent,Савченко Дарина Андріївна
+REC1141,2024-04-26,ST069,K-21,DA-101,1,Present,68.3,Petrenko,Additional task,Савченко Дарина Андріївна
+REC0703,2024-06-19,ST069,K-21,DA-102,1,Present,82.6,Petrenko,Was late,Савченко Дарина Андріївна
+REC0810,2024-06-25,ST069,K-21,DA-101,1,Present,68.8,Ivanenko,Additional task,Савченко Дарина Андріївна
+REC1625,2024-04-25,ST070,K-22,DA-101,1,Present,97,Petrenko,Good progress,Олійник Олександр Іванівна
+REC0553,2024-05-01,ST070,K-22,DA-102,1,Present,81.3,Ivanenko,Good work,Олійник Олександр Іванівна
+REC0350,2024-02-08,ST071,K-21,DA-101,1,Late,76.5,Ivanenko,Excellent,Іваненко Іван Максимівна
+REC0789,2024-03-06,ST071,K-21,DA-101,1,Absent,73,Petrenko,Needs improvement,Іваненко Іван Максимівна
+REC0626,2024-05-06,ST071,K-21,DA-102,1,Absent,68.8,Petrenko,Was late,Іваненко Іван Максимівна
+REC1410,2024-05-10,ST071,K-21,DA-102,1,Present,60.1,Petrenko,Good work,Іваненко Іван Максимівна
+REC0148,2024-05-28,ST071,K-21,DA-102,1,Absent,54.9,Ivanenko,Good progress,Іваненко Іван Максимівна
+REC0355,2024-05-29,ST071,K-21,DA-102,1,Late,62,Ivanenko,Was late,Іваненко Іван Максимівна
+REC0099,2024-03-16,ST072,K-21,DA-102,1,Present,73,Ivanenko,Needs improvement,Ткаченко Андрій Дмитрович
+REC0722,2024-04-07,ST072,K-21,DA-102,1,Present,83.1,Petrenko,Needs improvement,Ткаченко Андрій Дмитрович
+REC0338,2024-04-18,ST072,K-21,DA-102,1,Present,57.7,Petrenko,Additional task,Ткаченко Андрій Дмитрович
+REC0704,2024-04-22,ST072,K-21,DA-102,1,Present,80.4,Ivanenko,Good work,Ткаченко Андрій Дмитрович
+REC1159,2024-06-02,ST072,K-21,DA-101,1,Present,62.9,Petrenko,Good work,Ткаченко Андрій Дмитрович
+REC1762,2024-06-18,ST072,K-21,DA-101,1,Present,73,Ivanenko,Good progress,Ткаченко Андрій Дмитрович
+REC1037,2024-03-02,ST073,K-22,DA-102,1,Late,78.5,Ivanenko,Needs improvement,Іваненко Анна Дмитрович
+REC1587,2024-03-17,ST073,K-22,DA-102,1,Absent,40.2,Ivanenko,Missed class,Іваненко Анна Дмитрович
+REC1715,2024-03-18,ST073,K-22,DA-102,1,Present,64,Ivanenko,Missed class,Іваненко Анна Дмитрович
+REC0105,2024-04-03,ST073,K-22,DA-101,1,Present,87.6,Petrenko,Was late,Іваненко Анна Дмитрович
+REC0294,2024-05-07,ST073,K-22,DA-101,2,Present,92,Ivanenko,Good work,Іваненко Анна Дмитрович
+REC1400,2024-03-19,ST074,K-21,DA-102,1,Present,63.8,Petrenko,Needs improvement,Ткаченко Марія Олександрівна
+REC0059,2024-04-04,ST074,K-21,DA-101,1,Present,49.8,Ivanenko,Good work,Ткаченко Марія Олександрівна
+REC1662,2024-04-24,ST074,K-21,DA-101,1,Present,73,Petrenko,Excellent,Ткаченко Марія Олександрівна
+REC0671,2024-05-08,ST074,K-21,DA-102,1,Present,94.8,Ivanenko,Needs improvement,Ткаченко Марія Олександрівна
+REC1699,2024-02-21,ST075,K-24,DA-101,1,Present,78.8,Petrenko,Good work,Лисенко Марія Дмитрівна
+REC0018,2024-04-12,ST075,K-24,DA-102,1,Present,61.6,Petrenko,No comment,Лисенко Марія Дмитрівна
+REC0874,2024-05-07,ST075,K-24,DA-102,1,Absent,78,Petrenko,Good work,Лисенко Марія Дмитрівна
+REC1281,2024-05-08,ST075,K-24,DA-102,2,Present,54,Petrenko,Missed class,Лисенко Марія Дмитрівна
+REC0266,2024-02-17,ST076,K-21,DA-102,1,Present,80.5,Petrenko,Additional task,Данилюк Анна Миколаївна
+REC0808,2024-03-04,ST076,K-21,DA-102,1,Present,54.4,Petrenko,Additional task,Данилюк Анна Миколаївна
+REC1667,2024-03-20,ST076,K-21,DA-102,1,Present,81.2,Petrenko,Needs improvement,Данилюк Анна Миколаївна
+REC1022,2024-04-26,ST076,K-21,DA-102,1,Present,76.3,Ivanenko,Was late,Данилюк Анна Миколаївна
+REC1451,2024-05-10,ST076,K-21,DA-102,1,Present,59.8,Ivanenko,Good progress,Данилюк Анна Миколаївна
+REC0855,2024-06-15,ST076,K-21,DA-101,1,Late,69.3,Petrenko,Excellent,Данилюк Анна Миколаївна
+REC0030,2024-03-03,ST077,K-22,DA-101,1,Present,96.4,Petrenko,Missed class,Іваненко Олександр Максимович
+REC1191,2024-03-06,ST077,K-22,DA-101,1,Present,77.8,Petrenko,Excellent,Іваненко Олександр Максимович
+REC0168,2024-03-07,ST077,K-22,DA-102,1,Absent,50.5,Ivanenko,Missed class,Іваненко Олександр Максимович
+REC0873,2024-04-11,ST077,K-22,DA-101,1,Present,68.8,Petrenko,Needs improvement,Іваненко Олександр Максимович
+REC1093,2024-04-18,ST077,K-22,DA-101,1,Absent,52.5,Ivanenko,Needs improvement,Іваненко Олександр Максимович
+REC0601,2024-05-09,ST077,K-22,DA-101,1,Present,74.2,Ivanenko,Good work,Іваненко Олександр Максимович
+REC1723,2024-05-26,ST077,K-22,DA-101,1,Present,73.6,Petrenko,Good progress,Іваненко Олександр Максимович
+REC0219,2024-02-28,ST078,K-21,DA-101,1,Present,49.6,Petrenko,No comment,Шевченко Богдан Андрійович
+REC1726,2024-05-12,ST078,K-21,DA-102,2,Present,61.3,Ivanenko,Missed class,Шевченко Богдан Андрійович
+REC1166,2024-05-15,ST078,K-21,DA-102,1,Late,65.3,Ivanenko,Good work,Шевченко Богдан Андрійович
+REC1303,2024-05-16,ST078,K-21,DA-101,1,Present,95.6,Ivanenko,Excellent,Шевченко Богдан Андрійович
+REC1074,2024-06-18,ST078,K-21,DA-102,1,Present,73,Ivanenko,Additional task,Шевченко Богдан Андрійович
+REC0332,2024-02-14,ST079,K-24,DA-101,1,Present,86.2,Petrenko,Was late,Поліщук Іван Владиславович
+REC1009,2024-03-15,ST079,K-24,DA-101,1,Present,43.8,Petrenko,Missed class,Поліщук Іван Владиславович
+REC0642,2024-04-27,ST079,K-24,DA-102,1,Absent,92.3,Ivanenko,Excellent,Поліщук Іван Владиславович
+REC0305,2024-04-28,ST079,K-24,DA-102,1,Late,75,Petrenko,Excellent,Поліщук Іван Владиславович
+REC1604,2024-06-20,ST079,K-24,DA-102,1,Present,75,Petrenko,Additional task,Поліщук Іван Владиславович
+REC0142,2024-06-30,ST079,K-24,DA-101,1,Present,64.8,Ivanenko,No comment,Поліщук Іван Владиславович
+REC0562,2024-02-19,ST080,K-23,DA-101,1,Absent,74.9,Ivanenko,Additional task,Петренко Анастасія Андріївна
+REC0809,2024-04-29,ST080,K-23,DA-102,2,Present,75.2,Ivanenko,Good progress,Петренко Анастасія Андріївна
+REC1771,2024-05-29,ST080,K-23,DA-102,2,Present,70.5,Petrenko,Missed class,Петренко Анастасія Андріївна
+REC0284,2024-06-11,ST080,K-23,DA-102,2,Present,76,Petrenko,Good work,Петренко Анастасія Андріївна
+REC0876,2024-06-13,ST080,K-23,DA-102,1,Absent,74.2,Ivanenko,Excellent,Петренко Анастасія Андріївна
+REC0772,2024-04-22,ST081,K-22,DA-102,1,Present,59.4,Ivanenko,Missed class,Білик Анастасія Андріївна
+REC0110,2024-04-24,ST081,K-22,DA-101,1,Present,64.3,Ivanenko,Needs improvement,Білик Анастасія Андріївна
+REC1601,2024-05-02,ST081,K-22,DA-102,1,Present,78.9,Petrenko,Additional task,Білик Анастасія Андріївна
+REC0114,2024-05-11,ST081,K-22,DA-101,2,Present,91.1,Ivanenko,Additional task,Білик Анастасія Андріївна
+REC0991,2024-05-11,ST081,K-22,DA-102,1,Present,73.2,Ivanenko,Additional task,Білик Анастасія Андріївна
+REC1102,2024-05-14,ST081,K-22,DA-102,1,Absent,74.2,Petrenko,Excellent,Білик Анастасія Андріївна
+REC1721,2024-05-29,ST082,K-23,DA-101,1,Absent,74.2,Petrenko,Additional task,Бондаренко Анастасія Іванович
+REC1015,2024-02-12,ST083,K-21,DA-101,1,Present,73,Petrenko,Good work,Данилюк Марія Максимівна
+REC0372,2024-02-16,ST083,K-21,DA-101,1,Present,68.4,Petrenko,Additional task,Данилюк Марія Максимівна
+REC0992,2024-02-16,ST083,K-21,DA-102,1,Present,65.9,Ivanenko,Excellent,Данилюк Марія Максимівна
+REC0154,2024-02-25,ST083,K-21,DA-101,1,Present,69.5,Ivanenko,Was late,Данилюк Марія Максимівна
+REC1320,2024-03-03,ST083,K-21,DA-101,1,Late,53.8,Petrenko,Excellent,Данилюк Марія Максимівна
+REC0077,2024-04-19,ST083,K-21,DA-102,1,Absent,92.3,Petrenko,Good progress,Данилюк Марія Максимівна
+REC0681,2024-05-13,ST083,K-21,DA-101,1,Present,95.1,Petrenko,Needs improvement,Данилюк Марія Максимівна
+REC1495,2024-06-17,ST083,K-21,DA-102,1,Present,75.2,Ivanenko,Additional task,Данилюк Марія Максимівна
+REC1146,2024-03-05,ST084,K-23,DA-102,1,Present,74.2,Petrenko,Missed class,Мельник Микола Дмитрович
+REC0049,2024-03-12,ST084,K-23,DA-101,1,Absent,82.8,Petrenko,Excellent,Мельник Микола Дмитрович
+REC1737,2024-04-01,ST084,K-23,DA-101,1,Absent,49.2,Ivanenko,Good work,Мельник Микола Дмитрович
+REC0289,2024-04-12,ST084,K-23,DA-101,1,Absent,80.5,Petrenko,Needs improvement,Мельник Микола Дмитрович
+REC1742,2024-03-06,ST085,K-21,DA-101,1,Present,66.5,Ivanenko,Good progress,Іваненко Вікторія Миколайович
+REC0025,2024-03-13,ST085,K-21,DA-101,1,Late,66.4,Ivanenko,No comment,Іваненко Вікторія Миколайович
+REC0061,2024-03-19,ST085,K-21,DA-101,2,Late,80.6,Petrenko,Missed class,Іваненко Вікторія Миколайович
+REC0370,2024-04-02,ST085,K-21,DA-101,1,Present,63.8,Petrenko,Good progress,Іваненко Вікторія Миколайович
+REC0935,2024-04-29,ST085,K-21,DA-101,1,Present,80.9,Petrenko,Excellent,Іваненко Вікторія Миколайович
+REC1188,2024-02-06,ST086,K-21,DA-102,1,Absent,75,Petrenko,No comment,Олійник Анна Дмитрович
+REC0578,2024-02-21,ST086,K-21,DA-102,1,Present,73.7,Petrenko,Was late,Олійник Анна Дмитрович
+REC0468,2024-04-13,ST086,K-21,DA-102,1,Present,89.9,Ivanenko,Good progress,Олійник Анна Дмитрович
+REC1562,2024-05-17,ST086,K-21,DA-101,2,Absent,59.5,Petrenko,No comment,Олійник Анна Дмитрович
+REC1064,2024-05-22,ST086,K-21,DA-101,1,Present,79.3,Ivanenko,Good work,Олійник Анна Дмитрович
+REC1789,2024-06-14,ST086,K-21,DA-101,2,Present,56.9,Petrenko,Needs improvement,Олійник Анна Дмитрович
+REC0130,2024-06-26,ST086,K-21,DA-101,1,Present,65,Petrenko,Missed class,Олійник Анна Дмитрович
+REC0787,2024-03-11,ST087,K-21,DA-101,1,Present,71.4,Ivanenko,Good work,Іваненко Дмитро Миколайович
+REC0014,2024-03-11,ST087,K-21,DA-101,1,Present,73.5,Petrenko,Good progress,Іваненко Дмитро Миколайович
+REC1428,2024-05-06,ST087,K-21,DA-102,2,Present,45,Petrenko,Needs improvement,Іваненко Дмитро Миколайович
+REC0375,2024-05-09,ST087,K-21,DA-101,1,Present,100,Petrenko,Missed class,Іваненко Дмитро Миколайович
+REC0138,2024-02-07,ST088,K-22,DA-101,2,Present,46.5,Ivanenko,Missed class,Клименко Олена Миколаївна
+REC0196,2024-05-08,ST088,K-22,DA-102,2,Present,79.55,Petrenko,Good work,Клименко Олена Миколаївна
+REC1132,2024-05-14,ST088,K-22,DA-102,1,Present,77.1,Ivanenko,Additional task,Клименко Олена Миколаївна
+REC0006,2024-05-27,ST088,K-22,DA-102,1,Late,74.5,Ivanenko,Needs improvement,Клименко Олена Миколаївна
+REC1402,2024-06-27,ST088,K-22,DA-101,1,Present,89.2,Ivanenko,Additional task,Клименко Олена Миколаївна
+REC1686,2024-03-19,ST089,K-22,DA-102,1,Present,85.5,Petrenko,Was late,Мороз Анна Миколайович
+REC0743,2024-03-25,ST089,K-22,DA-101,1,Present,42.8,Ivanenko,Was late,Мороз Анна Миколайович
+REC1580,2024-06-10,ST089,K-22,DA-101,1,Present,44,Ivanenko,Excellent,Мороз Анна Миколайович
+REC1501,2024-03-14,ST090,K-21,DA-102,1,Present,73,Ivanenko,No comment,Коваленко Іван Андрійович
+REC0288,2024-03-23,ST090,K-21,DA-102,1,Present,66.4,Petrenko,Needs improvement,Коваленко Іван Андрійович
+REC0534,2024-04-02,ST090,K-21,DA-102,1,Late,73,Petrenko,Excellent,Коваленко Іван Андрійович
+REC0581,2024-06-04,ST090,K-21,DA-101,1,Present,58.8,Ivanenko,Excellent,Коваленко Іван Андрійович
+REC0753,2024-06-20,ST090,K-21,DA-101,1,Absent,80.3,Petrenko,Additional task,Коваленко Іван Андрійович
+REC0835,2024-05-15,ST091,K-21,DA-102,1,Present,74.1,Ivanenko,Excellent,Ткаченко Катерина Дмитрівна
+REC0298,2024-06-02,ST091,K-21,DA-101,2,Late,100,Petrenko,Good progress,Ткаченко Катерина Дмитрівна
+REC1309,2024-02-29,ST092,K-22,DA-101,1,Absent,58.9,Petrenko,Missed class,Бондаренко Олександр Дмитрович
+REC0466,2024-03-05,ST092,K-22,DA-101,2,Present,66.6,Ivanenko,Missed class,Бондаренко Олександр Дмитрович
+REC1399,2024-04-07,ST092,K-22,DA-102,1,Present,75.7,Petrenko,Missed class,Бондаренко Олександр Дмитрович
+REC0007,2024-05-01,ST092,K-22,DA-101,1,Late,74.2,Petrenko,Additional task,Бондаренко Олександр Дмитрович
+REC0346,2024-06-02,ST092,K-22,DA-101,1,Late,74.2,Ivanenko,Needs improvement,Бондаренко Олександр Дмитрович
+REC0092,2024-06-21,ST092,K-22,DA-101,2,Absent,48.3,Ivanenko,No comment,Бондаренко Олександр Дмитрович
+REC0345,2024-05-05,ST093,K-22,DA-102,1,Present,78.6,Ivanenko,Missed class,Кравченко Софія Богданович
+REC1738,2024-05-08,ST093,K-22,DA-102,1,Present,100,Ivanenko,No comment,Кравченко Софія Богданович
+REC1565,2024-06-12,ST093,K-22,DA-102,1,Late,46.5,Ivanenko,Additional task,Кравченко Софія Богданович
+REC0721,2024-06-15,ST093,K-22,DA-102,1,Present,86.6,Ivanenko,Good work,Кравченко Софія Богданович
+REC1634,2024-02-12,ST094,K-21,DA-101,1,Present,63.7,Ivanenko,Excellent,Савченко Андрій Дмитрович
+REC0017,2024-03-20,ST094,K-21,DA-102,1,Absent,50.9,Ivanenko,Good work,Савченко Андрій Дмитрович
+REC1638,2024-05-19,ST094,K-21,DA-102,2,Absent,75,Ivanenko,Needs improvement,Савченко Андрій Дмитрович
+REC1025,2024-05-28,ST094,K-21,DA-102,1,Present,91.4,Petrenko,Was late,Савченко Андрій Дмитрович
+REC0854,2024-03-24,ST095,K-22,DA-102,1,Present,63.3,Ivanenko,Additional task,Ткаченко Микола Миколаївна
+REC1234,2024-03-25,ST095,K-22,DA-101,2,Late,81.4,Ivanenko,Good work,Ткаченко Микола Миколаївна
+REC1177,2024-04-28,ST095,K-22,DA-102,1,Present,74.2,Petrenko,Additional task,Ткаченко Микола Миколаївна
+REC1477,2024-05-02,ST095,K-22,DA-102,1,Present,59.5,Ivanenko,Needs improvement,Ткаченко Микола Миколаївна
+REC0628,2024-05-08,ST095,K-22,DA-101,1,Absent,72,Petrenko,Missed class,Ткаченко Микола Миколаївна
+REC0558,2024-05-13,ST095,K-22,DA-101,1,Absent,62.3,Ivanenko,Excellent,Ткаченко Микола Миколаївна
+REC0079,2024-06-26,ST095,K-22,DA-102,1,Absent,63.5,Petrenko,Good work,Ткаченко Микола Миколаївна
+REC1328,2024-02-15,ST096,K-23,DA-101,1,Present,81.6,Ivanenko,Good work,Данилюк Дмитро Олександрович
+REC0342,2024-06-27,ST096,K-23,DA-101,2,Present,77.3,Ivanenko,No comment,Данилюк Дмитро Олександрович
+REC1515,2024-02-06,ST097,K-21,DA-102,1,Present,80.5,Ivanenko,No comment,Бондаренко Олена Богданович
+REC0762,2024-02-25,ST097,K-21,DA-101,1,Present,58.5,Petrenko,Needs improvement,Бондаренко Олена Богданович
+REC1478,2024-03-04,ST097,K-21,DA-102,1,Absent,52.7,Petrenko,Excellent,Бондаренко Олена Богданович
+REC1694,2024-03-11,ST097,K-21,DA-101,1,Present,97.6,Ivanenko,Additional task,Бондаренко Олена Богданович
+REC0685,2024-03-20,ST097,K-21,DA-102,1,Present,65.1,Ivanenko,Was late,Бондаренко Олена Богданович
+REC1702,2024-05-30,ST097,K-21,DA-102,1,Present,100,Petrenko,Excellent,Бондаренко Олена Богданович
+REC0536,2024-02-09,ST098,K-24,DA-101,1,Present,72.8,Ivanenko,Good progress,Гнатюк Богдан Богданович
+REC1435,2024-03-23,ST098,K-24,DA-102,1,Present,75,Ivanenko,Excellent,Гнатюк Богдан Богданович
+REC0197,2024-04-15,ST098,K-24,DA-102,1,Late,68.8,Ivanenko,Excellent,Гнатюк Богдан Богданович
+REC0978,2024-05-22,ST098,K-24,DA-102,1,Present,71.7,Petrenko,No comment,Гнатюк Богдан Богданович
+REC0157,2024-05-24,ST098,K-24,DA-102,1,Present,69.1,Ivanenko,Additional task,Гнатюк Богдан Богданович
+REC0596,2024-06-13,ST098,K-24,DA-101,1,Absent,100,Petrenko,Needs improvement,Гнатюк Богдан Богданович
+REC0450,2024-06-25,ST098,K-24,DA-102,1,Absent,75,Ivanenko,Additional task,Гнатюк Богдан Богданович
+REC0098,2024-02-09,ST099,K-23,DA-102,1,Absent,73.9,Ivanenko,Needs improvement,Поліщук Олександр Іванівна
+REC1078,2024-03-26,ST099,K-23,DA-102,2,Present,74.6,Petrenko,Good progress,Поліщук Олександр Іванівна
+REC0616,2024-03-27,ST099,K-23,DA-101,1,Present,74.2,Ivanenko,Good work,Поліщук Олександр Іванівна
+REC0171,2024-03-30,ST100,K-23,DA-102,1,Present,69.7,Ivanenko,Good work,Мороз Богдан Іванівна
+REC0195,2024-04-04,ST100,K-23,DA-102,1,Present,86.5,Ivanenko,Excellent,Мороз Богдан Іванівна
+REC0292,2024-04-05,ST100,K-23,DA-102,1,Present,71.7,Ivanenko,Good work,Мороз Богдан Іванівна
+REC0600,2024-05-08,ST100,K-23,DA-101,2,Present,76,Petrenko,Needs improvement,Мороз Богдан Іванівна
+REC0997,2024-03-06,ST101,K-24,DA-101,1,Present,66.2,Ivanenko,Good work,Ткаченко Анна Олександрівна
+REC0236,2024-03-09,ST101,K-24,DA-102,1,Present,62.1,Petrenko,Good work,Ткаченко Анна Олександрівна
+REC0385,2024-05-14,ST101,K-24,DA-102,1,Present,75,Petrenko,Was late,Ткаченко Анна Олександрівна
+REC0900,2024-05-27,ST101,K-24,DA-102,1,Present,84.2,Petrenko,Excellent,Ткаченко Анна Олександрівна
+REC0113,2024-02-19,ST102,K-24,DA-102,1,Present,92.8,Petrenko,Needs improvement,Гнатюк Анна Миколайович
+REC0150,2024-02-26,ST102,K-24,DA-102,1,Late,86.1,Petrenko,Missed class,Гнатюк Анна Миколайович
+REC0654,2024-02-29,ST102,K-24,DA-101,1,Present,85.2,Petrenko,Was late,Гнатюк Анна Миколайович
+REC1636,2024-04-12,ST102,K-24,DA-102,1,Present,47.1,Petrenko,Good progress,Гнатюк Анна Миколайович
+REC1421,2024-05-09,ST102,K-24,DA-101,1,Late,70.1,Ivanenko,Good progress,Гнатюк Анна Миколайович
+REC1150,2024-05-17,ST102,K-24,DA-102,1,Present,75,Ivanenko,Good progress,Гнатюк Анна Миколайович
+REC0859,2024-05-21,ST102,K-24,DA-101,1,Present,64.4,Ivanenko,Good work,Гнатюк Анна Миколайович
+REC0335,2024-06-08,ST102,K-24,DA-101,2,Late,61,Ivanenko,Was late,Гнатюк Анна Миколайович
+REC0841,2024-02-14,ST103,K-24,DA-102,1,Absent,86.1,Ivanenko,Missed class,Романенко Марія Олександрович
+REC0437,2024-02-28,ST103,K-24,DA-101,1,Present,74.5,Ivanenko,Additional task,Романенко Марія Олександрович
+REC0379,2024-03-27,ST103,K-24,DA-102,1,Late,82.6,Petrenko,Needs improvement,Романенко Марія Олександрович
+REC0462,2024-04-17,ST103,K-24,DA-102,1,Absent,75.3,Petrenko,Was late,Романенко Марія Олександрович
+REC0903,2024-02-14,ST104,K-22,DA-102,1,Absent,61.3,Ivanenko,Excellent,Данилюк Владислав Олександрівна
+REC0223,2024-03-05,ST104,K-22,DA-101,1,Present,57.9,Petrenko,Good work,Данилюк Владислав Олександрівна
+REC1130,2024-03-14,ST104,K-22,DA-102,1,Present,100,Petrenko,Was late,Данилюк Владислав Олександрівна
+REC0174,2024-03-18,ST104,K-22,DA-101,1,Present,65.9,Ivanenko,Additional task,Данилюк Владислав Олександрівна
+REC0736,2024-04-09,ST104,K-22,DA-101,2,Present,79.6,Ivanenko,Good progress,Данилюк Владислав Олександрівна
+REC0824,2024-04-14,ST104,K-22,DA-102,1,Present,70.6,Ivanenko,Was late,Данилюк Владислав Олександрівна
+REC1627,2024-04-29,ST104,K-22,DA-101,1,Present,76.4,Ivanenko,Was late,Данилюк Владислав Олександрівна
+REC1044,2024-05-16,ST104,K-22,DA-102,1,Late,86.2,Ivanenko,Additional task,Данилюк Владислав Олександрівна
+REC1492,2024-06-16,ST104,K-22,DA-101,1,Present,88.4,Ivanenko,Additional task,Данилюк Владислав Олександрівна
+REC1619,2024-06-21,ST104,K-22,DA-101,1,Present,43.5,Ivanenko,Good work,Данилюк Владислав Олександрівна
+REC0502,2024-06-28,ST104,K-22,DA-101,2,Present,90.2,Petrenko,Excellent,Данилюк Владислав Олександрівна
+REC0216,2024-05-05,ST105,K-22,DA-102,1,Present,72,Petrenko,Additional task,Клименко Вікторія Дмитрівна
+REC1373,2024-02-11,ST106,K-22,DA-101,1,Absent,32.9,Ivanenko,Needs improvement,Савченко Анна Дмитрович
+REC1376,2024-03-04,ST106,K-22,DA-101,1,Late,75.3,Petrenko,Additional task,Савченко Анна Дмитрович
+REC0181,2024-03-10,ST106,K-22,DA-101,2,Present,72.1,Petrenko,Needs improvement,Савченко Анна Дмитрович
+REC0250,2024-03-18,ST106,K-22,DA-102,1,Present,62,Ivanenko,Missed class,Савченко Анна Дмитрович
+REC1776,2024-03-20,ST106,K-22,DA-101,1,Present,82.3,Ivanenko,Additional task,Савченко Анна Дмитрович
+REC1363,2024-04-16,ST106,K-22,DA-101,1,Absent,72.9,Petrenko,Excellent,Савченко Анна Дмитрович
+REC0652,2024-04-19,ST106,K-22,DA-102,1,Present,72.3,Petrenko,Good work,Савченко Анна Дмитрович
+REC0766,2024-06-12,ST106,K-22,DA-101,2,Present,79.2,Petrenko,Additional task,Савченко Анна Дмитрович
+REC0749,2024-03-28,ST107,K-24,DA-102,1,Present,83.7,Ivanenko,Missed class,Лисенко Микола Іванович
+REC0847,2024-04-13,ST107,K-24,DA-102,1,Present,41.3,Ivanenko,Missed class,Лисенко Микола Іванович
+REC1178,2024-05-06,ST107,K-24,DA-101,1,Absent,81.7,Ivanenko,Needs improvement,Лисенко Микола Іванович
+REC1433,2024-06-12,ST107,K-24,DA-101,1,Absent,53.1,Ivanenko,Good progress,Лисенко Микола Іванович
+REC0432,2024-06-19,ST107,K-24,DA-101,1,Late,65.9,Petrenko,Good progress,Лисенко Микола Іванович
+REC1269,2024-06-27,ST107,K-24,DA-101,1,Present,74.1,Ivanenko,Good progress,Лисенко Микола Іванович
+REC0381,2024-02-28,ST108,K-21,DA-101,1,Present,83.2,Petrenko,Was late,Сидоренко Іван Максимович
+REC0528,2024-04-24,ST108,K-21,DA-101,1,Present,76.4,Ivanenko,Good work,Сидоренко Іван Максимович
+REC1599,2024-05-19,ST108,K-21,DA-101,1,Present,89.4,Petrenko,Missed class,Сидоренко Іван Максимович
+REC0042,2024-04-18,ST109,K-21,DA-101,1,Present,86.4,Ivanenko,Additional task,Марченко Анна Максимович
+REC0680,2024-04-19,ST109,K-21,DA-101,2,Present,68.6,Ivanenko,Was late,Марченко Анна Максимович
+REC1039,2024-05-14,ST109,K-21,DA-102,1,Late,53.2,Ivanenko,Missed class,Марченко Анна Максимович
+REC1045,2024-02-15,ST110,K-21,DA-102,1,Present,84.4,Ivanenko,Good progress,Олійник Олександр Олександрович
+REC0980,2024-04-05,ST110,K-21,DA-101,1,Absent,53.4,Petrenko,Additional task,Олійник Олександр Олександрович
+REC0548,2024-04-16,ST110,K-21,DA-101,1,Present,65.5,Ivanenko,Good progress,Олійник Олександр Олександрович
+REC0814,2024-06-19,ST110,K-21,DA-101,1,Present,82.7,Petrenko,Excellent,Олійник Олександр Олександрович
+REC0662,2024-02-20,ST111,K-23,DA-102,1,Present,68.5,Petrenko,Good progress,Мороз Софія Олександрівна
+REC0994,2024-03-14,ST111,K-23,DA-101,1,Present,63.6,Petrenko,No comment,Мороз Софія Олександрівна
+REC1379,2024-03-23,ST111,K-23,DA-101,1,Present,57.2,Ivanenko,Excellent,Мороз Софія Олександрівна
+REC1654,2024-05-04,ST111,K-23,DA-101,1,Present,100,Petrenko,Was late,Мороз Софія Олександрівна
+REC1163,2024-06-08,ST111,K-23,DA-102,1,Present,64.2,Petrenko,Was late,Мороз Софія Олександрівна
+REC0248,2024-06-28,ST111,K-23,DA-101,1,Present,77.7,Ivanenko,Was late,Мороз Софія Олександрівна
+REC1337,2024-02-09,ST112,K-23,DA-101,1,Present,74.2,Petrenko,Good progress,Мельник Вікторія Андрійович
+REC0702,2024-03-02,ST112,K-23,DA-101,1,Present,88.5,Petrenko,Excellent,Мельник Вікторія Андрійович
+REC0137,2024-03-04,ST112,K-23,DA-102,1,Present,81.2,Petrenko,No comment,Мельник Вікторія Андрійович
+REC0277,2024-03-16,ST112,K-23,DA-101,1,Present,64.7,Ivanenko,No comment,Мельник Вікторія Андрійович
+REC0008,2024-04-26,ST112,K-23,DA-101,1,Present,79.7,Petrenko,Was late,Мельник Вікторія Андрійович
+REC1615,2024-06-23,ST112,K-23,DA-102,1,Absent,72.9,Ivanenko,Needs improvement,Мельник Вікторія Андрійович
+REC1086,2024-02-06,ST113,K-24,DA-101,2,Absent,83.5,Ivanenko,Excellent,Клименко Максим Андрійович
+REC0947,2024-02-24,ST113,K-24,DA-102,1,Present,95.2,Ivanenko,Additional task,Клименко Максим Андрійович
+REC1080,2024-04-07,ST113,K-24,DA-101,1,Present,45.1,Ivanenko,Was late,Клименко Максим Андрійович
+REC1576,2024-06-06,ST113,K-24,DA-101,1,Present,76.3,Petrenko,Missed class,Клименко Максим Андрійович
+REC0613,2024-02-05,ST114,K-22,DA-102,1,Present,81.2,Petrenko,Needs improvement,Петренко Микола Андрійович
+REC0922,2024-02-19,ST114,K-22,DA-101,1,Present,63.2,Ivanenko,Needs improvement,Петренко Микола Андрійович
+REC1520,2024-02-21,ST114,K-22,DA-102,1,Present,76.4,Petrenko,Good progress,Петренко Микола Андрійович
+REC1236,2024-02-23,ST114,K-22,DA-101,2,Present,83.7,Petrenko,Was late,Петренко Микола Андрійович
+REC0555,2024-02-28,ST114,K-22,DA-102,1,Absent,88.9,Petrenko,Good work,Петренко Микола Андрійович
+REC0344,2024-03-12,ST114,K-22,DA-102,1,Late,65.6,Ivanenko,Missed class,Петренко Микола Андрійович
+REC0247,2024-03-23,ST115,K-24,DA-102,1,Present,75,Petrenko,Good progress,Романенко Владислав Дмитрівна
+REC0489,2024-04-25,ST115,K-24,DA-102,2,Present,69,Ivanenko,Was late,Романенко Владислав Дмитрівна
+REC1136,2024-05-07,ST115,K-24,DA-102,1,Present,100,Ivanenko,Good work,Романенко Владислав Дмитрівна
+REC1398,2024-05-11,ST115,K-24,DA-102,1,Present,57.8,Petrenko,Good work,Романенко Владислав Дмитрівна
+REC0254,2024-05-19,ST115,K-24,DA-102,1,Late,75,Petrenko,Was late,Романенко Владислав Дмитрівна
+REC0173,2024-05-20,ST115,K-24,DA-102,2,Late,84.6,Petrenko,Was late,Романенко Владислав Дмитрівна
+REC1498,2024-05-31,ST115,K-24,DA-102,1,Absent,75,Petrenko,Additional task,Романенко Владислав Дмитрівна
+REC0300,2024-05-31,ST115,K-24,DA-102,2,Absent,48.7,Ivanenko,Was late,Романенко Владислав Дмитрівна
+REC1537,2024-06-18,ST115,K-24,DA-101,1,Absent,69.7,Petrenko,Good work,Романенко Владислав Дмитрівна
+REC1769,2024-02-14,ST116,K-24,DA-101,2,Absent,58,Ivanenko,Additional task,Гнатюк Іван Андріївна
+REC0448,2024-03-12,ST116,K-24,DA-102,1,Present,86.9,Ivanenko,Missed class,Гнатюк Іван Андріївна
+REC0051,2024-04-25,ST116,K-24,DA-101,1,Absent,75,Petrenko,Good work,Гнатюк Іван Андріївна
+REC0897,2024-04-26,ST116,K-24,DA-101,1,Present,83.9,Petrenko,Needs improvement,Гнатюк Іван Андріївна
+REC0983,2024-06-07,ST116,K-24,DA-102,1,Present,71.9,Ivanenko,Needs improvement,Гнатюк Іван Андріївна
+REC0791,2024-06-13,ST116,K-24,DA-102,1,Present,75,Ivanenko,Missed class,Гнатюк Іван Андріївна
+REC1767,2024-02-06,ST117,K-23,DA-102,1,Absent,65.7,Ivanenko,Was late,Клименко Олена Богданович
+REC0267,2024-03-26,ST117,K-23,DA-101,1,Present,79.5,Petrenko,Missed class,Клименко Олена Богданович
+REC0614,2024-02-21,ST118,K-24,DA-102,1,Present,66.8,Ivanenko,Needs improvement,Мельник Анастасія Іванович
+REC1680,2024-02-21,ST118,K-24,DA-102,1,Late,75,Ivanenko,Was late,Мельник Анастасія Іванович
+REC0727,2024-02-23,ST118,K-24,DA-102,1,Present,75,Ivanenko,Was late,Мельник Анастасія Іванович
+REC1798,2024-03-22,ST118,K-24,DA-102,1,Late,63.5,Petrenko,Excellent,Мельник Анастасія Іванович
+REC1276,2024-05-26,ST118,K-24,DA-101,1,Present,48.7,Ivanenko,Good progress,Мельник Анастасія Іванович
+REC1211,2024-06-25,ST118,K-24,DA-102,1,Present,90.8,Ivanenko,Missed class,Мельник Анастасія Іванович
+REC1184,2024-03-05,ST119,K-21,DA-102,1,Present,79.3,Ivanenko,Excellent,Сидоренко Анастасія Дмитрович
+REC0912,2024-03-08,ST119,K-21,DA-101,1,Present,72.6,Ivanenko,Missed class,Сидоренко Анастасія Дмитрович
+REC0592,2024-06-07,ST119,K-21,DA-101,1,Present,60.4,Ivanenko,Missed class,Сидоренко Анастасія Дмитрович
+REC0889,2024-06-19,ST119,K-21,DA-102,2,Present,68.3,Petrenko,Needs improvement,Сидоренко Анастасія Дмитрович
+REC1472,2024-06-27,ST119,K-21,DA-101,1,Present,100,Petrenko,Excellent,Сидоренко Анастасія Дмитрович
+REC0389,2024-04-08,ST120,K-22,DA-101,1,Present,80.4,Ivanenko,Was late,Петренко Андрій Богданович
+REC0494,2024-05-03,ST120,K-22,DA-102,1,Present,75.8,Ivanenko,Was late,Петренко Андрій Богданович
+REC0324,2024-05-08,ST120,K-22,DA-102,1,Present,100,Petrenko,Missed class,Петренко Андрій Богданович
+REC0986,2024-05-24,ST120,K-22,DA-102,1,Present,57.8,Ivanenko,Good progress,Петренко Андрій Богданович
+REC0627,2024-06-03,ST120,K-22,DA-102,1,Present,74.2,Ivanenko,Excellent,Петренко Андрій Богданович
+REC0445,2024-04-07,ST121,K-22,DA-102,1,Present,74.5,Petrenko,Good progress,Ткаченко Марія Андрійович
+REC0297,2024-03-07,ST122,K-24,DA-102,1,Present,46.5,Petrenko,Was late,Іваненко Владислав Максимівна
+REC0882,2024-04-15,ST122,K-24,DA-102,2,Present,73,Ivanenko,Good progress,Іваненко Владислав Максимівна
+REC0666,2024-04-19,ST122,K-24,DA-102,1,Present,75,Ivanenko,Good work,Іваненко Владислав Максимівна
+REC1467,2024-04-20,ST122,K-24,DA-101,1,Present,78.1,Ivanenko,Good progress,Іваненко Владислав Максимівна
+REC0617,2024-05-31,ST122,K-24,DA-101,1,Present,72.3,Petrenko,Good progress,Іваненко Владислав Максимівна
+REC0557,2024-02-25,ST123,K-21,DA-101,1,Late,77.9,Ivanenko,Missed class,Олійник Марія Дмитрович
+REC1440,2024-03-23,ST123,K-21,DA-102,1,Present,58.7,Ivanenko,Good work,Олійник Марія Дмитрович
+REC0816,2024-05-10,ST123,K-21,DA-101,1,Late,60.4,Ivanenko,Was late,Олійник Марія Дмитрович
+REC0670,2024-06-18,ST123,K-21,DA-102,1,Present,97.5,Petrenko,No comment,Олійник Марія Дмитрович
+REC1004,2024-03-19,ST124,K-22,DA-101,1,Present,73.8,Petrenko,Good work,Лисенко Анастасія Богданович
+REC1541,2024-04-28,ST124,K-22,DA-102,1,Late,73.6,Petrenko,Missed class,Лисенко Анастасія Богданович
+REC0836,2024-05-08,ST124,K-22,DA-101,2,Present,72.1,Petrenko,Good work,Лисенко Анастасія Богданович
+REC1444,2024-05-10,ST124,K-22,DA-102,1,Late,79.6,Ivanenko,Excellent,Лисенко Анастасія Богданович
+REC0701,2024-05-25,ST124,K-22,DA-102,1,Present,94.7,Ivanenko,No comment,Лисенко Анастасія Богданович
+REC0561,2024-06-05,ST124,K-22,DA-102,1,Present,47.2,Petrenko,Was late,Лисенко Анастасія Богданович
+REC0540,2024-06-14,ST124,K-22,DA-101,1,Present,66.7,Ivanenko,Missed class,Лисенко Анастасія Богданович
+REC0056,2024-06-15,ST124,K-22,DA-102,1,Present,74.2,Petrenko,Needs improvement,Лисенко Анастасія Богданович
+REC1473,2024-02-11,ST125,K-22,DA-101,1,Present,85.5,Ivanenko,Good progress,Коваленко Катерина Богданович
+REC1288,2024-03-01,ST125,K-22,DA-102,1,Present,100,Ivanenko,Good progress,Коваленко Катерина Богданович
+REC0010,2024-03-11,ST125,K-22,DA-102,1,Late,57.2,Petrenko,Good progress,Коваленко Катерина Богданович
+REC1131,2024-03-17,ST125,K-22,DA-101,1,Present,60.6,Petrenko,Good work,Коваленко Катерина Богданович
+REC1476,2024-05-17,ST125,K-22,DA-102,1,Present,63,Ivanenko,Missed class,Коваленко Катерина Богданович
+REC0927,2024-02-19,ST126,K-22,DA-101,1,Present,88.9,Ivanenko,Was late,Данилюк Владислав Дмитрівна
+REC1637,2024-02-20,ST126,K-22,DA-102,1,Present,78.2,Petrenko,No comment,Данилюк Владислав Дмитрівна
+REC0311,2024-03-19,ST126,K-22,DA-102,1,Present,100,Petrenko,Missed class,Данилюк Владислав Дмитрівна
+REC1049,2024-04-18,ST126,K-22,DA-101,1,Present,73.2,Ivanenko,Missed class,Данилюк Владислав Дмитрівна
+REC1052,2024-05-15,ST126,K-22,DA-102,1,Late,100,Petrenko,Good progress,Данилюк Владислав Дмитрівна
+REC1679,2024-06-10,ST126,K-22,DA-102,1,Present,73.9,Ivanenko,Needs improvement,Данилюк Владислав Дмитрівна
+REC0517,2024-02-11,ST127,K-23,DA-102,2,Late,66.2,Petrenko,Needs improvement,Романенко Олександр Дмитрович
+REC0172,2024-03-23,ST127,K-23,DA-101,2,Present,57.8,Ivanenko,Excellent,Романенко Олександр Дмитрович
+REC0870,2024-04-03,ST127,K-23,DA-102,1,Present,100,Ivanenko,Missed class,Романенко Олександр Дмитрович
+REC1195,2024-05-07,ST127,K-23,DA-102,1,Absent,64.6,Ivanenko,Excellent,Романенко Олександр Дмитрович
+REC0454,2024-05-14,ST127,K-23,DA-102,1,Present,77.2,Petrenko,Was late,Романенко Олександр Дмитрович
+REC1126,2024-06-03,ST127,K-23,DA-101,1,Absent,92,Ivanenko,Needs improvement,Романенко Олександр Дмитрович
+REC1708,2024-02-27,ST128,K-21,DA-101,1,Present,73,Petrenko,Good progress,Шевченко Дарина Максимівна
+REC0987,2024-03-27,ST128,K-21,DA-101,2,Present,67.6,Ivanenko,Good progress,Шевченко Дарина Максимівна
+REC0964,2024-03-29,ST128,K-21,DA-102,1,Present,65.7,Ivanenko,No comment,Шевченко Дарина Максимівна
+REC1120,2024-04-04,ST128,K-21,DA-101,1,Present,65.4,Ivanenko,No comment,Шевченко Дарина Максимівна
+REC0609,2024-04-09,ST128,K-21,DA-102,2,Present,88.7,Petrenko,Excellent,Шевченко Дарина Максимівна
+REC0959,2024-04-11,ST128,K-21,DA-101,1,Absent,81.2,Ivanenko,Good progress,Шевченко Дарина Максимівна
+REC0582,2024-04-18,ST128,K-21,DA-101,2,Present,71.4,Ivanenko,Good work,Шевченко Дарина Максимівна
+REC1426,2024-05-27,ST128,K-21,DA-102,1,Present,80.6,Ivanenko,Good progress,Шевченко Дарина Максимівна
+REC0001,2024-06-16,ST128,K-21,DA-102,1,Present,62.1,Petrenko,Needs improvement,Шевченко Дарина Максимівна
+REC0998,2024-04-18,ST129,K-23,DA-101,1,Present,65,Ivanenko,Good progress,Данилюк Владислав Владиславович
+REC0622,2024-04-29,ST129,K-23,DA-102,1,Present,53.4,Petrenko,Good work,Данилюк Владислав Владиславович
+REC0408,2024-05-04,ST129,K-23,DA-102,1,Present,57.6,Petrenko,Good progress,Данилюк Владислав Владиславович
+REC1180,2024-03-18,ST130,K-22,DA-101,2,Absent,94.1,Ivanenko,Additional task,Петренко Вікторія Миколайович
+REC0033,2024-03-30,ST130,K-22,DA-102,1,Absent,74.2,Petrenko,Missed class,Петренко Вікторія Миколайович
+REC0968,2024-05-02,ST130,K-22,DA-101,2,Present,78.9,Ivanenko,Good progress,Петренко Вікторія Миколайович
+REC1766,2024-05-06,ST130,K-22,DA-102,2,Present,70.2,Ivanenko,Needs improvement,Петренко Вікторія Миколайович
+REC0165,2024-05-29,ST130,K-22,DA-101,2,Present,79.55,Ivanenko,Good work,Петренко Вікторія Миколайович
+REC0083,2024-06-11,ST130,K-22,DA-102,1,Present,69.1,Petrenko,Additional task,Петренко Вікторія Миколайович
+REC1522,2024-06-30,ST130,K-22,DA-101,1,Present,75.3,Petrenko,Was late,Петренко Вікторія Миколайович
+REC1760,2024-04-03,ST131,K-23,DA-101,1,Present,49.4,Ivanenko,Good work,Мельник Катерина Миколайович
+REC1395,2024-05-20,ST131,K-23,DA-102,1,Absent,99.7,Ivanenko,Excellent,Мельник Катерина Миколайович
+REC1790,2024-06-06,ST132,K-24,DA-102,1,Late,91.7,Ivanenko,Good work,Данилюк Богдан Олександрович
+REC0075,2024-04-25,ST133,K-22,DA-101,1,Late,89.7,Ivanenko,Missed class,Мельник Андрій Богданович
+REC1797,2024-05-03,ST133,K-22,DA-101,1,Late,73.5,Petrenko,Missed class,Мельник Андрій Богданович
+REC0957,2024-05-08,ST133,K-22,DA-102,1,Present,68.5,Ivanenko,Good progress,Мельник Андрій Богданович
+REC1557,2024-03-19,ST134,K-21,DA-101,1,Present,73,Petrenko,Additional task,Лисенко Андрій Богданович
+REC0806,2024-04-01,ST134,K-21,DA-101,1,Present,74.3,Petrenko,Excellent,Лисенко Андрій Богданович
+REC1585,2024-04-15,ST134,K-21,DA-101,2,Present,86.5,Ivanenko,Missed class,Лисенко Андрій Богданович
+REC1393,2024-06-03,ST134,K-21,DA-102,1,Present,100,Ivanenko,Good work,Лисенко Андрій Богданович
+REC1018,2024-02-08,ST135,K-21,DA-101,1,Present,93.3,Petrenko,Missed class,Савченко Олена Максимівна
+REC0442,2024-03-20,ST135,K-21,DA-102,1,Present,100,Ivanenko,Additional task,Савченко Олена Максимівна
+REC1575,2024-03-31,ST135,K-21,DA-102,1,Late,69.6,Ivanenko,Good progress,Савченко Олена Максимівна
+REC1214,2024-05-20,ST135,K-21,DA-102,1,Late,73,Petrenko,Good work,Савченко Олена Максимівна
+REC0360,2024-06-29,ST135,K-21,DA-102,1,Present,87.9,Ivanenko,Good work,Савченко Олена Максимівна
+REC0938,2024-03-01,ST136,K-22,DA-102,1,Late,59.2,Ivanenko,Good work,Савченко Вікторія Миколаївна
+REC0896,2024-03-20,ST136,K-22,DA-101,2,Absent,79.55,Ivanenko,Good progress,Савченко Вікторія Миколаївна
+REC0605,2024-03-28,ST136,K-22,DA-101,1,Present,79.9,Ivanenko,Additional task,Савченко Вікторія Миколаївна
+REC1550,2024-04-24,ST136,K-22,DA-101,1,Present,71.5,Ivanenko,No comment,Савченко Вікторія Миколаївна
+REC1390,2024-05-18,ST136,K-22,DA-101,1,Absent,90.3,Ivanenko,Excellent,Савченко Вікторія Миколаївна
+REC0687,2024-02-20,ST137,K-24,DA-102,1,Present,95.9,Petrenko,Needs improvement,Савченко Андрій Максимович
+REC1504,2024-05-18,ST137,K-24,DA-102,1,Present,75,Petrenko,Excellent,Савченко Андрій Максимович
+REC0595,2024-05-27,ST137,K-24,DA-102,1,Absent,83.9,Petrenko,Was late,Савченко Андрій Максимович
+REC0566,2024-02-18,ST138,K-21,DA-102,1,Absent,65,Petrenko,No comment,Савченко Дмитро Миколаївна
+REC0759,2024-03-03,ST138,K-21,DA-102,1,Late,99.8,Ivanenko,Excellent,Савченко Дмитро Миколаївна
+REC0484,2024-03-09,ST138,K-21,DA-101,1,Present,73.8,Petrenko,Needs improvement,Савченко Дмитро Миколаївна
+REC0293,2024-04-18,ST138,K-21,DA-102,2,Present,81.5,Ivanenko,Needs improvement,Савченко Дмитро Миколаївна
+REC1315,2024-05-07,ST138,K-21,DA-101,1,Late,79.8,Ivanenko,Missed class,Савченко Дмитро Миколаївна
+REC0396,2024-05-11,ST138,K-21,DA-102,1,Present,86.5,Petrenko,Good progress,Савченко Дмитро Миколаївна
+REC1232,2024-05-12,ST138,K-21,DA-102,1,Absent,78.3,Petrenko,Excellent,Савченко Дмитро Миколаївна
+REC1745,2024-05-31,ST138,K-21,DA-102,1,Present,97.1,Petrenko,Was late,Савченко Дмитро Миколаївна
+REC1779,2024-06-18,ST138,K-21,DA-102,1,Present,74.8,Petrenko,Good work,Савченко Дмитро Миколаївна
+REC0123,2024-03-01,ST139,K-23,DA-101,1,Present,75.7,Petrenko,Good work,Поліщук Андрій Іванівна
+REC1741,2024-05-17,ST139,K-23,DA-102,1,Present,78.2,Ivanenko,Additional task,Поліщук Андрій Іванівна
+REC0804,2024-06-05,ST139,K-23,DA-102,1,Present,65.2,Ivanenko,No comment,Поліщук Андрій Іванівна
+REC0948,2024-02-08,ST140,K-23,DA-102,2,Absent,66.6,Petrenko,Was late,Шевченко Іван Богданович
+REC0767,2024-03-02,ST140,K-23,DA-101,2,Present,46.1,Ivanenko,Excellent,Шевченко Іван Богданович
+REC1067,2024-03-11,ST140,K-23,DA-101,1,Present,66.5,Ivanenko,Good work,Шевченко Іван Богданович
+REC1659,2024-05-08,ST140,K-23,DA-102,1,Present,90.1,Petrenko,Missed class,Шевченко Іван Богданович
+REC0695,2024-05-22,ST140,K-23,DA-101,1,Present,74.2,Ivanenko,Excellent,Шевченко Іван Богданович
+REC1061,2024-06-02,ST140,K-23,DA-102,1,Late,72.9,Petrenko,Additional task,Шевченко Іван Богданович
+REC0877,2024-06-09,ST140,K-23,DA-101,1,Present,46.6,Petrenko,Missed class,Шевченко Іван Богданович
+REC0312,2024-02-23,ST141,K-23,DA-101,1,Present,69.8,Petrenko,Needs improvement,Мельник Софія Олександрович
+REC1496,2024-05-06,ST141,K-23,DA-101,2,Late,76,Petrenko,Needs improvement,Мельник Софія Олександрович
+REC1594,2024-05-07,ST141,K-23,DA-101,1,Absent,74.8,Petrenko,Was late,Мельник Софія Олександрович
+REC1674,2024-05-20,ST141,K-23,DA-102,1,Present,74.2,Petrenko,Was late,Мельник Софія Олександрович
+REC1138,2024-05-29,ST141,K-23,DA-101,1,Present,75.4,Ivanenko,Was late,Мельник Софія Олександрович
+REC1097,2024-05-30,ST141,K-23,DA-101,2,Present,93.8,Petrenko,Excellent,Мельник Софія Олександрович
+REC1486,2024-06-10,ST141,K-23,DA-101,1,Present,52.2,Petrenko,Missed class,Мельник Софія Олександрович
+REC1553,2024-02-22,ST142,K-21,DA-101,1,Absent,49.1,Petrenko,Good work,Романенко Вікторія Максимович
+REC0547,2024-02-27,ST142,K-21,DA-101,1,Present,61.3,Petrenko,Additional task,Романенко Вікторія Максимович
+REC0037,2024-03-29,ST142,K-21,DA-101,1,Present,62.1,Ivanenko,Additional task,Романенко Вікторія Максимович
+REC0201,2024-04-20,ST142,K-21,DA-101,1,Present,84.8,Ivanenko,Excellent,Романенко Вікторія Максимович
+REC1343,2024-04-30,ST142,K-21,DA-102,1,Present,60.8,Ivanenko,Excellent,Романенко Вікторія Максимович
+REC1194,2024-05-08,ST142,K-21,DA-102,1,Present,75.7,Petrenko,Excellent,Романенко Вікторія Максимович
+REC1156,2024-03-08,ST143,K-21,DA-102,1,Late,75.3,Ivanenko,Good progress,Сидоренко Дарина Миколаївна
+REC1765,2024-06-14,ST143,K-21,DA-101,1,Absent,46,Ivanenko,Excellent,Сидоренко Дарина Миколаївна
+REC0124,2024-06-19,ST143,K-21,DA-102,1,Present,73,Petrenko,Additional task,Сидоренко Дарина Миколаївна
+REC1453,2024-03-02,ST144,K-21,DA-101,1,Present,57.5,Ivanenko,Good work,Бондаренко Микола Владиславович
+REC0115,2024-03-06,ST144,K-21,DA-102,1,Present,55.3,Petrenko,Was late,Бондаренко Микола Владиславович
+REC0135,2024-03-28,ST144,K-21,DA-101,1,Late,73,Petrenko,Was late,Бондаренко Микола Владиславович
+REC0282,2024-04-28,ST144,K-21,DA-101,1,Present,53.1,Petrenko,Good progress,Бондаренко Микола Владиславович
+REC0631,2024-05-16,ST144,K-21,DA-102,1,Absent,60.6,Petrenko,Was late,Бондаренко Микола Владиславович
+REC0898,2024-06-25,ST144,K-21,DA-101,2,Present,76.6,Petrenko,Good progress,Бондаренко Микола Владиславович
+REC1616,2024-03-12,ST145,K-23,DA-102,1,Present,65.7,Petrenko,Good work,Гнатюк Олена Богданович
+REC1346,2024-04-20,ST145,K-23,DA-102,1,Present,66.1,Ivanenko,Excellent,Гнатюк Олена Богданович
+REC1154,2024-06-23,ST145,K-23,DA-102,2,Late,76,Petrenko,No comment,Гнатюк Олена Богданович
+REC0088,2024-02-18,ST146,K-23,DA-102,1,Present,68,Ivanenko,Missed class,Савченко Богдан Максимович
+REC1024,2024-03-24,ST146,K-23,DA-101,1,Present,77.1,Ivanenko,Additional task,Савченко Богдан Максимович
+REC0597,2024-03-31,ST146,K-23,DA-101,1,Present,84.8,Ivanenko,Was late,Савченко Богдан Максимович
+REC0765,2024-04-22,ST146,K-23,DA-102,2,Present,80.9,Ivanenko,Missed class,Савченко Богдан Максимович
+REC1425,2024-05-31,ST146,K-23,DA-102,1,Present,74.7,Ivanenko,Good progress,Савченко Богдан Максимович
+REC1544,2024-06-24,ST146,K-23,DA-102,1,Late,74.3,Petrenko,Excellent,Савченко Богдан Максимович
+REC0849,2024-02-18,ST147,K-21,DA-102,2,Present,64.7,Petrenko,Excellent,Романенко Максим Іванівна
+REC1341,2024-02-21,ST147,K-21,DA-101,1,Late,79.1,Petrenko,Good progress,Романенко Максим Іванівна
+REC1104,2024-03-10,ST147,K-21,DA-102,1,Present,91.1,Ivanenko,Needs improvement,Романенко Максим Іванівна
+REC0170,2024-06-21,ST147,K-21,DA-101,1,Present,100,Ivanenko,Good work,Романенко Максим Іванівна
+REC0220,2024-02-12,ST148,K-21,DA-102,1,Present,73,Petrenko,Was late,Коваленко Софія Іванівна
+REC0191,2024-02-13,ST148,K-21,DA-102,2,Present,79.4,Ivanenko,Good work,Коваленко Софія Іванівна
+REC0729,2024-02-22,ST148,K-21,DA-102,2,Absent,100,Ivanenko,Good progress,Коваленко Софія Іванівна
+REC0568,2024-03-03,ST148,K-21,DA-102,1,Present,73.8,Ivanenko,Missed class,Коваленко Софія Іванівна
+REC0879,2024-05-02,ST148,K-21,DA-102,1,Present,50.6,Ivanenko,Good progress,Коваленко Софія Іванівна
+REC0623,2024-06-04,ST148,K-21,DA-101,1,Present,81.7,Ivanenko,Excellent,Коваленко Софія Іванівна
+REC1584,2024-06-11,ST148,K-21,DA-101,2,Present,58.9,Ivanenko,Needs improvement,Коваленко Софія Іванівна
+REC0977,2024-03-10,ST149,K-21,DA-101,1,Absent,67.6,Ivanenko,Missed class,Шевченко Дарина Миколаївна
+REC1401,2024-04-02,ST149,K-21,DA-102,1,Present,52.4,Petrenko,Good progress,Шевченко Дарина Миколаївна
+REC0829,2024-05-30,ST149,K-21,DA-101,1,Present,59.9,Ivanenko,Good progress,Шевченко Дарина Миколаївна
+REC0002,2024-03-08,ST150,K-23,DA-101,1,Absent,99.4,Ivanenko,Good progress,Білик Микола Іванівна
+REC1323,2024-02-26,ST151,K-24,DA-102,1,Absent,65.1,Ivanenko,Needs improvement,Іваненко Вікторія Дмитрівна
+REC1464,2024-02-29,ST151,K-24,DA-102,1,Absent,91.8,Petrenko,Additional task,Іваненко Вікторія Дмитрівна
+REC0633,2024-03-10,ST151,K-24,DA-102,2,Present,59.6,Ivanenko,Was late,Іваненко Вікторія Дмитрівна
+REC1799,2024-03-14,ST151,K-24,DA-102,1,Present,75,Ivanenko,Good progress,Іваненко Вікторія Дмитрівна
+REC0826,2024-04-30,ST151,K-24,DA-101,1,Absent,99.8,Petrenko,Good progress,Іваненко Вікторія Дмитрівна
+REC0674,2024-05-05,ST151,K-24,DA-101,1,Present,75.4,Ivanenko,Good progress,Іваненко Вікторія Дмитрівна
+REC0645,2024-05-19,ST151,K-24,DA-102,1,Present,63,Ivanenko,Good progress,Іваненко Вікторія Дмитрівна
+REC0950,2024-06-02,ST151,K-24,DA-102,1,Present,53.6,Ivanenko,Was late,Іваненко Вікторія Дмитрівна
+REC0475,2024-02-13,ST152,K-23,DA-102,1,Absent,100,Ivanenko,Good progress,Кравченко Микола Олександрович
+REC0435,2024-03-11,ST152,K-23,DA-102,2,Present,98.2,Petrenko,Excellent,Кравченко Микола Олександрович
+REC1744,2024-05-26,ST152,K-23,DA-101,1,Present,76.3,Ivanenko,Was late,Кравченко Микола Олександрович
+REC0296,2024-02-21,ST153,K-23,DA-102,1,Present,87.6,Ivanenko,Excellent,Лисенко Микола Дмитрович
+REC0477,2024-02-25,ST153,K-23,DA-102,1,Present,89.2,Ivanenko,Excellent,Лисенко Микола Дмитрович
+REC0508,2024-04-13,ST153,K-23,DA-102,1,Present,64.5,Ivanenko,Was late,Лисенко Микола Дмитрович
+REC1471,2024-05-27,ST153,K-23,DA-102,1,Present,74.2,Petrenko,Missed class,Лисенко Микола Дмитрович
+REC1613,2024-06-22,ST153,K-23,DA-102,1,Present,50.9,Ivanenko,Good progress,Лисенко Микола Дмитрович
+REC1240,2024-02-09,ST154,K-22,DA-102,1,Absent,67.9,Petrenko,Good progress,Олійник Микола Дмитрівна
+REC0720,2024-02-11,ST154,K-22,DA-101,2,Present,64.5,Petrenko,Needs improvement,Олійник Микола Дмитрівна
+REC0830,2024-03-31,ST154,K-22,DA-102,1,Present,71.8,Ivanenko,Good work,Олійник Микола Дмитрівна
+REC0368,2024-04-25,ST154,K-22,DA-101,1,Present,74.2,Petrenko,Excellent,Олійник Микола Дмитрівна
+REC0145,2024-02-12,ST155,K-24,DA-102,1,Present,65.6,Petrenko,Good progress,Іваненко Дарина Максимівна
+REC0958,2024-02-19,ST155,K-24,DA-101,1,Present,95.1,Ivanenko,Excellent,Іваненко Дарина Максимівна
+REC1062,2024-03-09,ST155,K-24,DA-101,1,Present,86.6,Ivanenko,Good progress,Іваненко Дарина Максимівна
+REC0618,2024-04-01,ST155,K-24,DA-101,1,Present,75,Ivanenko,Needs improvement,Іваненко Дарина Максимівна
+REC0624,2024-04-13,ST155,K-24,DA-102,1,Present,75,Ivanenko,Good progress,Іваненко Дарина Максимівна
+REC0416,2024-05-28,ST155,K-24,DA-102,1,Present,51.1,Petrenko,Missed class,Іваненко Дарина Максимівна
+REC0710,2024-06-18,ST155,K-24,DA-102,1,Absent,85.5,Ivanenko,Needs improvement,Іваненко Дарина Максимівна
+REC1260,2024-04-01,ST156,K-22,DA-101,1,Late,63,Petrenko,Additional task,Савченко Максим Богданович
+REC1318,2024-04-05,ST156,K-22,DA-101,1,Present,58.9,Petrenko,Additional task,Савченко Максим Богданович
+REC0939,2024-04-13,ST156,K-22,DA-101,1,Present,84.7,Ivanenko,Good work,Савченко Максим Богданович
+REC1222,2024-04-29,ST156,K-22,DA-101,1,Present,82.4,Ivanenko,Good work,Савченко Максим Богданович
+REC0529,2024-05-26,ST156,K-22,DA-101,1,Present,67.3,Petrenko,Additional task,Савченко Максим Богданович
+REC1588,2024-06-08,ST156,K-22,DA-102,1,Present,77.8,Petrenko,Excellent,Савченко Максим Богданович
+REC1079,2024-06-11,ST156,K-22,DA-102,2,Present,100,Ivanenko,Was late,Савченко Максим Богданович
+REC1489,2024-06-15,ST156,K-22,DA-102,1,Absent,54,Petrenko,No comment,Савченко Максим Богданович
+REC1554,2024-02-20,ST157,K-22,DA-102,1,Present,70.7,Ivanenko,Good progress,Іваненко Олена Андрійович
+REC0757,2024-03-19,ST157,K-22,DA-102,1,Present,35.2,Ivanenko,Additional task,Іваненко Олена Андрійович
+REC0839,2024-05-27,ST157,K-22,DA-102,1,Absent,74.2,Petrenko,Additional task,Іваненко Олена Андрійович
+REC0253,2024-06-03,ST157,K-22,DA-102,1,Present,67.5,Petrenko,Missed class,Іваненко Олена Андрійович
+REC0022,2024-02-19,ST158,K-23,DA-102,1,Present,38.8,Petrenko,Excellent,Данилюк Максим Олександрівна
+REC0699,2024-06-10,ST158,K-23,DA-101,1,Present,77,Petrenko,No comment,Данилюк Максим Олександрівна
+REC1548,2024-02-10,ST159,K-24,DA-101,1,Present,88.9,Petrenko,Excellent,Білик Анна Андрійович
+REC1511,2024-04-13,ST159,K-24,DA-102,1,Present,100,Ivanenko,Additional task,Білик Анна Андрійович
+REC0134,2024-06-06,ST159,K-24,DA-101,1,Present,76.5,Ivanenko,Good progress,Білик Анна Андрійович
+REC0771,2024-02-14,ST160,K-24,DA-102,1,Present,69.7,Petrenko,Good work,Ткаченко Олена Миколаївна
+REC0398,2024-02-24,ST160,K-24,DA-102,1,Present,99.2,Ivanenko,Needs improvement,Ткаченко Олена Миколаївна
+REC1248,2024-03-02,ST160,K-24,DA-101,2,Present,70.8,Petrenko,Additional task,Ткаченко Олена Миколаївна
+REC1672,2024-04-03,ST160,K-24,DA-102,1,Present,56.6,Petrenko,Needs improvement,Ткаченко Олена Миколаївна
+REC1216,2024-04-06,ST160,K-24,DA-102,1,Present,75,Ivanenko,Missed class,Ткаченко Олена Миколаївна
+REC1264,2024-05-16,ST160,K-24,DA-102,1,Present,75,Petrenko,Was late,Ткаченко Олена Миколаївна
+REC1484,2024-06-02,ST160,K-24,DA-102,1,Late,75,Petrenko,Good work,Ткаченко Олена Миколаївна
+REC0690,2024-06-22,ST160,K-24,DA-102,1,Present,63.2,Ivanenko,Good progress,Ткаченко Олена Миколаївна
+REC0583,2024-05-23,ST161,K-22,DA-102,1,Absent,100,Ivanenko,Excellent,Гнатюк Анна Максимович
+REC1577,2024-05-29,ST161,K-22,DA-102,1,Present,51.4,Ivanenko,Additional task,Гнатюк Анна Максимович
+REC0831,2024-06-14,ST161,K-22,DA-101,1,Late,68,Petrenko,Additional task,Гнатюк Анна Максимович
+REC1529,2024-04-19,ST162,K-23,DA-101,1,Present,70,Petrenko,Additional task,Коваленко Владислав Дмитрівна
+REC0858,2024-06-06,ST162,K-23,DA-102,1,Present,82.4,Ivanenko,Missed class,Коваленко Владислав Дмитрівна
+REC0495,2024-06-30,ST162,K-23,DA-102,1,Present,92.7,Petrenko,Good work,Коваленко Владислав Дмитрівна
+REC1598,2024-04-05,ST163,K-21,DA-101,1,Absent,65.9,Petrenko,Excellent,Ткаченко Богдан Андрійович
+REC0259,2024-04-26,ST163,K-21,DA-101,2,Present,76.6,Ivanenko,Good progress,Ткаченко Богдан Андрійович
+REC1414,2024-05-30,ST163,K-21,DA-101,1,Present,78.8,Ivanenko,Additional task,Ткаченко Богдан Андрійович
+REC0207,2024-04-24,ST164,K-24,DA-101,1,Present,65.2,Petrenko,Was late,Бондаренко Олена Миколайович
+REC1249,2024-06-06,ST164,K-24,DA-101,1,Present,44.8,Ivanenko,Good progress,Бондаренко Олена Миколайович
+REC0807,2024-02-22,ST165,K-21,DA-102,1,Present,61.7,Petrenko,Excellent,Романенко Максим Андріївна
+REC0460,2024-02-19,ST166,K-23,DA-102,1,Absent,61.2,Ivanenko,Missed class,Бондаренко Софія Дмитрівна
+REC1419,2024-02-27,ST166,K-23,DA-102,1,Present,72.6,Ivanenko,Additional task,Бондаренко Софія Дмитрівна
+REC0945,2024-04-04,ST166,K-23,DA-102,1,Present,79.4,Petrenko,Was late,Бондаренко Софія Дмитрівна
+REC0488,2024-05-08,ST166,K-23,DA-101,1,Present,69.2,Ivanenko,Good progress,Бондаренко Софія Дмитрівна
+REC0706,2024-05-20,ST166,K-23,DA-102,1,Present,61,Petrenko,Was late,Бондаренко Софія Дмитрівна
+REC1381,2024-02-11,ST167,K-24,DA-102,2,Present,66.4,Petrenko,Missed class,Лисенко Андрій Олександрович
+REC0577,2024-02-13,ST167,K-24,DA-101,1,Present,66.7,Petrenko,Was late,Лисенко Андрій Олександрович
+REC1621,2024-03-18,ST167,K-24,DA-101,1,Late,88,Ivanenko,Excellent,Лисенко Андрій Олександрович
+REC1268,2024-03-25,ST167,K-24,DA-102,1,Present,75,Petrenko,Additional task,Лисенко Андрій Олександрович
+REC0584,2024-04-02,ST167,K-24,DA-102,2,Present,70.8,Ivanenko,Was late,Лисенко Андрій Олександрович
+REC1375,2024-04-06,ST167,K-24,DA-101,1,Present,75,Ivanenko,Needs improvement,Лисенко Андрій Олександрович
+REC1695,2024-04-15,ST167,K-24,DA-102,1,Present,80.9,Ivanenko,Additional task,Лисенко Андрій Олександрович
+REC0067,2024-05-31,ST167,K-24,DA-102,1,Present,78.2,Ivanenko,Good progress,Лисенко Андрій Олександрович
+REC1055,2024-02-24,ST168,K-21,DA-101,1,Absent,65.7,Ivanenko,No comment,Гнатюк Іван Олександрівна
+REC0585,2024-04-30,ST168,K-21,DA-102,1,Present,71.8,Ivanenko,Was late,Гнатюк Іван Олександрівна
+REC1729,2024-05-07,ST169,K-24,DA-102,1,Present,90.9,Ivanenko,Good work,Савченко Дмитро Іванович
+REC1671,2024-06-06,ST169,K-24,DA-102,1,Absent,75.3,Petrenko,Additional task,Савченко Дмитро Іванович
+REC1085,2024-02-26,ST170,K-23,DA-101,1,Present,68.9,Petrenko,Good progress,Петренко Катерина Іванівна
+REC1593,2024-03-07,ST170,K-23,DA-102,2,Present,71.2,Petrenko,Good work,Петренко Катерина Іванівна
+REC1740,2024-03-08,ST170,K-23,DA-101,1,Present,68.9,Ivanenko,Needs improvement,Петренко Катерина Іванівна
+REC1246,2024-04-12,ST170,K-23,DA-102,1,Late,74.2,Ivanenko,Good progress,Петренко Катерина Іванівна
+REC0930,2024-04-15,ST170,K-23,DA-101,1,Present,91.5,Ivanenko,Good progress,Петренко Катерина Іванівна
+REC0076,2024-04-15,ST170,K-23,DA-102,2,Present,76,Ivanenko,Missed class,Петренко Катерина Іванівна
+REC0263,2024-04-16,ST170,K-23,DA-102,1,Absent,79.9,Petrenko,Good work,Петренко Катерина Іванівна
+REC0212,2024-04-22,ST170,K-23,DA-102,1,Present,80.5,Petrenko,Additional task,Петренко Катерина Іванівна
+REC1181,2024-05-12,ST170,K-23,DA-102,1,Present,49.2,Petrenko,No comment,Петренко Катерина Іванівна
+REC0748,2024-05-15,ST170,K-23,DA-102,1,Present,95.3,Petrenko,Missed class,Петренко Катерина Іванівна
+REC0856,2024-05-20,ST170,K-23,DA-102,1,Present,92.4,Ivanenko,Good work,Петренко Катерина Іванівна
+REC0118,2024-06-09,ST170,K-23,DA-101,2,Present,100,Petrenko,Good progress,Петренко Катерина Іванівна
+REC1110,2024-02-16,ST171,K-21,DA-101,1,Present,65,Ivanenko,Needs improvement,Мороз Олександр Владиславович
+REC1229,2024-03-02,ST171,K-21,DA-102,1,Present,73,Petrenko,Additional task,Мороз Олександр Владиславович
+REC0187,2024-03-08,ST171,K-21,DA-102,2,Present,71.2,Petrenko,Was late,Мороз Олександр Владиславович
+REC0512,2024-05-01,ST171,K-21,DA-101,1,Present,61.4,Petrenko,Needs improvement,Мороз Олександр Владиславович
+REC1457,2024-02-24,ST172,K-23,DA-102,1,Present,45.7,Ivanenko,Additional task,Гнатюк Владислав Іванович
+REC0020,2024-02-25,ST172,K-23,DA-102,2,Present,77.3,Petrenko,Good progress,Гнатюк Владислав Іванович
+REC0941,2024-03-09,ST172,K-23,DA-101,1,Present,74.2,Petrenko,Good progress,Гнатюк Владислав Іванович
+REC0599,2024-05-16,ST172,K-23,DA-101,1,Present,51.5,Ivanenko,Was late,Гнатюк Владислав Іванович
+REC1203,2024-06-05,ST172,K-23,DA-102,1,Present,62.1,Petrenko,Good work,Гнатюк Владислав Іванович
+REC1152,2024-02-27,ST173,K-21,DA-101,1,Present,50,Petrenko,Needs improvement,Гнатюк Андрій Максимівна
+REC0028,2024-02-29,ST173,K-21,DA-102,1,Present,61.9,Ivanenko,Additional task,Гнатюк Андрій Максимівна
+REC0074,2024-03-22,ST173,K-21,DA-102,2,Present,70.2,Petrenko,Additional task,Гнатюк Андрій Максимівна
+REC0281,2024-03-31,ST173,K-21,DA-102,1,Present,92.9,Ivanenko,Good progress,Гнатюк Андрій Максимівна
+REC1709,2024-06-04,ST173,K-21,DA-101,1,Absent,38.7,Ivanenko,Excellent,Гнатюк Андрій Максимівна
+REC1431,2024-02-22,ST174,K-23,DA-101,1,Present,76.5,Ivanenko,Excellent,Петренко Вікторія Андрійович
+REC0149,2024-03-26,ST174,K-23,DA-101,1,Present,74.2,Petrenko,No comment,Петренко Вікторія Андрійович
+REC0892,2024-04-20,ST174,K-23,DA-101,1,Present,73.2,Petrenko,Good progress,Петренко Вікторія Андрійович
+REC0405,2024-06-01,ST174,K-23,DA-102,1,Present,77,Ivanenko,Was late,Петренко Вікторія Андрійович
+REC0401,2024-06-28,ST174,K-23,DA-102,1,Present,83.8,Petrenko,Good work,Петренко Вікторія Андрійович
+REC0060,2024-04-25,ST175,K-24,DA-102,1,Absent,75,Ivanenko,Excellent,Савченко Максим Андріївна
+REC0811,2024-05-03,ST175,K-24,DA-101,2,Present,76.4,Ivanenko,Additional task,Савченко Максим Андріївна
+REC1144,2024-03-21,ST176,K-21,DA-101,2,Present,74.4,Petrenko,Excellent,Гнатюк Анна Дмитрович
+REC0745,2024-03-31,ST176,K-21,DA-102,1,Present,76.9,Ivanenko,Good work,Гнатюк Анна Дмитрович
+REC1017,2024-04-06,ST176,K-21,DA-102,2,Present,72.3,Ivanenko,Was late,Гнатюк Анна Дмитрович
+REC1452,2024-04-13,ST176,K-21,DA-101,1,Late,63.1,Ivanenko,No comment,Гнатюк Анна Дмитрович
+REC0507,2024-04-16,ST176,K-21,DA-101,1,Present,58,Petrenko,Needs improvement,Гнатюк Анна Дмитрович
+REC0544,2024-02-11,ST177,K-21,DA-102,1,Present,86.6,Ivanenko,No comment,Іваненко Дарина Дмитрівна
+REC1705,2024-02-18,ST177,K-21,DA-101,1,Absent,73,Petrenko,Good progress,Іваненко Дарина Дмитрівна
+REC1251,2024-03-29,ST177,K-21,DA-102,1,Present,65.8,Ivanenko,Good progress,Іваненко Дарина Дмитрівна
+REC0506,2024-04-09,ST177,K-21,DA-101,1,Present,76.3,Ivanenko,Good progress,Іваненко Дарина Дмитрівна
+REC0497,2024-05-17,ST177,K-21,DA-102,1,Absent,92.3,Petrenko,Additional task,Іваненко Дарина Дмитрівна
+REC0776,2024-06-29,ST177,K-21,DA-101,1,Present,58.5,Ivanenko,Excellent,Іваненко Дарина Дмитрівна
+REC1012,2024-06-05,ST178,K-24,DA-102,2,Present,47.9,Ivanenko,Additional task,Коваленко Софія Олександрівна
+REC0872,2024-03-05,ST179,K-24,DA-102,2,Present,66.1,Petrenko,Was late,Клименко Максим Богданович
+REC1103,2024-03-17,ST179,K-24,DA-101,2,Present,67.5,Ivanenko,No comment,Клименко Максим Богданович
+REC0775,2024-05-25,ST179,K-24,DA-101,1,Late,47.3,Petrenko,Needs improvement,Клименко Максим Богданович
+REC0151,2024-06-28,ST179,K-24,DA-101,1,Present,75,Petrenko,Additional task,Клименко Максим Богданович
+REC1271,2024-02-12,ST180,K-24,DA-101,1,Absent,51.6,Petrenko,Missed class,Іваненко Софія Миколаївна
+REC1490,2024-02-17,ST180,K-24,DA-101,2,Absent,90.1,Petrenko,Good work,Іваненко Софія Миколаївна
+REC1408,2024-03-05,ST180,K-24,DA-102,1,Present,75,Ivanenko,Excellent,Іваненко Софія Миколаївна
+REC1364,2024-03-16,ST180,K-24,DA-101,1,Present,74.4,Ivanenko,Additional task,Іваненко Софія Миколаївна
+REC0961,2024-03-18,ST180,K-24,DA-102,1,Late,100,Ivanenko,Missed class,Іваненко Софія Миколаївна
+REC0533,2024-04-23,ST180,K-24,DA-102,1,Present,59.8,Ivanenko,Was late,Іваненко Софія Миколаївна
+REC1209,2024-05-24,ST180,K-24,DA-101,2,Present,54.7,Ivanenko,Good work,Іваненко Софія Миколаївна
+REC0424,2024-06-28,ST180,K-24,DA-101,2,Present,49.5,Petrenko,Good progress,Іваненко Софія Миколаївна
+REC0039,2024-02-06,ST181,K-22,DA-101,1,Present,53.5,Ivanenko,No comment,Мельник Іван Максимович
+REC1590,2024-02-18,ST181,K-22,DA-102,1,Present,74.2,Petrenko,Good work,Мельник Іван Максимович
+REC0348,2024-03-14,ST181,K-22,DA-101,2,Present,79.55,Ivanenko,Good work,Мельник Іван Максимович
+REC0655,2024-04-19,ST181,K-22,DA-102,1,Present,87.9,Petrenko,Good work,Мельник Іван Максимович
+REC1051,2024-04-30,ST181,K-22,DA-102,1,Present,100,Ivanenko,Excellent,Мельник Іван Максимович
+REC0818,2024-05-02,ST181,K-22,DA-102,1,Present,83.1,Ivanenko,No comment,Мельник Іван Максимович
+REC0470,2024-05-21,ST181,K-22,DA-101,1,Present,74.2,Ivanenko,Good work,Мельник Іван Максимович
+REC0218,2024-05-21,ST181,K-22,DA-102,1,Present,55.1,Petrenko,Excellent,Мельник Іван Максимович
+REC1713,2024-05-24,ST181,K-22,DA-102,2,Present,75,Petrenko,No comment,Мельник Іван Максимович
+REC0981,2024-06-05,ST181,K-22,DA-102,1,Present,81.6,Petrenko,No comment,Мельник Іван Максимович
+REC1573,2024-03-22,ST182,K-23,DA-102,2,Late,79.7,Petrenko,Missed class,Мельник Олександр Богданович
+REC0683,2024-04-08,ST182,K-23,DA-102,2,Present,55.4,Ivanenko,Needs improvement,Мельник Олександр Богданович
+REC1394,2024-04-14,ST182,K-23,DA-102,1,Present,48.4,Petrenko,Missed class,Мельник Олександр Богданович
+REC0106,2024-05-28,ST182,K-23,DA-101,1,Absent,100,Petrenko,Additional task,Мельник Олександр Богданович
+REC0928,2024-06-05,ST182,K-23,DA-101,1,Late,80,Petrenko,Additional task,Мельник Олександр Богданович
+REC0651,2024-06-06,ST182,K-23,DA-102,1,Present,74.2,Petrenko,Was late,Мельник Олександр Богданович
+REC0887,2024-02-08,ST183,K-21,DA-102,2,Present,84.1,Ivanenko,Good work,Клименко Дарина Іванович
+REC0238,2024-02-11,ST183,K-21,DA-102,2,Present,63.4,Ivanenko,Good progress,Клименко Дарина Іванович
+REC0821,2024-02-18,ST183,K-21,DA-101,1,Late,57.3,Petrenko,Was late,Клименко Дарина Іванович
+REC0970,2024-02-20,ST183,K-21,DA-102,1,Late,71.8,Petrenko,Good progress,Клименко Дарина Іванович
+REC1409,2024-02-27,ST183,K-21,DA-101,1,Present,73,Petrenko,Needs improvement,Клименко Дарина Іванович
+REC1438,2024-03-04,ST183,K-21,DA-102,1,Present,68.9,Ivanenko,Good progress,Клименко Дарина Іванович
+REC0026,2024-03-05,ST183,K-21,DA-101,1,Present,73,Petrenko,Excellent,Клименко Дарина Іванович
+REC0473,2024-03-05,ST183,K-21,DA-102,1,Present,73,Petrenko,Was late,Клименко Дарина Іванович
+REC0047,2024-03-11,ST183,K-21,DA-101,2,Present,76.6,Ivanenko,Was late,Клименко Дарина Іванович
+REC0393,2024-04-12,ST183,K-21,DA-102,1,Present,58.3,Ivanenko,Was late,Клименко Дарина Іванович
+REC1786,2024-04-18,ST183,K-21,DA-102,1,Late,84.7,Petrenko,Good progress,Клименко Дарина Іванович
+REC1205,2024-04-30,ST183,K-21,DA-101,1,Present,73,Petrenko,Excellent,Клименко Дарина Іванович
+REC1282,2024-05-22,ST183,K-21,DA-101,1,Present,72.4,Petrenko,Good progress,Клименко Дарина Іванович
+REC1610,2024-06-13,ST183,K-21,DA-101,1,Present,93.6,Ivanenko,Excellent,Клименко Дарина Іванович
+REC0751,2024-06-25,ST183,K-21,DA-101,1,Present,95.2,Petrenko,Excellent,Клименко Дарина Іванович
+REC1519,2024-02-09,ST184,K-24,DA-102,1,Late,75,Petrenko,No comment,Поліщук Богдан Андрійович
+REC0819,2024-03-06,ST184,K-24,DA-102,1,Present,75.2,Ivanenko,Needs improvement,Поліщук Богдан Андрійович
+REC1332,2024-03-11,ST184,K-24,DA-101,1,Absent,60.8,Ivanenko,Was late,Поліщук Богдан Андрійович
+REC0063,2024-04-05,ST184,K-24,DA-101,2,Absent,68.9,Ivanenko,Needs improvement,Поліщук Богдан Андрійович
+REC1092,2024-04-20,ST184,K-24,DA-101,1,Present,67.6,Petrenko,Needs improvement,Поліщук Богдан Андрійович
+REC0560,2024-04-27,ST184,K-24,DA-102,1,Present,57.8,Ivanenko,Additional task,Поліщук Богдан Андрійович
+REC0382,2024-05-31,ST184,K-24,DA-101,1,Present,46.1,Ivanenko,Was late,Поліщук Богдан Андрійович
+REC0438,2024-06-20,ST184,K-24,DA-101,2,Present,74.9,Ivanenko,No comment,Поліщук Богдан Андрійович
+REC0843,2024-04-09,ST185,K-21,DA-102,1,Present,58,Petrenko,No comment,Коваленко Дарина Миколаївна
+REC0418,2024-04-09,ST185,K-21,DA-102,1,Late,95.2,Ivanenko,No comment,Коваленко Дарина Миколаївна
+REC0916,2024-05-31,ST185,K-21,DA-101,1,Absent,47.9,Ivanenko,Excellent,Коваленко Дарина Миколаївна
+REC0769,2024-06-02,ST185,K-21,DA-102,1,Late,63.8,Petrenko,Additional task,Коваленко Дарина Миколаївна
+REC1331,2024-06-05,ST185,K-21,DA-101,1,Absent,85,Ivanenko,Excellent,Коваленко Дарина Миколаївна
+REC0068,2024-06-18,ST185,K-21,DA-102,1,Absent,100,Petrenko,Good work,Коваленко Дарина Миколаївна
+REC0792,2024-03-03,ST186,K-22,DA-101,1,Present,95.3,Petrenko,Good progress,Марченко Дмитро Владиславович
+REC0850,2024-04-20,ST186,K-22,DA-102,1,Absent,59.3,Ivanenko,Excellent,Марченко Дмитро Владиславович
+REC1263,2024-04-26,ST186,K-22,DA-102,1,Present,80.8,Petrenko,Additional task,Марченко Дмитро Владиславович
+REC0156,2024-05-15,ST186,K-22,DA-102,1,Absent,74.2,Petrenko,Was late,Марченко Дмитро Владиславович
+REC1586,2024-05-13,ST187,K-22,DA-102,1,Present,74.2,Petrenko,Excellent,Гнатюк Анастасія Владиславович
+REC1128,2024-06-23,ST187,K-22,DA-101,1,Absent,50.5,Petrenko,Good progress,Гнатюк Анастасія Владиславович
+REC1148,2024-03-17,ST188,K-24,DA-101,1,Absent,68.8,Ivanenko,Missed class,Данилюк Богдан Миколаївна
+REC0615,2024-04-05,ST188,K-24,DA-102,1,Absent,89.6,Ivanenko,Was late,Данилюк Богдан Миколаївна
+REC1151,2024-04-06,ST188,K-24,DA-102,1,Present,63.3,Petrenko,Additional task,Данилюк Богдан Миколаївна
+REC1038,2024-04-07,ST188,K-24,DA-102,1,Present,75,Ivanenko,Was late,Данилюк Богдан Миколаївна
+REC0314,2024-04-25,ST188,K-24,DA-102,1,Present,75,Ivanenko,Good work,Данилюк Богдан Миколаївна
+REC1069,2024-04-25,ST188,K-24,DA-102,1,Present,75,Ivanenko,Needs improvement,Данилюк Богдан Миколаївна
+REC1639,2024-06-23,ST188,K-24,DA-101,2,Present,64,Petrenko,Excellent,Данилюк Богдан Миколаївна
+REC0032,2024-02-24,ST189,K-23,DA-101,2,Present,93.6,Ivanenko,Good progress,Мельник Владислав Олександрівна
+REC0572,2024-02-26,ST189,K-23,DA-102,1,Present,66.2,Petrenko,Good progress,Мельник Владислав Олександрівна
+REC1631,2024-05-09,ST189,K-23,DA-101,1,Late,74.2,Petrenko,Good progress,Мельник Владислав Олександрівна
+REC1750,2024-05-12,ST189,K-23,DA-102,1,Present,52,Ivanenko,Good progress,Мельник Владислав Олександрівна
+REC1710,2024-05-19,ST189,K-23,DA-101,1,Present,87.7,Ivanenko,Needs improvement,Мельник Владислав Олександрівна
+REC0679,2024-03-23,ST190,K-21,DA-102,1,Present,54,Ivanenko,Missed class,Коваленко Андрій Андріївна
+REC0249,2024-04-01,ST190,K-21,DA-101,1,Present,30.1,Ivanenko,Needs improvement,Коваленко Андрій Андріївна
+REC0774,2024-04-22,ST190,K-21,DA-101,1,Present,66.8,Ivanenko,Was late,Коваленко Андрій Андріївна
+REC1054,2024-05-14,ST190,K-21,DA-101,1,Present,88.3,Ivanenko,Was late,Коваленко Андрій Андріївна
+REC1617,2024-05-14,ST190,K-21,DA-102,1,Present,87.1,Ivanenko,Good progress,Коваленко Андрій Андріївна
+REC0331,2024-06-26,ST190,K-21,DA-101,1,Present,95.5,Ivanenko,Good progress,Коваленко Андрій Андріївна
+REC0869,2024-02-18,ST191,K-21,DA-101,1,Present,55.6,Ivanenko,Was late,Сидоренко Дмитро Максимівна
+REC0203,2024-02-25,ST191,K-21,DA-101,2,Present,80.1,Petrenko,Needs improvement,Сидоренко Дмитро Максимівна
+REC1491,2024-02-27,ST191,K-21,DA-101,1,Present,64.4,Ivanenko,Good work,Сидоренко Дмитро Максимівна
+REC1397,2024-03-11,ST191,K-21,DA-101,1,Present,74.7,Petrenko,Needs improvement,Сидоренко Дмитро Максимівна
+REC1483,2024-03-23,ST191,K-21,DA-102,1,Present,74,Ivanenko,Missed class,Сидоренко Дмитро Максимівна
+REC0790,2024-04-14,ST191,K-21,DA-101,2,Present,43.7,Petrenko,Was late,Сидоренко Дмитро Максимівна
+REC1060,2024-05-25,ST191,K-21,DA-102,1,Present,61.2,Ivanenko,Additional task,Сидоренко Дмитро Максимівна
+REC0214,2024-03-19,ST192,K-23,DA-101,1,Present,46.2,Ivanenko,Was late,Романенко Вікторія Олександрович
+REC1481,2024-04-02,ST192,K-23,DA-102,1,Late,59.2,Ivanenko,Was late,Романенко Вікторія Олександрович
+REC1189,2024-06-23,ST192,K-23,DA-101,1,Present,75.6,Petrenko,Needs improvement,Романенко Вікторія Олександрович
+REC0453,2024-02-16,ST193,K-24,DA-102,1,Absent,75,Ivanenko,Good work,Ткаченко Олександр Миколайович
+REC0895,2024-03-10,ST193,K-24,DA-101,1,Present,75,Petrenko,Excellent,Ткаченко Олександр Миколайович
+REC0862,2024-03-19,ST193,K-24,DA-101,1,Absent,94.5,Petrenko,Excellent,Ткаченко Олександр Миколайович
+REC1510,2024-03-28,ST193,K-24,DA-101,1,Present,74.1,Ivanenko,Was late,Ткаченко Олександр Миколайович
+REC1010,2024-04-17,ST193,K-24,DA-101,1,Absent,75,Ivanenko,Good progress,Ткаченко Олександр Миколайович
+REC0361,2024-04-27,ST193,K-24,DA-101,2,Present,71.7,Petrenko,Good work,Ткаченко Олександр Миколайович
+REC1153,2024-04-30,ST193,K-24,DA-101,1,Present,77,Petrenko,Good work,Ткаченко Олександр Миколайович
+REC1441,2024-06-08,ST193,K-24,DA-101,1,Present,80.4,Petrenko,Additional task,Ткаченко Олександр Миколайович
+REC0669,2024-06-12,ST193,K-24,DA-101,1,Present,79.7,Petrenko,Needs improvement,Ткаченко Олександр Миколайович
+REC1642,2024-06-23,ST193,K-24,DA-101,1,Absent,75,Petrenko,Good progress,Ткаченко Олександр Миколайович
+REC0443,2024-02-25,ST194,K-24,DA-101,1,Present,100,Petrenko,Was late,Ткаченко Вікторія Максимович
+REC1068,2024-02-25,ST194,K-24,DA-102,1,Late,75,Petrenko,Excellent,Ткаченко Вікторія Максимович
+REC0387,2024-03-15,ST194,K-24,DA-101,2,Present,70.8,Ivanenko,Additional task,Ткаченко Вікторія Максимович
+REC1391,2024-03-26,ST194,K-24,DA-101,1,Present,59.6,Ivanenko,Additional task,Ткаченко Вікторія Максимович
+REC0271,2024-04-01,ST194,K-24,DA-101,1,Late,99.8,Petrenko,Missed class,Ткаченко Вікторія Максимович
+REC0650,2024-04-03,ST194,K-24,DA-102,1,Present,64.2,Petrenko,Excellent,Ткаченко Вікторія Максимович
+REC0391,2024-04-09,ST194,K-24,DA-102,1,Present,75,Petrenko,No comment,Ткаченко Вікторія Максимович
+REC0252,2024-06-07,ST194,K-24,DA-102,1,Present,51.3,Petrenko,Additional task,Ткаченко Вікторія Максимович
+REC1436,2024-03-11,ST195,K-24,DA-102,1,Absent,75,Ivanenko,Good progress,Клименко Софія Дмитрівна
+REC1574,2024-04-13,ST195,K-24,DA-102,1,Present,83.6,Petrenko,Needs improvement,Клименко Софія Дмитрівна
+REC1294,2024-05-16,ST195,K-24,DA-102,1,Present,75,Petrenko,Missed class,Клименко Софія Дмитрівна
+REC1185,2024-05-16,ST195,K-24,DA-102,1,Present,81.8,Ivanenko,Missed class,Клименко Софія Дмитрівна
+REC0586,2024-05-19,ST195,K-24,DA-102,1,Present,71.1,Petrenko,Needs improvement,Клименко Софія Дмитрівна
+REC1133,2024-06-16,ST195,K-24,DA-102,2,Present,70.8,Ivanenko,Good work,Клименко Софія Дмитрівна
+REC0169,2024-06-25,ST195,K-24,DA-102,1,Present,87.8,Petrenko,Additional task,Клименко Софія Дмитрівна
+REC1355,2024-05-07,ST196,K-23,DA-102,1,Present,60.6,Ivanenko,Excellent,Гнатюк Іван Владиславович
+REC1227,2024-05-09,ST196,K-23,DA-102,1,Present,100,Ivanenko,Good work,Гнатюк Іван Владиславович
+REC1407,2024-06-09,ST196,K-23,DA-102,1,Present,91.7,Ivanenko,Good work,Гнатюк Іван Владиславович
+REC1570,2024-03-09,ST197,K-22,DA-101,1,Present,51.5,Ivanenko,Good work,Кравченко Анастасія Максимович
+REC0513,2024-02-27,ST198,K-22,DA-101,1,Absent,46.1,Ivanenko,Good progress,Іваненко Іван Владиславович
+REC1316,2024-04-21,ST198,K-22,DA-102,1,Present,86.3,Petrenko,Good work,Іваненко Іван Владиславович
+REC1524,2024-05-18,ST198,K-22,DA-102,1,Present,74.9,Petrenko,Excellent,Іваненко Іван Владиславович
+REC0860,2024-05-30,ST198,K-22,DA-101,1,Late,74.4,Petrenko,Good work,Іваненко Іван Владиславович
+REC0833,2024-06-07,ST198,K-22,DA-101,1,Present,83.4,Petrenko,Missed class,Іваненко Іван Владиславович
+REC0933,2024-02-15,ST199,K-24,DA-102,1,Absent,69.1,Petrenko,Additional task,Сидоренко Дарина Максимівна
+REC0641,2024-02-21,ST199,K-24,DA-102,1,Absent,75,Petrenko,Additional task,Сидоренко Дарина Максимівна
+REC0045,2024-03-01,ST199,K-24,DA-102,1,Present,73,Petrenko,Was late,Сидоренко Дарина Максимівна
+REC1778,2024-03-03,ST199,K-24,DA-101,1,Absent,78.5,Ivanenko,Was late,Сидоренко Дарина Максимівна
+REC1155,2024-04-19,ST199,K-24,DA-102,2,Present,65.2,Ivanenko,Needs improvement,Сидоренко Дарина Максимівна
+REC1632,2024-04-27,ST199,K-24,DA-101,1,Present,75,Ivanenko,Missed class,Сидоренко Дарина Максимівна
+REC0525,2024-05-20,ST199,K-24,DA-102,1,Present,100,Petrenko,Needs improvement,Сидоренко Дарина Максимівна
+REC0834,2024-06-24,ST199,K-24,DA-101,1,Present,75,Petrenko,Was late,Сидоренко Дарина Максимівна
+REC1270,2024-03-20,ST200,K-21,DA-101,1,Present,60.5,Petrenko,Was late,Данилюк Іван Дмитрівна
+REC0474,2024-04-11,ST200,K-21,DA-102,1,Present,56.6,Petrenko,No comment,Данилюк Іван Дмитрівна
+REC0023,2024-05-25,ST200,K-21,DA-101,1,Late,68.6,Petrenko,Additional task,Данилюк Іван Дмитрівна
+REC0714,2024-02-28,ST201,K-22,DA-102,1,Late,74.3,Ivanenko,Good work,Савченко Олександр Дмитрович
+REC0133,2024-05-16,ST201,K-22,DA-101,1,Late,74.2,Petrenko,Needs improvement,Савченко Олександр Дмитрович
+REC0712,2024-05-27,ST201,K-22,DA-102,1,Present,55.4,Ivanenko,Additional task,Савченко Олександр Дмитрович
+REC0993,2024-06-01,ST201,K-22,DA-102,1,Present,75,Petrenko,Excellent,Савченко Олександр Дмитрович
+REC0205,2024-06-11,ST201,K-22,DA-101,1,Absent,46.6,Petrenko,No comment,Савченко Олександр Дмитрович
+REC1170,2024-06-18,ST201,K-22,DA-102,1,Present,73.8,Petrenko,No comment,Савченко Олександр Дмитрович
+REC0455,2024-02-05,ST202,K-23,DA-102,1,Present,91.2,Ivanenko,Additional task,Шевченко Владислав Владиславович
+REC1417,2024-03-05,ST202,K-23,DA-102,1,Present,70.7,Ivanenko,Needs improvement,Шевченко Владислав Владиславович
+REC0522,2024-06-26,ST202,K-23,DA-102,1,Absent,53.8,Ivanenko,Additional task,Шевченко Владислав Владиславович
+REC0206,2024-02-22,ST203,K-22,DA-101,1,Present,79.1,Ivanenko,Additional task,Романенко Олена Богданович
+REC0871,2024-03-25,ST203,K-22,DA-102,1,Present,39.9,Ivanenko,Excellent,Романенко Олена Богданович
+REC1369,2024-05-01,ST203,K-22,DA-102,1,Present,44.8,Petrenko,Good work,Романенко Олена Богданович
+REC1682,2024-05-07,ST203,K-22,DA-102,1,Absent,89.7,Petrenko,Was late,Романенко Олена Богданович
+REC0541,2024-02-14,ST204,K-23,DA-102,1,Present,71.2,Ivanenko,Needs improvement,Олійник Дарина Андріївна
+REC1059,2024-04-09,ST204,K-23,DA-101,1,Absent,71.7,Ivanenko,Good work,Олійник Дарина Андріївна
+REC1096,2024-05-12,ST204,K-23,DA-102,1,Absent,63.2,Ivanenko,Missed class,Олійник Дарина Андріївна
+REC1620,2024-05-22,ST204,K-23,DA-101,1,Present,66.8,Ivanenko,Needs improvement,Олійник Дарина Андріївна
+REC0136,2024-03-06,ST205,K-22,DA-102,1,Present,86.3,Petrenko,Missed class,Ткаченко Владислав Іванович
+REC0255,2024-03-25,ST205,K-22,DA-102,1,Present,84.3,Ivanenko,Good work,Ткаченко Владислав Іванович
+REC0813,2024-04-03,ST205,K-22,DA-102,1,Present,73.7,Ivanenko,Excellent,Ткаченко Владислав Іванович
+REC0482,2024-04-30,ST205,K-22,DA-101,1,Present,87.9,Petrenko,Was late,Ткаченко Владислав Іванович
+REC1143,2024-06-01,ST205,K-22,DA-101,2,Present,79.55,Ivanenko,Good work,Ткаченко Владислав Іванович
+REC0353,2024-06-20,ST205,K-22,DA-101,1,Present,73.6,Ivanenko,Good work,Ткаченко Владислав Іванович
+REC0604,2024-06-24,ST205,K-22,DA-102,1,Absent,77.4,Petrenko,Additional task,Ткаченко Владислав Іванович
+REC0498,2024-03-31,ST206,K-21,DA-102,1,Present,100,Petrenko,Good progress,Білик Анастасія Дмитрович
+REC1048,2024-05-06,ST206,K-21,DA-102,2,Present,55.9,Petrenko,Additional task,Білик Анастасія Дмитрович
+REC1034,2024-05-08,ST206,K-21,DA-101,2,Present,76.1,Petrenko,Good progress,Білик Анастасія Дмитрович
+REC0286,2024-05-19,ST206,K-21,DA-101,1,Present,100,Ivanenko,Good progress,Білик Анастасія Дмитрович
+REC1669,2024-05-29,ST206,K-21,DA-101,1,Absent,81.5,Petrenko,Was late,Білик Анастасія Дмитрович
+REC0742,2024-06-10,ST206,K-21,DA-101,2,Absent,60.3,Ivanenko,Additional task,Білик Анастасія Дмитрович
+REC0093,2024-06-14,ST206,K-21,DA-102,1,Late,97.3,Ivanenko,Good work,Білик Анастасія Дмитрович
+REC1330,2024-06-25,ST206,K-21,DA-101,1,Late,61.1,Petrenko,Additional task,Білик Анастасія Дмитрович
+REC1482,2024-02-27,ST207,K-24,DA-101,1,Present,98.6,Petrenko,Good progress,Шевченко Дмитро Олександрівна
+REC1564,2024-04-13,ST207,K-24,DA-101,1,Present,73.1,Petrenko,Missed class,Шевченко Дмитро Олександрівна
+REC1459,2024-04-24,ST207,K-24,DA-102,1,Present,75,Petrenko,Was late,Шевченко Дмитро Олександрівна
+REC1220,2024-05-04,ST207,K-24,DA-102,1,Present,75,Petrenko,Was late,Шевченко Дмитро Олександрівна
+REC0735,2024-05-19,ST207,K-24,DA-101,1,Present,50.6,Petrenko,Good progress,Шевченко Дмитро Олександрівна
+REC0121,2024-03-16,ST208,K-22,DA-101,2,Present,75.6,Ivanenko,Excellent,Білик Олександр Максимович
+REC0962,2024-04-28,ST208,K-22,DA-101,1,Absent,100,Ivanenko,Excellent,Білик Олександр Максимович
+REC0982,2024-05-02,ST208,K-22,DA-101,1,Absent,71.3,Ivanenko,Good work,Білик Олександр Максимович
+REC0665,2024-05-20,ST208,K-22,DA-102,1,Absent,81.1,Ivanenko,Excellent,Білик Олександр Максимович
+REC1223,2024-06-11,ST208,K-22,DA-102,1,Present,99,Petrenko,Was late,Білик Олександр Максимович
+REC1368,2024-02-28,ST209,K-21,DA-101,1,Present,76.2,Petrenko,Missed class,Бондаренко Максим Олександрович
+REC0428,2024-03-03,ST209,K-21,DA-102,1,Absent,53.8,Ivanenko,Additional task,Бондаренко Максим Олександрович
+REC0224,2024-03-18,ST209,K-21,DA-101,1,Absent,71.6,Ivanenko,Good work,Бондаренко Максим Олександрович
+REC0730,2024-02-05,ST210,K-23,DA-101,1,Absent,68.7,Ivanenko,Additional task,Олійник Анна Олександрівна
+REC1676,2024-02-20,ST210,K-23,DA-101,1,Present,46.9,Petrenko,Good work,Олійник Анна Олександрівна
+REC1210,2024-03-01,ST210,K-23,DA-102,1,Present,74.2,Ivanenko,Was late,Олійник Анна Олександрівна
+REC0363,2024-03-09,ST210,K-23,DA-101,1,Absent,74.2,Petrenko,Good work,Олійник Анна Олександрівна
+REC1751,2024-03-13,ST210,K-23,DA-102,1,Present,74.2,Petrenko,Needs improvement,Олійник Анна Олександрівна
+REC0413,2024-03-24,ST210,K-23,DA-101,1,Present,45.7,Ivanenko,Excellent,Олійник Анна Олександрівна
+REC0620,2024-05-02,ST210,K-23,DA-101,1,Present,74.2,Ivanenko,Good work,Олійник Анна Олександрівна
+REC0527,2024-02-19,ST211,K-23,DA-101,2,Present,93.1,Petrenko,Good work,Савченко Анна Максимович
+REC0269,2024-04-29,ST211,K-23,DA-102,1,Late,83.9,Ivanenko,Excellent,Савченко Анна Максимович
+REC1469,2024-05-11,ST211,K-23,DA-101,1,Present,79.6,Petrenko,No comment,Савченко Анна Максимович
+REC0999,2024-05-18,ST211,K-23,DA-101,1,Present,74.2,Ivanenko,Needs improvement,Савченко Анна Максимович
+REC0966,2024-03-23,ST212,K-23,DA-102,1,Present,72,Petrenko,Additional task,Романенко Катерина Андрійович
+REC1358,2024-04-30,ST212,K-23,DA-102,1,Present,81.3,Petrenko,Good progress,Романенко Катерина Андрійович
+REC0551,2024-02-27,ST213,K-24,DA-102,1,Present,74.7,Ivanenko,Needs improvement,Олійник Софія Андріївна
+REC0516,2024-02-29,ST213,K-24,DA-101,1,Late,100,Petrenko,Was late,Олійник Софія Андріївна
+REC1591,2024-03-21,ST213,K-24,DA-102,1,Present,95.1,Ivanenko,Was late,Олійник Софія Андріївна
+REC1057,2024-04-14,ST213,K-24,DA-102,1,Present,60.4,Ivanenko,Needs improvement,Олійник Софія Андріївна
+REC1474,2024-05-05,ST213,K-24,DA-102,1,Present,75,Petrenko,Good progress,Олійник Софія Андріївна
+REC0329,2024-06-24,ST213,K-24,DA-102,1,Present,77.7,Petrenko,Needs improvement,Олійник Софія Андріївна
+REC0865,2024-02-16,ST214,K-23,DA-101,1,Present,70.6,Ivanenko,Good work,Петренко Владислав Владиславович
+REC1183,2024-03-18,ST214,K-23,DA-101,1,Present,52.7,Petrenko,Additional task,Петренко Владислав Владиславович
+REC0985,2024-05-11,ST214,K-23,DA-101,1,Absent,78.7,Ivanenko,Excellent,Петренко Владислав Владиславович
+REC0531,2024-02-14,ST215,K-21,DA-102,1,Late,64.2,Petrenko,Needs improvement,Шевченко Андрій Андріївна
+REC0433,2024-02-14,ST215,K-21,DA-102,1,Present,66.6,Petrenko,Good work,Шевченко Андрій Андріївна
+REC0924,2024-04-15,ST215,K-21,DA-101,1,Late,74,Ivanenko,Additional task,Шевченко Андрій Андріївна
+REC0893,2024-04-19,ST215,K-21,DA-102,1,Present,92.5,Petrenko,Missed class,Шевченко Андрій Андріївна
+REC0526,2024-05-09,ST215,K-21,DA-102,1,Present,85.6,Ivanenko,Was late,Шевченко Андрій Андріївна
+REC1725,2024-05-30,ST215,K-21,DA-101,1,Present,47.9,Ivanenko,Needs improvement,Шевченко Андрій Андріївна
+REC0349,2024-02-14,ST216,K-23,DA-102,1,Present,93,Petrenko,Good work,Савченко Дарина Андрійович
+REC1135,2024-03-13,ST216,K-23,DA-102,1,Present,59.7,Ivanenko,Good progress,Савченко Дарина Андрійович
+REC0861,2024-05-15,ST216,K-23,DA-101,1,Present,89.7,Ivanenko,Needs improvement,Савченко Дарина Андрійович
+REC1731,2024-02-24,ST217,K-24,DA-102,1,Present,58.8,Ivanenko,Good work,Гнатюк Максим Олександрович
+REC0768,2024-03-02,ST217,K-24,DA-102,1,Present,87.2,Petrenko,Good progress,Гнатюк Максим Олександрович
+REC0510,2024-03-20,ST217,K-24,DA-101,1,Late,75,Petrenko,Excellent,Гнатюк Максим Олександрович
+REC1677,2024-06-01,ST217,K-24,DA-102,1,Present,60,Petrenko,Good progress,Гнатюк Максим Олександрович
+REC1366,2024-06-12,ST217,K-24,DA-102,1,Present,70.6,Ivanenko,Was late,Гнатюк Максим Олександрович
+REC1041,2024-02-23,ST218,K-21,DA-102,1,Present,91.3,Petrenko,Excellent,Данилюк Вікторія Миколаївна
+REC0016,2024-02-26,ST218,K-21,DA-102,1,Present,86.9,Ivanenko,Good progress,Данилюк Вікторія Миколаївна
+REC0316,2024-03-13,ST218,K-21,DA-102,1,Present,64.6,Ivanenko,Good progress,Данилюк Вікторія Миколаївна
+REC1800,2024-03-30,ST218,K-21,DA-101,2,Late,73.5,Petrenko,No comment,Данилюк Вікторія Миколаївна
+REC1712,2024-05-05,ST218,K-21,DA-101,1,Present,59.1,Ivanenko,Missed class,Данилюк Вікторія Миколаївна
+REC0139,2024-05-13,ST218,K-21,DA-102,1,Present,60.7,Petrenko,Missed class,Данилюк Вікторія Миколаївна
+REC0090,2024-05-26,ST218,K-21,DA-101,1,Present,28.6,Ivanenko,Missed class,Данилюк Вікторія Миколаївна
+REC1147,2024-02-20,ST219,K-21,DA-101,1,Present,70.8,Ivanenko,Good work,Мельник Анна Максимович
+REC0057,2024-04-22,ST219,K-21,DA-102,1,Late,69.7,Petrenko,Good progress,Мельник Анна Максимович
+REC0012,2024-05-17,ST219,K-21,DA-102,1,Late,62.4,Ivanenko,No comment,Мельник Анна Максимович
+REC0054,2024-05-29,ST219,K-21,DA-101,1,Present,50.5,Petrenko,Additional task,Мельник Анна Максимович
+REC1127,2024-05-31,ST219,K-21,DA-101,1,Present,73,Ivanenko,Excellent,Мельник Анна Максимович
+REC0193,2024-06-04,ST219,K-21,DA-101,1,Present,73,Petrenko,Good work,Мельник Анна Максимович
+REC0842,2024-03-02,ST220,K-23,DA-102,1,Late,67.6,Petrenko,Missed class,Сидоренко Олександр Дмитрівна
+REC1199,2024-05-05,ST220,K-23,DA-102,1,Present,72.7,Ivanenko,Excellent,Сидоренко Олександр Дмитрівна
+REC0691,2024-05-08,ST220,K-23,DA-102,1,Present,74.2,Petrenko,Additional task,Сидоренко Олександр Дмитрівна
+REC0013,2024-06-26,ST220,K-23,DA-101,1,Present,74.2,Ivanenko,Good work,Сидоренко Олександр Дмитрівна
+REC1485,2024-02-06,ST221,K-21,DA-101,1,Present,73.1,Petrenko,No comment,Сидоренко Вікторія Андрійович
+REC1698,2024-03-04,ST221,K-21,DA-101,1,Present,90.5,Petrenko,Good work,Сидоренко Вікторія Андрійович
+REC1507,2024-04-07,ST221,K-21,DA-102,1,Present,76.3,Petrenko,Was late,Сидоренко Вікторія Андрійович
+REC0333,2024-05-06,ST221,K-21,DA-101,1,Present,66.3,Ivanenko,No comment,Сидоренко Вікторія Андрійович
+REC0161,2024-06-14,ST221,K-21,DA-101,1,Present,64.5,Petrenko,Missed class,Сидоренко Вікторія Андрійович
+REC1648,2024-03-05,ST222,K-24,DA-101,1,Present,66.7,Petrenko,Missed class,Савченко Анна Олександрівна
+REC1145,2024-03-23,ST222,K-24,DA-101,1,Present,88.9,Petrenko,Additional task,Савченко Анна Олександрівна
+REC0275,2024-03-30,ST222,K-24,DA-102,1,Present,92.9,Ivanenko,No comment,Савченко Анна Олександрівна
+REC0520,2024-05-24,ST222,K-24,DA-102,2,Present,68.9,Petrenko,Good work,Савченко Анна Олександрівна
+REC1007,2024-06-23,ST222,K-24,DA-102,1,Present,49.7,Ivanenko,Additional task,Савченко Анна Олександрівна
+REC1314,2024-02-24,ST223,K-21,DA-101,1,Present,71.7,Petrenko,Good work,Кравченко Анна Максимівна
+REC0688,2024-02-26,ST223,K-21,DA-101,1,Present,64.8,Petrenko,Needs improvement,Кравченко Анна Максимівна
+REC0231,2024-03-12,ST223,K-21,DA-102,1,Present,54.6,Ivanenko,Good progress,Кравченко Анна Максимівна
+REC1035,2024-04-14,ST223,K-21,DA-101,2,Present,89.6,Petrenko,Excellent,Кравченко Анна Максимівна
+REC1528,2024-04-25,ST223,K-21,DA-101,1,Present,66.4,Petrenko,Excellent,Кравченко Анна Максимівна
+REC1308,2024-04-27,ST223,K-21,DA-101,1,Present,89.2,Ivanenko,Missed class,Кравченко Анна Максимівна
+REC1454,2024-05-04,ST223,K-21,DA-102,2,Present,86.3,Petrenko,Excellent,Кравченко Анна Максимівна
+REC1371,2024-02-17,ST224,K-23,DA-101,1,Present,81.2,Petrenko,Missed class,Бондаренко Дмитро Андріївна
+REC0511,2024-04-01,ST224,K-23,DA-101,1,Absent,74.2,Petrenko,Needs improvement,Бондаренко Дмитро Андріївна
+REC0943,2024-05-01,ST224,K-23,DA-101,1,Present,81.3,Petrenko,Excellent,Бондаренко Дмитро Андріївна
+REC0180,2024-05-15,ST224,K-23,DA-101,1,Present,100,Ivanenko,Additional task,Бондаренко Дмитро Андріївна
+REC1119,2024-05-19,ST224,K-23,DA-102,1,Present,44.9,Ivanenko,Good progress,Бондаренко Дмитро Андріївна
+REC0444,2024-06-14,ST224,K-23,DA-102,1,Late,85.1,Petrenko,No comment,Бондаренко Дмитро Андріївна
+REC0415,2024-06-29,ST224,K-23,DA-102,1,Late,81.6,Petrenko,Excellent,Бондаренко Дмитро Андріївна
+REC0773,2024-02-13,ST225,K-24,DA-102,1,Present,84.1,Petrenko,Additional task,Марченко Вікторія Дмитрович
+REC0579,2024-03-12,ST225,K-24,DA-102,1,Late,75,Petrenko,Good work,Марченко Вікторія Дмитрович
+REC1685,2024-03-29,ST225,K-24,DA-102,1,Present,100,Ivanenko,Missed class,Марченко Вікторія Дмитрович
+REC0894,2024-04-27,ST225,K-24,DA-101,1,Present,52,Ivanenko,Missed class,Марченко Вікторія Дмитрович
+REC1567,2024-05-31,ST225,K-24,DA-102,1,Present,75,Ivanenko,Was late,Марченко Вікторія Дмитрович
+REC1689,2024-06-10,ST225,K-24,DA-101,1,Present,88.9,Petrenko,Excellent,Марченко Вікторія Дмитрович
+REC0127,2024-06-13,ST225,K-24,DA-102,1,Present,76,Ivanenko,Good progress,Марченко Вікторія Дмитрович
+REC0649,2024-02-20,ST226,K-22,DA-102,1,Absent,85.8,Petrenko,Additional task,Коваленко Владислав Миколаївна
+REC1124,2024-02-22,ST226,K-22,DA-101,2,Present,79.55,Petrenko,Good work,Коваленко Владислав Миколаївна
+REC0635,2024-03-02,ST226,K-22,DA-101,2,Late,91.7,Ivanenko,Was late,Коваленко Владислав Миколаївна
+REC1349,2024-03-02,ST226,K-22,DA-102,1,Present,79.9,Petrenko,Additional task,Коваленко Владислав Миколаївна
+REC1213,2024-03-12,ST226,K-22,DA-102,2,Present,79.55,Ivanenko,Additional task,Коваленко Владислав Миколаївна
+REC1670,2024-04-03,ST226,K-22,DA-102,1,Late,67,Petrenko,Needs improvement,Коваленко Владислав Миколаївна
+REC0621,2024-04-06,ST226,K-22,DA-102,1,Late,69.9,Petrenko,Good work,Коваленко Владислав Миколаївна
+REC1327,2024-04-21,ST226,K-22,DA-102,1,Late,95.4,Petrenko,Needs improvement,Коваленко Владислав Миколаївна
+REC0646,2024-05-11,ST226,K-22,DA-101,1,Present,62.1,Ivanenko,Additional task,Коваленко Владислав Миколаївна
+REC0036,2024-05-11,ST226,K-22,DA-102,1,Present,74.2,Ivanenko,Good progress,Коваленко Владислав Миколаївна
+REC0752,2024-02-14,ST227,K-22,DA-101,2,Late,80.7,Petrenko,Excellent,Поліщук Дмитро Іванович
+REC0343,2024-03-30,ST227,K-22,DA-101,1,Present,70.6,Ivanenko,Good work,Поліщук Дмитро Іванович
+REC0779,2024-05-25,ST227,K-22,DA-102,1,Present,74.2,Ivanenko,Good work,Поліщук Дмитро Іванович
+REC0011,2024-03-25,ST228,K-23,DA-101,1,Present,70.8,Ivanenko,Good progress,Олійник Максим Дмитрівна
+REC0471,2024-04-06,ST228,K-23,DA-102,1,Present,76.6,Ivanenko,Good work,Олійник Максим Дмитрівна
+REC0359,2024-05-09,ST228,K-23,DA-102,1,Present,65.7,Ivanenko,Was late,Олійник Максим Дмитрівна
+REC1626,2024-05-31,ST228,K-23,DA-101,1,Late,65.3,Ivanenko,Needs improvement,Олійник Максим Дмитрівна
+REC0182,2024-06-13,ST228,K-23,DA-102,2,Present,70.7,Petrenko,Missed class,Олійник Максим Дмитрівна
+REC1026,2024-02-16,ST229,K-24,DA-102,1,Present,77.4,Petrenko,Was late,Гнатюк Анастасія Олександрівна
+REC1761,2024-03-10,ST229,K-24,DA-101,2,Late,68.6,Ivanenko,Good work,Гнатюк Анастасія Олександрівна
+REC0031,2024-03-22,ST229,K-24,DA-101,1,Absent,59.6,Ivanenko,Good progress,Гнатюк Анастасія Олександрівна
+REC1374,2024-04-06,ST229,K-24,DA-101,2,Present,70.8,Petrenko,Missed class,Гнатюк Анастасія Олександрівна
+REC0371,2024-04-16,ST229,K-24,DA-101,1,Present,67.1,Ivanenko,Needs improvement,Гнатюк Анастасія Олександрівна
+REC1693,2024-06-12,ST229,K-24,DA-101,1,Present,76.6,Ivanenko,Was late,Гнатюк Анастасія Олександрівна
+REC0188,2024-02-05,ST230,K-24,DA-101,1,Present,71.9,Petrenko,Missed class,Лисенко Андрій Максимович
+REC1722,2024-03-10,ST230,K-24,DA-102,1,Present,70.9,Petrenko,Additional task,Лисенко Андрій Максимович
+REC0565,2024-03-20,ST230,K-24,DA-101,1,Present,67.6,Petrenko,Good progress,Лисенко Андрій Максимович
+REC1352,2024-04-30,ST230,K-24,DA-102,1,Present,75,Petrenko,Good work,Лисенко Андрій Максимович
+REC1084,2024-05-29,ST230,K-24,DA-101,1,Present,75,Petrenko,Was late,Лисенко Андрій Максимович
+REC1224,2024-06-09,ST230,K-24,DA-102,2,Present,70.8,Petrenko,Good work,Лисенко Андрій Максимович
+REC0015,2024-06-11,ST230,K-24,DA-101,1,Present,96,Ivanenko,Good work,Лисенко Андрій Максимович
+REC0925,2024-03-10,ST231,K-24,DA-101,1,Absent,100,Petrenko,Excellent,Мороз Максим Андріївна
+REC0104,2024-03-21,ST231,K-24,DA-102,1,Present,62.3,Ivanenko,Missed class,Мороз Максим Андріївна
+REC0648,2024-05-08,ST231,K-24,DA-101,1,Present,97.5,Petrenko,Was late,Мороз Максим Андріївна
+REC1717,2024-05-19,ST231,K-24,DA-102,1,Present,97.2,Ivanenko,Additional task,Мороз Максим Андріївна
+REC0376,2024-06-01,ST231,K-24,DA-102,1,Absent,100,Ivanenko,Good progress,Мороз Максим Андріївна
+REC0446,2024-06-15,ST231,K-24,DA-102,1,Present,84.5,Ivanenko,Excellent,Мороз Максим Андріївна
+REC1099,2024-04-01,ST232,K-22,DA-102,1,Absent,74.2,Ivanenko,Good progress,Поліщук Марія Максимівна
+REC1770,2024-06-02,ST232,K-22,DA-101,1,Present,63.4,Petrenko,Was late,Поліщук Марія Максимівна
+REC1063,2024-06-12,ST232,K-22,DA-101,1,Present,57.6,Petrenko,Was late,Поліщук Марія Максимівна
+REC0038,2024-06-28,ST232,K-22,DA-101,1,Present,91,Petrenko,Was late,Поліщук Марія Максимівна
+REC0610,2024-03-21,ST233,K-24,DA-102,1,Present,75,Petrenko,Good work,Олійник Марія Андріївна
+REC0357,2024-04-06,ST233,K-24,DA-102,1,Present,75,Ivanenko,Good progress,Олійник Марія Андріївна
+REC0580,2024-04-10,ST233,K-24,DA-101,1,Present,84.3,Ivanenko,Was late,Олійник Марія Андріївна
+REC0715,2024-06-03,ST233,K-24,DA-101,1,Absent,75,Petrenko,Additional task,Олійник Марія Андріївна
+REC1727,2024-06-08,ST233,K-24,DA-102,1,Present,63.2,Petrenko,Needs improvement,Олійник Марія Андріївна
+REC0937,2024-06-12,ST233,K-24,DA-102,1,Present,71.6,Ivanenko,Missed class,Олійник Марія Андріївна
+REC0799,2024-06-20,ST233,K-24,DA-102,1,Present,92.5,Ivanenko,Was late,Олійник Марія Андріївна
+REC1556,2024-02-21,ST234,K-24,DA-102,1,Present,80.5,Petrenko,Needs improvement,Коваленко Катерина Миколайович
+REC0377,2024-02-27,ST234,K-24,DA-102,2,Present,70.8,Petrenko,Excellent,Коваленко Катерина Миколайович
+REC0673,2024-04-10,ST234,K-24,DA-101,1,Present,74.8,Petrenko,Excellent,Коваленко Катерина Миколайович
+REC1372,2024-05-30,ST234,K-24,DA-102,1,Present,75,Petrenko,Excellent,Коваленко Катерина Миколайович
+REC1329,2024-05-01,ST235,K-22,DA-102,1,Present,74.2,Ivanenko,Good progress,Шевченко Вікторія Миколаївна
+REC0237,2024-06-24,ST236,K-23,DA-101,1,Absent,72,Ivanenko,No comment,Іваненко Олександр Дмитрівна
+REC0718,2024-02-26,ST237,K-22,DA-102,1,Present,72.5,Petrenko,Missed class,Петренко Максим Миколаївна
+REC1204,2024-05-15,ST237,K-22,DA-102,1,Present,73.2,Petrenko,Needs improvement,Петренко Максим Миколаївна
+REC0040,2024-02-24,ST238,K-23,DA-101,1,Present,74.2,Ivanenko,Excellent,Мельник Максим Миколаївна
+REC0198,2024-04-28,ST238,K-23,DA-102,1,Present,73.2,Petrenko,Additional task,Мельник Максим Миколаївна
+REC0081,2024-05-31,ST238,K-23,DA-102,1,Absent,74.2,Ivanenko,Good progress,Мельник Максим Миколаївна
+REC0356,2024-06-24,ST238,K-23,DA-101,1,Late,72.2,Ivanenko,Good work,Мельник Максим Миколаївна
+REC1122,2024-02-29,ST239,K-22,DA-102,1,Late,71.3,Petrenko,Missed class,Мельник Катерина Миколайович
+REC0784,2024-03-22,ST239,K-22,DA-102,1,Present,22.5,Ivanenko,Missed class,Мельник Катерина Миколайович
+REC0287,2024-05-21,ST239,K-22,DA-102,2,Present,98.4,Petrenko,Was late,Мельник Катерина Миколайович
+REC1201,2024-05-23,ST239,K-22,DA-102,1,Present,66,Petrenko,Was late,Мельник Катерина Миколайович
+REC1579,2024-02-19,ST240,K-21,DA-101,1,Late,74.5,Ivanenko,Good work,Гнатюк Марія Іванівна
+REC0431,2024-02-28,ST240,K-21,DA-101,1,Present,76.8,Petrenko,Good progress,Гнатюк Марія Іванівна
+REC1065,2024-03-16,ST240,K-21,DA-101,1,Absent,42.6,Ivanenko,Additional task,Гнатюк Марія Іванівна
+REC1344,2024-05-22,ST240,K-21,DA-101,2,Present,77.8,Ivanenko,Good progress,Гнатюк Марія Іванівна
+REC1582,2024-06-08,ST240,K-21,DA-102,1,Late,100,Ivanenko,Was late,Гнатюк Марія Іванівна
+REC0322,2024-06-21,ST240,K-21,DA-102,1,Present,73,Petrenko,Additional task,Гнатюк Марія Іванівна
+REC0868,2024-06-29,ST240,K-21,DA-101,1,Late,100,Petrenko,Additional task,Гнатюк Марія Іванівна
+REC0647,2024-02-26,ST241,K-23,DA-102,1,Present,91.3,Petrenko,Was late,Клименко Іван Максимович
+REC0786,2024-05-21,ST241,K-23,DA-102,1,Absent,66.9,Petrenko,Excellent,Клименко Іван Максимович
+REC0301,2024-06-23,ST241,K-23,DA-101,1,Present,74.2,Petrenko,Good work,Клименко Іван Максимович
+REC0505,2024-03-26,ST242,K-22,DA-101,1,Present,74.2,Petrenko,Good progress,Гнатюк Олена Владиславович
+REC0778,2024-04-04,ST242,K-22,DA-102,1,Present,73.1,Petrenko,Excellent,Гнатюк Олена Владиславович
+REC1107,2024-04-11,ST242,K-22,DA-102,2,Absent,75.7,Petrenko,Excellent,Гнатюк Олена Владиславович
+REC1200,2024-04-23,ST242,K-22,DA-101,1,Present,77.5,Petrenko,Additional task,Гнатюк Олена Владиславович
+REC1423,2024-06-18,ST242,K-22,DA-101,1,Present,69.3,Ivanenko,Needs improvement,Гнатюк Олена Владиславович
+REC1650,2024-02-07,ST243,K-24,DA-101,2,Present,70.8,Petrenko,Excellent,Ткаченко Марія Дмитрівна
+REC0906,2024-06-05,ST243,K-24,DA-102,2,Present,96.8,Ivanenko,Additional task,Ткаченко Марія Дмитрівна
+REC1602,2024-06-24,ST243,K-24,DA-102,1,Absent,75,Petrenko,Missed class,Ткаченко Марія Дмитрівна
+REC1420,2024-03-16,ST244,K-21,DA-101,1,Present,61.1,Petrenko,Was late,Сидоренко Анна Богданович
+REC0058,2024-03-19,ST244,K-21,DA-101,1,Present,85.8,Petrenko,Good work,Сидоренко Анна Богданович
+REC1112,2024-03-21,ST244,K-21,DA-101,1,Present,86.7,Ivanenko,No comment,Сидоренко Анна Богданович
+REC0128,2024-03-23,ST244,K-21,DA-102,1,Present,51.3,Petrenko,Good progress,Сидоренко Анна Богданович
+REC0848,2024-04-02,ST244,K-21,DA-102,1,Present,39.9,Petrenko,No comment,Сидоренко Анна Богданович
+REC0929,2024-04-25,ST244,K-21,DA-101,1,Present,69.2,Petrenko,Excellent,Сидоренко Анна Богданович
+REC0463,2024-05-25,ST244,K-21,DA-101,1,Present,73,Ivanenko,Missed class,Сидоренко Анна Богданович
+REC0545,2024-02-23,ST245,K-23,DA-101,1,Present,82.9,Petrenko,Additional task,Олійник Олександр Дмитрович
+REC0330,2024-04-14,ST245,K-23,DA-102,1,Present,88.8,Ivanenko,Excellent,Олійник Олександр Дмитрович
+REC1499,2024-04-23,ST245,K-23,DA-101,2,Absent,65,Petrenko,Good work,Олійник Олександр Дмитрович
+REC0073,2024-05-24,ST245,K-23,DA-102,2,Present,71.9,Petrenko,Good progress,Олійник Олександр Дмитрович
+REC0480,2024-05-25,ST245,K-23,DA-101,1,Present,76.3,Petrenko,Good work,Олійник Олександр Дмитрович
+REC1732,2024-05-25,ST245,K-23,DA-101,1,Present,100,Ivanenko,Missed class,Олійник Олександр Дмитрович
+REC1596,2024-06-12,ST245,K-23,DA-101,1,Present,76.7,Ivanenko,Was late,Олійник Олександр Дмитрович
+REC1413,2024-04-21,ST246,K-24,DA-101,1,Present,100,Petrenko,Was late,Коваленко Анастасія Максимович
+REC1697,2024-02-26,ST247,K-23,DA-101,1,Present,70.2,Petrenko,Missed class,Мельник Олена Олександрівна
+REC1470,2024-03-21,ST247,K-23,DA-102,1,Present,83.6,Ivanenko,Excellent,Мельник Олена Олександрівна
+REC0708,2024-04-11,ST247,K-23,DA-102,1,Late,80.3,Petrenko,Was late,Мельник Олена Олександрівна
+REC1342,2024-06-08,ST247,K-23,DA-102,1,Present,81.2,Petrenko,Additional task,Мельник Олена Олександрівна
+REC0339,2024-02-08,ST248,K-21,DA-102,1,Present,78.7,Ivanenko,Good work,Іваненко Микола Дмитрівна
+REC0608,2024-05-31,ST248,K-21,DA-101,1,Present,80.6,Ivanenko,Was late,Іваненко Микола Дмитрівна
+REC0141,2024-06-02,ST248,K-21,DA-101,2,Present,84.5,Petrenko,Good progress,Іваненко Микола Дмитрівна
+REC1651,2024-02-14,ST249,K-21,DA-102,1,Present,98.4,Ivanenko,Additional task,Поліщук Анастасія Владиславович
+REC0689,2024-03-30,ST249,K-21,DA-102,1,Present,59.1,Ivanenko,Good progress,Поліщук Анастасія Владиславович
+REC1775,2024-04-04,ST249,K-21,DA-102,2,Present,93.6,Petrenko,Missed class,Поліщук Анастасія Владиславович
+REC0232,2024-05-12,ST249,K-21,DA-101,1,Present,76.8,Ivanenko,Excellent,Поліщук Анастасія Владиславович
+REC1118,2024-06-29,ST249,K-21,DA-101,1,Present,73,Petrenko,Was late,Поліщук Анастасія Владиславович
+REC1287,2024-02-08,ST250,K-22,DA-102,1,Absent,80.7,Petrenko,Additional task,Коваленко Олена Андрійович
+REC0694,2024-03-21,ST250,K-22,DA-102,1,Present,74.2,Petrenko,Excellent,Коваленко Олена Андрійович
+REC1643,2024-04-04,ST250,K-22,DA-102,1,Present,57.9,Petrenko,Additional task,Коваленко Олена Андрійович
+REC0817,2024-05-12,ST250,K-22,DA-102,1,Absent,85.3,Petrenko,Good work,Коваленко Олена Андрійович
+REC1568,2024-06-05,ST250,K-22,DA-102,1,Present,79.3,Ivanenko,Additional task,Коваленко Олена Андрійович
+REC1174,2024-06-30,ST250,K-22,DA-102,1,Absent,69.8,Ivanenko,Good progress,Коваленко Олена Андрійович
+REC0140,2024-02-23,ST251,K-24,DA-101,2,Present,66.6,Ivanenko,Missed class,Марченко Анастасія Андріївна
+REC1280,2024-05-08,ST251,K-24,DA-102,2,Present,70.8,Petrenko,Needs improvement,Марченко Анастасія Андріївна
+REC1724,2024-05-13,ST251,K-24,DA-102,1,Late,74.6,Ivanenko,Good progress,Марченко Анастасія Андріївна
+REC1324,2024-06-12,ST251,K-24,DA-101,1,Present,82,Ivanenko,Additional task,Марченко Анастасія Андріївна
+REC1312,2024-02-21,ST252,K-22,DA-101,1,Present,77.5,Ivanenko,Additional task,Данилюк Микола Дмитрович
+REC1633,2024-02-24,ST252,K-22,DA-101,2,Present,97.5,Petrenko,Was late,Данилюк Микола Дмитрович
+REC0737,2024-02-27,ST252,K-22,DA-101,1,Present,74.2,Petrenko,Was late,Данилюк Микола Дмитрович
+REC0636,2024-04-20,ST252,K-22,DA-102,1,Present,77.1,Ivanenko,Excellent,Данилюк Микола Дмитрович
+REC0797,2024-05-10,ST252,K-22,DA-102,2,Present,86.7,Ivanenko,Additional task,Данилюк Микола Дмитрович
+REC1235,2024-05-24,ST252,K-22,DA-101,1,Present,74,Ivanenko,Needs improvement,Данилюк Микола Дмитрович
+REC0101,2024-02-18,ST253,K-21,DA-102,1,Late,73,Petrenko,Good progress,Марченко Анастасія Владиславович
+REC1111,2024-02-22,ST253,K-21,DA-102,1,Present,40.1,Petrenko,Good work,Марченко Анастасія Владиславович
+REC0972,2024-03-08,ST253,K-21,DA-102,1,Present,80.6,Petrenko,Additional task,Марченко Анастасія Владиславович
+REC1094,2024-03-19,ST253,K-21,DA-101,2,Present,68.7,Ivanenko,Good progress,Марченко Анастасія Владиславович
+REC1250,2024-04-04,ST253,K-21,DA-101,1,Present,85.9,Petrenko,Excellent,Марченко Анастасія Владиславович
+REC0851,2024-05-13,ST253,K-21,DA-102,1,Present,94.9,Petrenko,Good progress,Марченко Анастасія Владиславович
+REC1581,2024-05-14,ST253,K-21,DA-101,1,Present,73,Petrenko,Good progress,Марченко Анастасія Владиславович
+REC0523,2024-05-26,ST253,K-21,DA-101,2,Present,79.2,Ivanenko,Was late,Марченко Анастасія Владиславович
+REC1254,2024-06-06,ST253,K-21,DA-102,1,Present,73,Ivanenko,Needs improvement,Марченко Анастасія Владиславович
+REC1534,2024-06-17,ST253,K-21,DA-101,1,Present,79.4,Ivanenko,Additional task,Марченко Анастасія Владиславович
+REC1748,2024-03-03,ST254,K-21,DA-102,1,Late,58,Ivanenko,Good progress,Шевченко Вікторія Владиславович
+REC1296,2024-04-21,ST254,K-21,DA-101,1,Absent,95.9,Ivanenko,Good work,Шевченко Вікторія Владиславович
+REC1756,2024-05-09,ST254,K-21,DA-102,1,Present,79.9,Ivanenko,Needs improvement,Шевченко Вікторія Владиславович
+REC0884,2024-05-21,ST254,K-21,DA-102,1,Present,53,Petrenko,Additional task,Шевченко Вікторія Владиславович
+REC0825,2024-06-02,ST254,K-21,DA-101,1,Present,100,Petrenko,Good work,Шевченко Вікторія Владиславович
+REC0518,2024-03-15,ST255,K-24,DA-101,2,Present,80.8,Ivanenko,Additional task,Поліщук Анастасія Богданович
+REC1305,2024-05-01,ST255,K-24,DA-102,1,Present,75,Petrenko,Additional task,Поліщук Анастасія Богданович
+REC1747,2024-06-07,ST255,K-24,DA-102,1,Absent,54.2,Petrenko,No comment,Поліщук Анастасія Богданович
+REC1306,2024-03-17,ST256,K-22,DA-102,1,Absent,91.5,Petrenko,Was late,Мельник Богдан Дмитрівна
+REC1527,2024-04-07,ST256,K-22,DA-102,1,Absent,66,Ivanenko,Good progress,Мельник Богдан Дмитрівна
+REC1442,2024-05-15,ST256,K-22,DA-101,1,Present,93,Ivanenko,Good progress,Мельник Богдан Дмитрівна
+REC1377,2024-05-15,ST256,K-22,DA-102,1,Late,75.3,Petrenko,Good progress,Мельник Богдан Дмитрівна
+REC0129,2024-05-18,ST256,K-22,DA-102,1,Present,74.2,Ivanenko,Additional task,Мельник Богдан Дмитрівна
+REC0800,2024-02-09,ST257,K-24,DA-101,2,Absent,100,Ivanenko,Was late,Іваненко Андрій Богданович
+REC0960,2024-05-03,ST257,K-24,DA-102,1,Present,75,Ivanenko,Excellent,Іваненко Андрій Богданович
+REC1202,2024-04-05,ST258,K-21,DA-102,1,Late,83.7,Ivanenko,Was late,Поліщук Владислав Владиславович
+REC1546,2024-05-12,ST258,K-21,DA-101,1,Present,55.6,Ivanenko,Was late,Поліщук Владислав Владиславович
+REC1658,2024-03-03,ST259,K-24,DA-101,2,Present,86.8,Petrenko,Was late,Іваненко Дарина Максимівна
+REC0276,2024-04-26,ST259,K-24,DA-102,1,Late,74,Ivanenko,Was late,Іваненко Дарина Максимівна
+REC1005,2024-05-24,ST259,K-24,DA-101,1,Absent,75,Petrenko,Good work,Іваненко Дарина Максимівна
+REC0975,2024-06-28,ST259,K-24,DA-101,1,Present,60.1,Petrenko,Additional task,Іваненко Дарина Максимівна
+REC1382,2024-02-23,ST260,K-23,DA-102,1,Present,57.4,Ivanenko,Excellent,Білик Анастасія Миколаївна
+REC1082,2024-04-20,ST260,K-23,DA-102,1,Present,60.7,Ivanenko,Excellent,Білик Анастасія Миколаївна
+REC0303,2024-04-25,ST260,K-23,DA-101,1,Late,61,Ivanenko,Missed class,Білик Анастасія Миколаївна
+REC1542,2024-05-05,ST260,K-23,DA-102,1,Absent,67.2,Ivanenko,Needs improvement,Білик Анастасія Миколаївна
+REC0268,2024-05-09,ST260,K-23,DA-102,1,Present,60.9,Petrenko,Needs improvement,Білик Анастасія Миколаївна
+REC0659,2024-05-26,ST260,K-23,DA-101,2,Absent,76,Ivanenko,Excellent,Білик Анастасія Миколаївна
+REC1295,2024-04-26,ST261,K-22,DA-102,2,Present,46.3,Ivanenko,Good work,Романенко Богдан Олександрівна
+REC0569,2024-05-29,ST261,K-22,DA-101,1,Present,87.8,Ivanenko,Excellent,Романенко Богдан Олександрівна
+REC0760,2024-03-20,ST262,K-22,DA-102,1,Absent,51.5,Petrenko,Good progress,Петренко Софія Миколайович
+REC0741,2024-03-21,ST262,K-22,DA-101,1,Present,84.5,Petrenko,Good progress,Петренко Софія Миколайович
+REC1561,2024-04-10,ST262,K-22,DA-101,1,Present,76.8,Petrenko,No comment,Петренко Софія Миколайович
+REC0107,2024-04-12,ST262,K-22,DA-102,1,Present,69.8,Ivanenko,Additional task,Петренко Софія Миколайович
+REC0279,2024-06-24,ST262,K-22,DA-101,1,Present,74.2,Ivanenko,Excellent,Петренко Софія Миколайович
+REC0653,2024-03-22,ST263,K-22,DA-101,1,Present,77.6,Petrenko,Needs improvement,Олійник Марія Максимівна
+REC0885,2024-04-04,ST263,K-22,DA-101,1,Present,77.6,Petrenko,No comment,Олійник Марія Максимівна
+REC0209,2024-05-02,ST263,K-22,DA-101,1,Present,79.9,Petrenko,Good progress,Олійник Марія Максимівна
+REC0164,2024-05-08,ST263,K-22,DA-102,1,Present,78.4,Ivanenko,Excellent,Олійник Марія Максимівна
+REC0796,2024-05-20,ST263,K-22,DA-102,1,Present,67.8,Ivanenko,Was late,Олійник Марія Максимівна
+REC0932,2024-06-04,ST263,K-22,DA-101,1,Absent,52.7,Ivanenko,Was late,Олійник Марія Максимівна
+REC1711,2024-06-20,ST263,K-22,DA-101,1,Present,74.2,Petrenko,Missed class,Олійник Марія Максимівна
+REC0761,2024-02-09,ST264,K-21,DA-102,1,Present,82.6,Ivanenko,Was late,Мороз Олександр Владиславович
+REC1116,2024-02-24,ST264,K-21,DA-101,2,Present,95.9,Ivanenko,Additional task,Мороз Олександр Владиславович
+REC0364,2024-02-25,ST264,K-21,DA-102,1,Late,64.8,Petrenko,Was late,Мороз Олександр Владиславович
+REC0394,2024-02-26,ST264,K-21,DA-102,2,Present,100,Petrenko,Was late,Мороз Олександр Владиславович
+REC0949,2024-04-04,ST264,K-21,DA-102,2,Present,65.2,Petrenko,Needs improvement,Мороз Олександр Владиславович
+REC0397,2024-04-16,ST264,K-21,DA-102,1,Present,91.8,Petrenko,Additional task,Мороз Олександр Владиславович
+REC0291,2024-04-30,ST264,K-21,DA-101,1,Absent,65.3,Petrenko,Excellent,Мороз Олександр Владиславович
+REC1759,2024-06-02,ST264,K-21,DA-102,1,Present,93.9,Petrenko,Good work,Мороз Олександр Владиславович
+REC1521,2024-02-20,ST265,K-23,DA-102,2,Present,80.9,Petrenko,No comment,Бондаренко Іван Олександрович
+REC1345,2024-03-17,ST265,K-23,DA-101,1,Absent,84.7,Ivanenko,Was late,Бондаренко Іван Олександрович
+REC1206,2024-03-20,ST265,K-23,DA-102,1,Present,80.8,Ivanenko,Missed class,Бондаренко Іван Олександрович
+REC0407,2024-04-01,ST265,K-23,DA-102,1,Present,100,Petrenko,Excellent,Бондаренко Іван Олександрович
+REC0280,2024-04-06,ST265,K-23,DA-102,1,Present,56.6,Ivanenko,Excellent,Бондаренко Іван Олександрович
+REC0109,2024-04-22,ST265,K-23,DA-101,1,Present,74.2,Petrenko,Missed class,Бондаренко Іван Олександрович
+REC1675,2024-04-29,ST265,K-23,DA-102,1,Present,71.4,Petrenko,Excellent,Бондаренко Іван Олександрович
+REC1348,2024-05-01,ST265,K-23,DA-102,1,Present,70.6,Petrenko,Additional task,Бондаренко Іван Олександрович
+REC1389,2024-05-05,ST265,K-23,DA-102,1,Present,74.2,Ivanenko,Additional task,Бондаренко Іван Олександрович
+REC1641,2024-06-27,ST265,K-23,DA-101,1,Present,82.3,Ivanenko,Additional task,Бондаренко Іван Олександрович
+REC1171,2024-02-29,ST266,K-21,DA-101,1,Present,81.8,Ivanenko,Good progress,Марченко Олександр Максимович
+REC1653,2024-03-16,ST266,K-21,DA-101,2,Present,90.3,Ivanenko,Excellent,Марченко Олександр Максимович
+REC1784,2024-05-26,ST266,K-21,DA-102,1,Present,51.6,Petrenko,No comment,Марченко Олександр Максимович
+REC0955,2024-02-18,ST267,K-22,DA-102,1,Present,94.4,Petrenko,Excellent,Марченко Микола Максимович
+REC0192,2024-02-21,ST267,K-22,DA-101,1,Present,74.2,Petrenko,Needs improvement,Марченко Микола Максимович
+REC1321,2024-05-02,ST267,K-22,DA-102,1,Present,77.8,Ivanenko,Additional task,Марченко Микола Максимович
+REC0677,2024-05-15,ST267,K-22,DA-102,1,Present,53.2,Petrenko,Good progress,Марченко Микола Максимович
+REC0664,2024-06-01,ST267,K-22,DA-102,1,Present,68.3,Petrenko,Missed class,Марченко Микола Максимович
+REC1226,2024-06-06,ST267,K-22,DA-101,1,Present,100,Ivanenko,Additional task,Марченко Микола Максимович
+REC1140,2024-03-13,ST268,K-21,DA-101,1,Present,73,Petrenko,Missed class,Петренко Іван Іванівна
+REC0261,2024-03-25,ST268,K-21,DA-102,1,Absent,39.4,Ivanenko,Needs improvement,Петренко Іван Іванівна
+REC1509,2024-04-12,ST268,K-21,DA-101,1,Present,65.8,Ivanenko,Excellent,Петренко Іван Іванівна
+REC0543,2024-04-21,ST268,K-21,DA-102,2,Absent,86.8,Ivanenko,Good progress,Петренко Іван Іванівна
+REC1718,2024-04-23,ST268,K-21,DA-102,1,Absent,73,Ivanenko,Additional task,Петренко Іван Іванівна
+REC1182,2024-06-01,ST268,K-21,DA-102,1,Present,64.5,Petrenko,Additional task,Петренко Іван Іванівна
+REC1412,2024-06-02,ST268,K-21,DA-102,1,Late,98.1,Ivanenko,Missed class,Петренко Іван Іванівна
+REC1795,2024-02-08,ST269,K-21,DA-101,2,Present,76.6,Ivanenko,Good progress,Сидоренко Анастасія Миколаївна
+REC1167,2024-02-16,ST269,K-21,DA-101,1,Absent,68.8,Ivanenko,Good work,Сидоренко Анастасія Миколаївна
+REC1207,2024-03-04,ST269,K-21,DA-102,2,Present,71.3,Ivanenko,Was late,Сидоренко Анастасія Миколаївна
+REC1606,2024-03-15,ST269,K-21,DA-101,1,Absent,93.9,Petrenko,Needs improvement,Сидоренко Анастасія Миколаївна
+REC1612,2024-04-05,ST269,K-21,DA-101,1,Present,68.7,Petrenko,Missed class,Сидоренко Анастасія Миколаївна
+REC1198,2024-04-24,ST269,K-21,DA-102,1,Late,58.1,Ivanenko,Additional task,Сидоренко Анастасія Миколаївна
+REC0864,2024-04-27,ST269,K-21,DA-101,1,Present,98.9,Ivanenko,Was late,Сидоренко Анастасія Миколаївна
+REC1649,2024-05-10,ST269,K-21,DA-102,2,Present,86.1,Ivanenko,Excellent,Сидоренко Анастасія Миколаївна
+REC1286,2024-05-21,ST269,K-21,DA-102,2,Absent,76.6,Petrenko,Missed class,Сидоренко Анастасія Миколаївна
+REC1701,2024-06-17,ST269,K-21,DA-101,1,Present,69,Petrenko,Needs improvement,Сидоренко Анастасія Миколаївна
+REC1047,2024-03-16,ST270,K-22,DA-102,1,Present,74.2,Petrenko,Excellent,Петренко Владислав Олександрівна
+REC0668,2024-04-04,ST270,K-22,DA-102,1,Present,100,Ivanenko,Excellent,Петренко Владислав Олександрівна
+REC0315,2024-04-17,ST270,K-22,DA-101,1,Late,64.3,Ivanenko,Additional task,Петренко Владислав Олександрівна
+REC1353,2024-03-16,ST271,K-21,DA-101,1,Absent,88,Ivanenko,Additional task,Клименко Катерина Іванович
+REC1437,2024-04-03,ST271,K-21,DA-102,1,Present,79,Ivanenko,Was late,Клименко Катерина Іванович
+REC1513,2024-05-23,ST271,K-21,DA-102,1,Absent,73,Petrenko,Was late,Клименко Катерина Іванович
+REC0707,2024-06-06,ST271,K-21,DA-102,2,Present,86.5,Petrenko,Missed class,Клименко Катерина Іванович
+REC1647,2024-02-19,ST272,K-21,DA-102,1,Late,100,Ivanenko,Needs improvement,Бондаренко Анастасія Іванович
+REC0878,2024-03-10,ST272,K-21,DA-101,1,Late,87.2,Petrenko,Was late,Бондаренко Анастасія Іванович
+REC0027,2024-04-28,ST272,K-21,DA-101,1,Present,86.9,Ivanenko,Good work,Бондаренко Анастасія Іванович
+REC0307,2024-05-16,ST272,K-21,DA-101,1,Present,77,Ivanenko,Needs improvement,Бондаренко Анастасія Іванович
+REC1088,2024-02-12,ST273,K-23,DA-101,1,Absent,74.2,Petrenko,Was late,Марченко Максим Миколайович
+REC0464,2024-02-25,ST273,K-23,DA-101,1,Present,74.2,Petrenko,Good work,Марченко Максим Миколайович
+REC0422,2024-03-10,ST273,K-23,DA-102,2,Present,74.2,Ivanenko,Good work,Марченко Максим Миколайович
+REC0989,2024-03-18,ST273,K-23,DA-101,1,Present,84.5,Ivanenko,Excellent,Марченко Максим Миколайович
+REC1299,2024-04-09,ST273,K-23,DA-101,2,Present,99.3,Ivanenko,Was late,Марченко Максим Миколайович
+REC0046,2024-05-18,ST273,K-23,DA-101,2,Present,76,Ivanenko,Excellent,Марченко Максим Миколайович
+REC0598,2024-05-24,ST273,K-23,DA-102,1,Present,94.3,Petrenko,Good work,Марченко Максим Миколайович
+REC0447,2024-02-20,ST274,K-22,DA-102,1,Present,74.2,Ivanenko,Good progress,Іваненко Дарина Іванівна
+REC0640,2024-05-16,ST274,K-22,DA-102,1,Absent,74.2,Ivanenko,Needs improvement,Іваненко Дарина Іванівна
+REC0167,2024-06-16,ST274,K-22,DA-101,1,Present,65.5,Petrenko,Good progress,Іваненко Дарина Іванівна
+REC0567,2024-06-19,ST274,K-22,DA-102,1,Absent,63.9,Petrenko,Additional task,Іваненко Дарина Іванівна
+REC0734,2024-02-09,ST275,K-22,DA-101,2,Present,60,Petrenko,Excellent,Кравченко Іван Дмитрович
+REC0921,2024-02-09,ST275,K-22,DA-102,2,Late,79.55,Petrenko,Was late,Кравченко Іван Дмитрович
+REC1396,2024-02-25,ST275,K-22,DA-102,1,Present,74.2,Ivanenko,Missed class,Кравченко Іван Дмитрович
+REC0479,2024-03-02,ST275,K-22,DA-101,1,Present,74.2,Petrenko,Additional task,Кравченко Іван Дмитрович
+REC0318,2024-04-23,ST275,K-22,DA-102,1,Present,96,Ivanenko,Missed class,Кравченко Іван Дмитрович
+REC0147,2024-05-07,ST275,K-22,DA-101,1,Present,74.2,Ivanenko,Good progress,Кравченко Іван Дмитрович
+REC0069,2024-02-21,ST276,K-21,DA-101,1,Present,83.3,Petrenko,Needs improvement,Петренко Катерина Богданович
+REC0246,2024-04-08,ST276,K-21,DA-102,1,Present,61.7,Ivanenko,Needs improvement,Петренко Катерина Богданович
+REC1691,2024-05-05,ST276,K-21,DA-101,1,Present,75,Ivanenko,Excellent,Петренко Катерина Богданович
+REC1354,2024-05-16,ST276,K-21,DA-101,1,Present,73,Ivanenko,Missed class,Петренко Катерина Богданович
+REC1753,2024-02-19,ST277,K-21,DA-102,1,Absent,46.1,Ivanenko,Additional task,Данилюк Дарина Андрійович
+REC0519,2024-03-02,ST277,K-21,DA-102,2,Late,74,Petrenko,Was late,Данилюк Дарина Андрійович
+REC0094,2024-04-06,ST277,K-21,DA-102,1,Late,67.5,Petrenko,Good work,Данилюк Дарина Андрійович
+REC0367,2024-04-27,ST277,K-21,DA-102,2,Present,95.3,Petrenko,Missed class,Данилюк Дарина Андрійович
+REC0954,2024-03-14,ST278,K-22,DA-101,1,Absent,67.8,Ivanenko,Good work,Клименко Катерина Миколаївна
+REC1681,2024-04-06,ST278,K-22,DA-101,1,Present,53.6,Ivanenko,No comment,Клименко Катерина Миколаївна
+REC0731,2024-04-28,ST278,K-22,DA-101,2,Present,84.5,Petrenko,Additional task,Клименко Катерина Миколаївна
+REC0682,2024-02-29,ST279,K-23,DA-101,1,Absent,74.2,Ivanenko,Was late,Білик Максим Олександрівна
+REC0888,2024-03-14,ST279,K-23,DA-102,1,Present,74.2,Ivanenko,Good work,Білик Максим Олександрівна
+REC0535,2024-03-28,ST279,K-23,DA-101,1,Late,56.7,Ivanenko,Was late,Білик Максим Олександрівна
+REC0521,2024-03-30,ST279,K-23,DA-102,2,Present,81.5,Petrenko,Missed class,Білик Максим Олександрівна
+REC0625,2024-04-03,ST279,K-23,DA-101,1,Present,86.9,Ivanenko,Excellent,Білик Максим Олександрівна
+REC1031,2024-04-27,ST279,K-23,DA-101,1,Late,74.2,Ivanenko,No comment,Білик Максим Олександрівна
+REC0390,2024-02-17,ST280,K-24,DA-102,1,Late,75,Petrenko,Missed class,Шевченко Олена Владиславович
+REC0853,2024-02-26,ST280,K-24,DA-101,2,Present,70.8,Ivanenko,Excellent,Шевченко Олена Владиславович
+REC0369,2024-03-13,ST280,K-24,DA-101,1,Present,77,Ivanenko,No comment,Шевченко Олена Владиславович
+REC0071,2024-03-29,ST280,K-24,DA-101,1,Present,67.5,Petrenko,Good progress,Шевченко Олена Владиславович
+REC1283,2024-03-20,ST281,K-24,DA-101,1,Present,75,Ivanenko,Good work,Шевченко Микола Іванович
+REC0120,2024-03-21,ST281,K-24,DA-101,1,Present,63.5,Ivanenko,Was late,Шевченко Микола Іванович
+REC0644,2024-04-24,ST281,K-24,DA-102,2,Late,99.4,Petrenko,Excellent,Шевченко Микола Іванович
+REC0461,2024-05-19,ST281,K-24,DA-101,1,Late,75,Petrenko,Additional task,Шевченко Микола Іванович
+REC1319,2024-05-30,ST281,K-24,DA-101,1,Late,75,Ivanenko,Excellent,Шевченко Микола Іванович
+REC0469,2024-03-29,ST282,K-23,DA-102,1,Present,74.2,Ivanenko,Missed class,Іваненко Богдан Максимович
+REC0732,2024-05-21,ST282,K-23,DA-102,1,Absent,74.2,Petrenko,Excellent,Іваненко Богдан Максимович
+REC1266,2024-02-07,ST283,K-24,DA-102,1,Present,73.3,Petrenko,Good progress,Данилюк Анастасія Олександрівна
+REC1014,2024-02-18,ST283,K-24,DA-101,1,Present,81.4,Petrenko,Good progress,Данилюк Анастасія Олександрівна
+REC0112,2024-03-21,ST283,K-24,DA-101,1,Present,81.6,Petrenko,Excellent,Данилюк Анастасія Олександрівна
+REC0175,2024-04-16,ST283,K-24,DA-101,1,Absent,75,Ivanenko,Additional task,Данилюк Анастасія Олександрівна
+REC0815,2024-05-10,ST283,K-24,DA-101,1,Late,56.6,Petrenko,Additional task,Данилюк Анастасія Олександрівна
+REC0485,2024-06-05,ST283,K-24,DA-102,1,Present,86.6,Ivanenko,Excellent,Данилюк Анастасія Олександрівна
+REC0144,2024-02-11,ST284,K-21,DA-101,1,Present,73,Ivanenko,Additional task,Іваненко Микола Владиславович
+REC0102,2024-02-15,ST284,K-21,DA-102,1,Present,53.8,Ivanenko,Was late,Іваненко Микола Владиславович
+REC0341,2024-03-05,ST284,K-21,DA-102,1,Late,96,Petrenko,Excellent,Іваненко Микола Владиславович
+REC0043,2024-03-09,ST284,K-21,DA-102,1,Present,80.4,Ivanenko,Missed class,Іваненко Микола Владиславович
+REC1011,2024-04-18,ST284,K-21,DA-102,1,Present,67.7,Ivanenko,Missed class,Іваненко Микола Владиславович
+REC0828,2024-04-27,ST284,K-21,DA-102,1,Present,73,Petrenko,Was late,Іваненко Микола Владиславович
+REC0228,2024-06-29,ST284,K-21,DA-101,2,Present,84.1,Petrenko,Good work,Іваненко Микола Владиславович
+REC1543,2024-02-09,ST285,K-22,DA-102,1,Absent,81.3,Petrenko,Good work,Гнатюк Дарина Дмитрівна
+REC0302,2024-03-06,ST285,K-22,DA-101,1,Present,83.2,Ivanenko,Was late,Гнатюк Дарина Дмитрівна
+REC0915,2024-03-18,ST285,K-22,DA-102,1,Present,74.2,Ivanenko,Missed class,Гнатюк Дарина Дмитрівна
+REC0672,2024-05-08,ST285,K-22,DA-101,1,Present,78.8,Ivanenko,Additional task,Гнатюк Дарина Дмитрівна
+REC1215,2024-05-27,ST285,K-22,DA-101,1,Absent,74.2,Ivanenko,No comment,Гнатюк Дарина Дмитрівна
+REC0801,2024-06-08,ST285,K-22,DA-102,1,Present,80.9,Ivanenko,Excellent,Гнатюк Дарина Дмитрівна
+REC0403,2024-02-11,ST286,K-22,DA-101,1,Present,60.6,Petrenko,No comment,Гнатюк Дмитро Дмитрович
+REC0272,2024-05-13,ST286,K-22,DA-101,1,Late,74.2,Petrenko,Good progress,Гнатюк Дмитро Дмитрович
+REC1793,2024-05-15,ST286,K-22,DA-101,1,Present,84.7,Petrenko,Was late,Гнатюк Дмитро Дмитрович
+REC1652,2024-06-14,ST286,K-22,DA-102,1,Late,86.3,Ivanenko,Additional task,Гнатюк Дмитро Дмитрович
+REC0035,2024-03-16,ST287,K-23,DA-101,2,Present,78.2,Ivanenko,Was late,Бондаренко Максим Андріївна
+REC0763,2024-04-09,ST287,K-23,DA-102,2,Present,81.7,Petrenko,Needs improvement,Бондаренко Максим Андріївна
+REC0041,2024-05-15,ST287,K-23,DA-102,1,Present,79.1,Petrenko,Good work,Бондаренко Максим Андріївна
+REC1505,2024-05-20,ST287,K-23,DA-102,1,Absent,76.1,Petrenko,No comment,Бондаренко Максим Андріївна
+REC1461,2024-06-21,ST287,K-23,DA-102,1,Present,86.9,Ivanenko,Excellent,Бондаренко Максим Андріївна
+REC0612,2024-02-10,ST288,K-24,DA-101,2,Present,70.6,Petrenko,Good work,Олійник Дмитро Владиславович
+REC0419,2024-03-10,ST288,K-24,DA-102,1,Present,60.9,Ivanenko,Needs improvement,Олійник Дмитро Владиславович
+REC1600,2024-03-16,ST288,K-24,DA-102,1,Present,85.7,Ivanenko,Good work,Олійник Дмитро Владиславович
+REC0414,2024-05-14,ST288,K-24,DA-101,1,Present,75.7,Ivanenko,Missed class,Олійник Дмитро Владиславович
+REC1231,2024-05-26,ST288,K-24,DA-101,2,Present,70.8,Ivanenko,Additional task,Олійник Дмитро Владиславович
+REC0159,2024-06-25,ST288,K-24,DA-102,1,Absent,75,Ivanenko,Missed class,Олійник Дмитро Владиславович
+REC1036,2024-02-10,ST289,K-24,DA-102,1,Present,47.1,Petrenko,Excellent,Шевченко Вікторія Андрійович
+REC0264,2024-04-17,ST289,K-24,DA-102,1,Present,96.9,Ivanenko,Good work,Шевченко Вікторія Андрійович
+REC0481,2024-02-14,ST290,K-23,DA-101,1,Late,75.5,Petrenko,Needs improvement,Олійник Максим Андріївна
+REC0306,2024-03-24,ST290,K-23,DA-101,2,Late,63.7,Petrenko,Good progress,Олійник Максим Андріївна
+REC0910,2024-04-10,ST290,K-23,DA-101,1,Present,53.3,Petrenko,Good progress,Олійник Максим Андріївна
+REC1367,2024-05-03,ST290,K-23,DA-101,1,Present,65.3,Ivanenko,Needs improvement,Олійник Максим Андріївна
+REC1706,2024-06-01,ST290,K-23,DA-102,1,Present,67,Ivanenko,Was late,Олійник Максим Андріївна
+REC1301,2024-02-15,ST291,K-22,DA-101,1,Present,74.2,Ivanenko,Needs improvement,Іваненко Анна Максимівна
+REC1622,2024-03-13,ST291,K-22,DA-101,2,Present,73.9,Petrenko,Good work,Іваненко Анна Максимівна
+REC0630,2024-03-30,ST291,K-22,DA-101,2,Late,65.4,Ivanenko,Was late,Іваненко Анна Максимівна
+REC0963,2024-05-06,ST291,K-22,DA-101,1,Present,58.6,Petrenko,Needs improvement,Іваненко Анна Максимівна
+REC0783,2024-05-11,ST291,K-22,DA-101,1,Present,82.9,Ivanenko,Additional task,Іваненко Анна Максимівна
+REC0619,2024-04-30,ST292,K-21,DA-102,1,Present,65,Petrenko,Excellent,Білик Софія Максимович
+REC0914,2024-05-28,ST292,K-21,DA-102,1,Absent,73,Petrenko,Was late,Білик Софія Максимович
+REC1780,2024-06-17,ST292,K-21,DA-102,1,Present,58.4,Ivanenko,Additional task,Білик Софія Максимович
+REC0692,2024-06-25,ST292,K-21,DA-102,2,Present,100,Ivanenko,Additional task,Білик Софія Максимович
+REC1757,2024-06-26,ST292,K-21,DA-101,1,Present,73,Petrenko,Additional task,Білик Софія Максимович
+REC0458,2024-06-27,ST292,K-21,DA-101,1,Absent,86.6,Petrenko,No comment,Білик Софія Максимович
+REC0459,2024-03-24,ST293,K-21,DA-101,1,Late,73,Ivanenko,Was late,Савченко Владислав Максимович
+REC0337,2024-05-31,ST293,K-21,DA-101,1,Present,72.5,Petrenko,Needs improvement,Савченко Владислав Максимович
+REC1256,2024-03-29,ST294,K-23,DA-102,1,Late,75.6,Petrenko,Needs improvement,Коваленко Марія Андрійович
+REC1752,2024-04-01,ST294,K-23,DA-102,1,Present,57.7,Ivanenko,Was late,Коваленко Марія Андрійович
+REC0176,2024-05-01,ST294,K-23,DA-101,1,Present,85,Ivanenko,No comment,Коваленко Марія Андрійович
+REC1142,2024-05-25,ST294,K-23,DA-101,2,Late,81.6,Ivanenko,Additional task,Коваленко Марія Андрійович
+REC0295,2024-05-27,ST294,K-23,DA-101,1,Present,58.8,Ivanenko,Good work,Коваленко Марія Андрійович
+REC0108,2024-04-24,ST295,K-23,DA-101,1,Present,72.9,Ivanenko,Missed class,Петренко Вікторія Іванівна
+REC0907,2024-05-10,ST295,K-23,DA-102,1,Absent,59.7,Petrenko,No comment,Петренко Вікторія Іванівна
+REC0320,2024-06-09,ST295,K-23,DA-101,1,Present,95.8,Ivanenko,Excellent,Петренко Вікторія Іванівна
+REC1388,2024-06-22,ST295,K-23,DA-101,1,Absent,62.3,Ivanenko,Good work,Петренко Вікторія Іванівна
+REC1607,2024-03-18,ST296,K-21,DA-101,1,Present,74.2,Ivanenko,No comment,Шевченко Максим Владиславович
+REC0222,2024-04-15,ST296,K-21,DA-102,1,Present,61.6,Petrenko,Good progress,Шевченко Максим Владиславович
+REC0386,2024-04-23,ST296,K-21,DA-101,1,Present,79.6,Petrenko,No comment,Шевченко Максим Владиславович
+REC0606,2024-05-18,ST296,K-21,DA-101,1,Present,69.3,Ivanenko,Needs improvement,Шевченко Максим Владиславович
+REC1338,2024-02-11,ST298,K-21,DA-101,2,Present,90.8,Petrenko,Missed class,Гнатюк Вікторія Миколайович
+REC1302,2024-02-14,ST298,K-21,DA-102,2,Present,75,Ivanenko,Additional task,Гнатюк Вікторія Миколайович
+REC0086,2024-03-13,ST298,K-21,DA-101,1,Late,100,Petrenko,Good progress,Гнатюк Вікторія Миколайович
+REC0501,2024-03-17,ST298,K-21,DA-101,2,Present,100,Petrenko,Was late,Гнатюк Вікторія Миколайович
+REC0530,2024-03-22,ST298,K-21,DA-101,1,Absent,71.2,Ivanenko,No comment,Гнатюк Вікторія Миколайович
+REC0449,2024-04-07,ST298,K-21,DA-102,1,Present,83.6,Ivanenko,Missed class,Гнатюк Вікторія Миколайович
+REC0441,2024-04-09,ST298,K-21,DA-102,1,Late,73,Petrenko,No comment,Гнатюк Вікторія Миколайович
+REC0283,2024-04-21,ST298,K-21,DA-102,1,Absent,66,Petrenko,Missed class,Гнатюк Вікторія Миколайович
+REC0793,2024-04-21,ST298,K-21,DA-102,1,Absent,84.6,Petrenko,Missed class,Гнатюк Вікторія Миколайович
+REC0499,2024-05-07,ST298,K-21,DA-102,1,Present,63.6,Ivanenko,Excellent,Гнатюк Вікторія Миколайович
+REC1555,2024-05-14,ST298,K-21,DA-102,1,Present,74.6,Ivanenko,Needs improvement,Гнатюк Вікторія Миколайович
+REC0926,2024-06-10,ST298,K-21,DA-101,1,Absent,84.4,Ivanenko,Good work,Гнатюк Вікторія Миколайович
+REC1378,2024-06-12,ST298,K-21,DA-102,1,Present,70.3,Ivanenko,Good progress,Гнатюк Вікторія Миколайович
+REC1614,2024-02-25,ST299,K-22,DA-101,1,Absent,72.8,Ivanenko,Good progress,Шевченко Софія Миколаївна
+REC0072,2024-05-16,ST299,K-22,DA-102,1,Present,69.8,Ivanenko,Needs improvement,Шевченко Софія Миколаївна
+REC1293,2024-05-20,ST299,K-22,DA-101,1,Present,62,Ivanenko,Was late,Шевченко Софія Миколаївна
+REC0190,2024-05-21,ST299,K-22,DA-101,1,Present,75.9,Ivanenko,Good work,Шевченко Софія Миколаївна
+REC0503,2024-05-30,ST299,K-22,DA-101,1,Present,74.2,Ivanenko,Good work,Шевченко Софія Миколаївна
+REC0420,2024-03-19,ST300,K-21,DA-102,1,Present,77.5,Petrenko,Was late,Шевченко Анна Богданович
+REC0200,2024-03-20,ST300,K-21,DA-101,1,Present,73,Ivanenko,Was late,Шевченко Анна Богданович
+REC1066,2024-03-24,ST300,K-21,DA-102,1,Present,94.1,Ivanenko,Missed class,Шевченко Анна Богданович
+REC0886,2024-03-29,ST300,K-21,DA-101,1,Present,92.3,Ivanenko,Excellent,Шевченко Анна Богданович
+REC1243,2024-04-01,ST300,K-21,DA-101,2,Absent,71.8,Petrenko,Excellent,Шевченко Анна Богданович
+REC0178,2024-04-22,ST300,K-21,DA-101,1,Present,62.9,Petrenko,Needs improvement,Шевченко Анна Богданович
+REC0256,2024-05-23,ST300,K-21,DA-101,1,Absent,76.6,Petrenko,Missed class,Шевченко Анна Богданович
+REC0984,2024-04-21,ST301,K-22,DA-101,1,Absent,74.2,Ivanenko,Missed class,Данилюк Іван Олександрівна
+REC1237,2024-04-25,ST301,K-22,DA-101,1,Present,56.9,Petrenko,Good work,Данилюк Іван Олександрівна
+REC0274,2024-03-13,ST302,K-21,DA-102,1,Present,73,Ivanenko,Missed class,Мороз Андрій Миколайович
+REC0472,2024-03-17,ST302,K-21,DA-102,1,Present,100,Ivanenko,Was late,Мороз Андрій Миколайович
+REC1448,2024-04-16,ST302,K-21,DA-102,1,Present,89.5,Petrenko,Additional task,Мороз Андрій Миколайович
+REC0425,2024-05-19,ST302,K-21,DA-102,1,Present,82.4,Ivanenko,Missed class,Мороз Андрій Миколайович
+REC0515,2024-06-08,ST302,K-21,DA-102,2,Present,93.8,Petrenko,Was late,Мороз Андрій Миколайович
+REC0082,2024-06-23,ST302,K-21,DA-101,1,Absent,73,Ivanenko,Good progress,Мороз Андрій Миколайович
+REC0951,2024-04-14,ST303,K-23,DA-102,2,Present,45.7,Petrenko,Was late,Коваленко Микола Андріївна
+REC0257,2024-05-03,ST303,K-23,DA-101,1,Present,100,Petrenko,Needs improvement,Коваленко Микола Андріївна
+REC1347,2024-05-16,ST303,K-23,DA-102,1,Present,78.7,Petrenko,Needs improvement,Коваленко Микола Андріївна
+REC1192,2024-06-03,ST303,K-23,DA-102,1,Absent,86.9,Ivanenko,Excellent,Коваленко Микола Андріївна
+REC1645,2024-06-03,ST303,K-23,DA-102,1,Present,97.3,Petrenko,Good work,Коваленко Микола Андріївна
+REC0657,2024-06-13,ST303,K-23,DA-102,1,Present,85,Ivanenko,Good progress,Коваленко Микола Андріївна
+REC0556,2024-06-27,ST303,K-23,DA-102,1,Late,65,Petrenko,Good work,Коваленко Микола Андріївна
+REC0952,2024-02-08,ST304,K-21,DA-101,1,Present,75.1,Petrenko,Good work,Данилюк Дарина Богданович
+REC0421,2024-02-21,ST304,K-21,DA-102,2,Present,74.4,Ivanenko,Excellent,Данилюк Дарина Богданович
+REC0764,2024-04-04,ST304,K-21,DA-102,2,Late,76.6,Petrenko,Missed class,Данилюк Дарина Богданович
+REC0667,2024-04-27,ST304,K-21,DA-101,2,Present,90.2,Petrenko,Excellent,Данилюк Дарина Богданович
+REC0024,2024-05-24,ST304,K-21,DA-102,1,Absent,52,Petrenko,Good work,Данилюк Дарина Богданович
+REC1083,2024-02-05,ST305,K-22,DA-102,2,Absent,79.5,Ivanenko,Good work,Поліщук Дарина Андріївна
+REC1259,2024-04-03,ST305,K-22,DA-101,1,Late,80.4,Petrenko,Additional task,Поліщук Дарина Андріївна
+REC1115,2024-04-07,ST305,K-22,DA-101,2,Absent,86.7,Ivanenko,Needs improvement,Поліщук Дарина Андріївна
+REC0230,2024-05-19,ST305,K-22,DA-101,2,Present,90.7,Petrenko,Additional task,Поліщук Дарина Андріївна
+REC0684,2024-05-23,ST305,K-22,DA-102,2,Present,89.5,Ivanenko,Good progress,Поліщук Дарина Андріївна
+REC0587,2024-02-24,ST306,K-24,DA-101,1,Present,50.4,Petrenko,Additional task,Лисенко Владислав Андріївна
+REC0725,2024-03-02,ST306,K-24,DA-101,1,Late,75,Ivanenko,Good progress,Лисенко Владислав Андріївна
+REC1284,2024-03-17,ST306,K-24,DA-102,2,Present,69,Ivanenko,Additional task,Лисенко Владислав Андріївна
+REC0225,2024-04-26,ST306,K-24,DA-102,1,Present,44.5,Ivanenko,Excellent,Лисенко Владислав Андріївна
+REC0483,2024-06-12,ST306,K-24,DA-102,1,Present,100,Petrenko,Additional task,Лисенко Владислав Андріївна
+REC1656,2024-06-26,ST306,K-24,DA-102,1,Absent,75,Petrenko,Good work,Лисенко Владислав Андріївна
+REC1796,2024-02-21,ST307,K-23,DA-102,1,Absent,74.2,Petrenko,Good progress,Мельник Вікторія Іванівна
+REC1684,2024-03-22,ST307,K-23,DA-102,1,Present,76,Ivanenko,Good work,Мельник Вікторія Іванівна
+REC1450,2024-03-30,ST307,K-23,DA-101,1,Present,68.4,Petrenko,Missed class,Мельник Вікторія Іванівна
+REC0434,2024-04-03,ST307,K-23,DA-102,2,Present,85.3,Ivanenko,Good progress,Мельник Вікторія Іванівна
+REC1475,2024-05-01,ST307,K-23,DA-101,1,Present,74.2,Petrenko,Good progress,Мельник Вікторія Іванівна
+REC0559,2024-06-15,ST307,K-23,DA-101,1,Present,64.2,Ivanenko,Missed class,Мельник Вікторія Іванівна
+REC1611,2024-03-27,ST308,K-22,DA-102,1,Present,62.9,Petrenko,Good progress,Петренко Марія Олександрівна
+REC0532,2024-03-30,ST308,K-22,DA-101,1,Late,45.3,Ivanenko,Additional task,Петренко Марія Олександрівна
+REC0365,2024-05-01,ST309,K-23,DA-102,2,Present,93.1,Ivanenko,Additional task,Олійник Дарина Дмитрівна
+REC1125,2024-04-10,ST310,K-23,DA-101,1,Present,88.2,Ivanenko,Was late,Петренко Олександр Максимівна
+REC0965,2024-04-24,ST310,K-23,DA-101,1,Present,51.7,Petrenko,Missed class,Петренко Олександр Максимівна
+REC1446,2024-05-28,ST310,K-23,DA-102,1,Present,64,Petrenko,Additional task,Петренко Олександр Максимівна
+REC1608,2024-06-19,ST310,K-23,DA-102,2,Late,61.2,Petrenko,No comment,Петренко Олександр Максимівна
+REC0953,2024-06-23,ST310,K-23,DA-101,2,Present,100,Ivanenko,Good work,Петренко Олександр Максимівна
+REC0693,2024-03-18,ST311,K-22,DA-102,1,Late,56.4,Petrenko,Needs improvement,Ткаченко Владислав Іванівна
+REC0747,2024-04-30,ST311,K-22,DA-102,1,Late,80.7,Petrenko,Good work,Ткаченко Владислав Іванівна
+REC0909,2024-06-02,ST311,K-22,DA-101,1,Present,46.6,Ivanenko,Was late,Ткаченко Владислав Іванівна
+REC1559,2024-06-17,ST311,K-22,DA-101,1,Present,78.6,Ivanenko,Additional task,Ткаченко Владислав Іванівна
+REC0971,2024-06-19,ST311,K-22,DA-102,1,Present,81.8,Petrenko,Additional task,Ткаченко Владислав Іванівна
+REC0911,2024-02-05,ST312,K-24,DA-101,1,Present,76.7,Petrenko,Needs improvement,Петренко Вікторія Дмитрівна
+REC1351,2024-02-20,ST312,K-24,DA-101,1,Present,78.4,Petrenko,Good progress,Петренко Вікторія Дмитрівна
+REC0399,2024-02-28,ST312,K-24,DA-101,1,Late,75,Ivanenko,Missed class,Петренко Вікторія Дмитрівна
+REC0758,2024-03-01,ST312,K-24,DA-102,1,Present,75,Petrenko,Missed class,Петренко Вікторія Дмитрівна
+REC1028,2024-03-04,ST312,K-24,DA-102,1,Present,61.9,Ivanenko,Excellent,Петренко Вікторія Дмитрівна
+REC0777,2024-03-17,ST312,K-24,DA-102,1,Present,75,Petrenko,Excellent,Петренко Вікторія Дмитрівна
+REC0160,2024-03-18,ST312,K-24,DA-102,1,Present,87.3,Ivanenko,Excellent,Петренко Вікторія Дмитрівна
+REC1272,2024-03-24,ST313,K-21,DA-102,1,Present,90.5,Petrenko,No comment,Гнатюк Максим Дмитрович
+REC0334,2024-03-27,ST313,K-21,DA-101,1,Present,73,Ivanenko,Was late,Гнатюк Максим Дмитрович
+REC1265,2024-05-02,ST313,K-21,DA-102,1,Present,100,Petrenko,Missed class,Гнатюк Максим Дмитрович
+REC1077,2024-05-16,ST313,K-21,DA-102,1,Late,92.6,Ivanenko,Was late,Гнатюк Максим Дмитрович
+REC0629,2024-03-07,ST314,K-21,DA-101,1,Late,73.5,Ivanenko,Additional task,Гнатюк Софія Миколаївна
+REC0802,2024-04-06,ST314,K-21,DA-102,1,Present,80.9,Ivanenko,Needs improvement,Гнатюк Софія Миколаївна
+REC1157,2024-04-22,ST314,K-21,DA-102,1,Present,74.7,Petrenko,Needs improvement,Гнатюк Софія Миколаївна
+REC1465,2024-04-25,ST314,K-21,DA-102,1,Present,73,Ivanenko,Was late,Гнатюк Софія Миколаївна
+REC0988,2024-05-25,ST314,K-21,DA-101,1,Present,67.6,Petrenko,Good progress,Гнатюк Софія Миколаївна
+REC1733,2024-02-09,ST315,K-22,DA-102,1,Absent,83.3,Ivanenko,Excellent,Білик Анастасія Іванович
+REC1531,2024-03-04,ST315,K-22,DA-101,2,Present,60.3,Petrenko,Good progress,Білик Анастасія Іванович
+REC1275,2024-04-23,ST315,K-22,DA-101,2,Late,87.6,Petrenko,Missed class,Білик Анастасія Іванович
+REC0210,2024-04-28,ST315,K-22,DA-102,1,Present,83.1,Petrenko,Excellent,Білик Анастасія Іванович
+REC0719,2024-04-04,ST316,K-22,DA-102,1,Absent,65.7,Petrenko,Good work,Кравченко Владислав Олександрівна
+REC1262,2024-04-07,ST316,K-22,DA-101,1,Present,87.3,Ivanenko,Good progress,Кравченко Владислав Олександрівна
+REC1219,2024-05-15,ST316,K-22,DA-102,1,Present,74.2,Petrenko,Missed class,Кравченко Владислав Олександрівна
+REC0290,2024-06-19,ST316,K-22,DA-101,1,Late,71.3,Ivanenko,Needs improvement,Кравченко Владислав Олександрівна
+REC0131,2024-03-03,ST317,K-22,DA-102,1,Present,81.1,Petrenko,Good progress,Ткаченко Софія Андріївна
+REC1106,2024-04-04,ST317,K-22,DA-101,1,Late,53.6,Petrenko,Needs improvement,Ткаченко Софія Андріївна
+REC0155,2024-06-06,ST317,K-22,DA-101,2,Absent,89.1,Ivanenko,Needs improvement,Ткаченко Софія Андріївна
+REC1719,2024-06-27,ST317,K-22,DA-101,1,Present,100,Ivanenko,Excellent,Ткаченко Софія Андріївна
+REC1304,2024-03-06,ST318,K-24,DA-101,2,Present,78.7,Petrenko,Good progress,Мороз Дарина Максимович
+REC1172,2024-04-17,ST318,K-24,DA-101,1,Late,66.6,Ivanenko,Excellent,Мороз Дарина Максимович
+REC1020,2024-05-01,ST318,K-24,DA-101,1,Present,72.1,Ivanenko,Was late,Мороз Дарина Максимович
+REC0457,2024-05-19,ST318,K-24,DA-102,2,Late,70.8,Petrenko,Missed class,Мороз Дарина Максимович
+REC1322,2024-03-17,ST319,K-23,DA-102,1,Present,74.2,Petrenko,Missed class,Петренко Микола Олександрівна
+REC0923,2024-05-10,ST319,K-23,DA-102,2,Present,84.2,Ivanenko,Good work,Петренко Микола Олександрівна
+REC0639,2024-05-11,ST319,K-23,DA-101,1,Present,73.5,Ivanenko,Good progress,Петренко Микола Олександрівна
+REC0550,2024-05-16,ST319,K-23,DA-102,2,Absent,66.9,Petrenko,Additional task,Петренко Микола Олександрівна
+REC0411,2024-06-14,ST319,K-23,DA-101,1,Present,74.2,Petrenko,Good work,Петренко Микола Олександрівна
+REC0003,2024-03-17,ST320,K-23,DA-102,1,Late,68.3,Ivanenko,Good progress,Бондаренко Катерина Олександрович
+REC1535,2024-03-28,ST320,K-23,DA-101,1,Present,87.2,Petrenko,Was late,Бондаренко Катерина Олександрович
+REC0564,2024-04-29,ST320,K-23,DA-101,1,Present,88.4,Petrenko,Excellent,Бондаренко Катерина Олександрович
+REC1736,2024-06-01,ST320,K-23,DA-101,1,Present,88.4,Ivanenko,Missed class,Бондаренко Катерина Олександрович
+REC1101,2024-02-15,ST321,K-21,DA-102,1,Present,64.9,Petrenko,Additional task,Бондаренко Анна Миколайович
+REC1362,2024-02-29,ST321,K-21,DA-102,1,Absent,94.2,Ivanenko,Good progress,Бондаренко Анна Миколайович
+REC0973,2024-03-13,ST321,K-21,DA-102,1,Present,80.2,Petrenko,Good work,Бондаренко Анна Миколайович
+REC0726,2024-03-13,ST321,K-21,DA-102,2,Present,84.5,Ivanenko,Additional task,Бондаренко Анна Миколайович
+REC1500,2024-03-23,ST321,K-21,DA-101,2,Absent,73.4,Petrenko,Was late,Бондаренко Анна Миколайович
+REC0832,2024-05-18,ST321,K-21,DA-102,1,Present,73,Petrenko,Good work,Бондаренко Анна Миколайович
+REC1071,2024-05-21,ST321,K-21,DA-101,1,Present,71.6,Petrenko,Needs improvement,Бондаренко Анна Миколайович
+REC1261,2024-05-24,ST321,K-21,DA-101,1,Present,98.7,Petrenko,Was late,Бондаренко Анна Миколайович
+REC0436,2024-06-25,ST321,K-21,DA-102,1,Present,46.5,Petrenko,Good progress,Бондаренко Анна Миколайович
+REC1493,2024-03-16,ST322,K-22,DA-102,1,Present,67.4,Ivanenko,Excellent,Мельник Дарина Дмитрович
+REC1571,2024-04-02,ST322,K-22,DA-101,1,Present,74.2,Ivanenko,Missed class,Мельник Дарина Дмитрович
+REC0234,2024-05-24,ST322,K-22,DA-101,1,Present,75.5,Ivanenko,Good work,Мельник Дарина Дмитрович
+REC0392,2024-06-29,ST322,K-22,DA-101,1,Present,86.1,Ivanenko,Excellent,Мельник Дарина Дмитрович
+REC0066,2024-04-24,ST323,K-23,DA-101,2,Absent,81.2,Ivanenko,Was late,Мельник Микола Дмитрович
+REC0166,2024-06-01,ST323,K-23,DA-102,1,Present,82,Petrenko,Excellent,Мельник Микола Дмитрович
+REC1387,2024-06-10,ST323,K-23,DA-101,1,Late,76.4,Petrenko,Needs improvement,Мельник Микола Дмитрович
+REC1149,2024-06-12,ST323,K-23,DA-102,1,Absent,56.8,Ivanenko,Missed class,Мельник Микола Дмитрович
+REC1117,2024-06-24,ST323,K-23,DA-101,1,Present,61.2,Petrenko,Good progress,Мельник Микола Дмитрович
+REC1247,2024-06-29,ST323,K-23,DA-102,1,Present,85.7,Ivanenko,Needs improvement,Мельник Микола Дмитрович
+REC1664,2024-06-30,ST323,K-23,DA-102,1,Present,78.4,Petrenko,Good progress,Мельник Микола Дмитрович
+REC1690,2024-02-29,ST324,K-22,DA-101,2,Present,82.4,Petrenko,Was late,Поліщук Іван Миколайович
+REC1466,2024-04-09,ST324,K-22,DA-101,1,Present,80.3,Ivanenko,Additional task,Поліщук Іван Миколайович
+REC0838,2024-06-19,ST324,K-22,DA-102,1,Present,73.4,Ivanenko,Additional task,Поліщук Іван Миколайович
+REC1792,2024-06-30,ST324,K-22,DA-102,1,Late,94.9,Petrenko,Good work,Поліщук Іван Миколайович
+REC1242,2024-02-25,ST325,K-23,DA-101,1,Present,96.4,Ivanenko,No comment,Мороз Марія Максимівна
+REC1370,2024-04-04,ST325,K-23,DA-101,1,Late,74.2,Petrenko,Was late,Мороз Марія Максимівна
+REC1657,2024-06-13,ST325,K-23,DA-101,1,Absent,77,Ivanenko,Missed class,Мороз Марія Максимівна
+REC0656,2024-06-28,ST325,K-23,DA-101,1,Present,76.3,Petrenko,Additional task,Мороз Марія Максимівна
+REC1307,2024-02-09,ST326,K-21,DA-102,1,Present,73,Petrenko,Additional task,Поліщук Олена Богданович
+REC1030,2024-03-11,ST326,K-21,DA-102,1,Present,84.2,Petrenko,Excellent,Поліщук Олена Богданович
+REC1019,2024-04-25,ST326,K-21,DA-102,2,Present,76.6,Ivanenko,Missed class,Поліщук Олена Богданович
+REC1108,2024-02-28,ST327,K-22,DA-102,1,Present,79.9,Petrenko,Good work,Петренко Дарина Богданович
+REC0258,2024-02-29,ST327,K-22,DA-102,1,Absent,63.4,Ivanenko,Needs improvement,Петренко Дарина Богданович
+REC0064,2024-03-16,ST327,K-22,DA-101,1,Present,89.9,Ivanenko,No comment,Петренко Дарина Богданович
+REC1758,2024-03-17,ST327,K-22,DA-101,1,Late,48.2,Ivanenko,Good work,Петренко Дарина Богданович
+REC0574,2024-04-09,ST327,K-22,DA-101,1,Late,90.3,Petrenko,Excellent,Петренко Дарина Богданович
+REC1380,2024-05-19,ST327,K-22,DA-102,2,Absent,66.9,Ivanenko,Good work,Петренко Дарина Богданович
+REC1383,2024-06-03,ST327,K-22,DA-102,1,Present,83.8,Petrenko,Excellent,Петренко Дарина Богданович
+REC0698,2024-02-18,ST328,K-21,DA-102,2,Present,69.5,Petrenko,Missed class,Лисенко Олександр Іванович
+REC1175,2024-02-25,ST328,K-21,DA-102,1,Present,70.1,Ivanenko,Good progress,Лисенко Олександр Іванович
+REC0709,2024-04-14,ST328,K-21,DA-102,2,Present,77.1,Ivanenko,No comment,Лисенко Олександр Іванович
+REC0755,2024-05-24,ST328,K-21,DA-101,1,Present,100,Ivanenko,Excellent,Лисенко Олександр Іванович
+REC1630,2024-02-10,ST329,K-21,DA-101,2,Present,73.5,Ivanenko,Needs improvement,Сидоренко Марія Іванович
+REC1253,2024-02-13,ST329,K-21,DA-102,1,Present,64.5,Petrenko,Was late,Сидоренко Марія Іванович
+REC1532,2024-02-27,ST329,K-21,DA-102,1,Absent,69.3,Ivanenko,Missed class,Сидоренко Марія Іванович
+REC1310,2024-03-05,ST329,K-21,DA-102,1,Present,78.2,Petrenko,Additional task,Сидоренко Марія Іванович
+REC1592,2024-03-08,ST329,K-21,DA-101,1,Present,60.1,Ivanenko,Was late,Сидоренко Марія Іванович
+REC1072,2024-03-13,ST329,K-21,DA-101,1,Present,84.9,Petrenko,Missed class,Сидоренко Марія Іванович
+REC1173,2024-05-29,ST329,K-21,DA-102,1,Present,91.9,Ivanenko,Good progress,Сидоренко Марія Іванович
+REC1635,2024-02-07,ST330,K-22,DA-101,1,Present,67.9,Ivanenko,Missed class,Коваленко Софія Андріївна
+REC1326,2024-03-05,ST330,K-22,DA-101,1,Late,49,Ivanenko,Good work,Коваленко Софія Андріївна
+REC0880,2024-03-27,ST330,K-22,DA-101,1,Present,80.3,Ivanenko,Additional task,Коваленко Софія Андріївна
+REC1360,2024-02-08,ST331,K-24,DA-101,1,Present,48.2,Petrenko,Needs improvement,Мороз Вікторія Дмитрівна
+REC1439,2024-02-09,ST331,K-24,DA-101,1,Present,68.2,Petrenko,Needs improvement,Мороз Вікторія Дмитрівна
+REC0194,2024-04-12,ST331,K-24,DA-102,1,Late,60.8,Ivanenko,Needs improvement,Мороз Вікторія Дмитрівна
+REC0697,2024-05-15,ST331,K-24,DA-102,1,Present,50.9,Ivanenko,Good work,Мороз Вікторія Дмитрівна
+REC1661,2024-06-11,ST331,K-24,DA-101,1,Present,75,Petrenko,Excellent,Мороз Вікторія Дмитрівна
+REC1365,2024-06-20,ST331,K-24,DA-102,1,Late,75,Ivanenko,Excellent,Мороз Вікторія Дмитрівна
+REC1666,2024-03-04,ST332,K-22,DA-101,1,Present,74.2,Ivanenko,No comment,Марченко Марія Іванович
+REC1443,2024-04-09,ST332,K-22,DA-101,1,Present,74.2,Petrenko,Was late,Марченко Марія Іванович
+REC0918,2024-04-19,ST332,K-22,DA-101,1,Present,71.8,Petrenko,Missed class,Марченко Марія Іванович
+REC0215,2024-04-27,ST332,K-22,DA-102,1,Present,75.1,Ivanenko,Excellent,Марченко Марія Іванович
+REC1361,2024-05-16,ST332,K-22,DA-101,1,Present,66.4,Ivanenko,Good progress,Марченко Марія Іванович
+REC0573,2024-06-24,ST332,K-22,DA-102,2,Absent,69.7,Petrenko,Good progress,Марченко Марія Іванович
+REC0340,2024-02-21,ST333,K-22,DA-101,2,Present,96.9,Petrenko,Needs improvement,Поліщук Марія Богданович
+REC0686,2024-05-22,ST333,K-22,DA-101,1,Present,78.5,Petrenko,Additional task,Поліщук Марія Богданович
+REC1164,2024-05-09,ST334,K-22,DA-101,1,Present,46,Petrenko,Excellent,Лисенко Микола Дмитрівна
+REC0087,2024-05-12,ST334,K-22,DA-102,2,Absent,100,Petrenko,No comment,Лисенко Микола Дмитрівна
+REC0243,2024-02-17,ST335,K-24,DA-101,1,Late,55.6,Petrenko,Missed class,Мельник Богдан Миколаївна
+REC1339,2024-04-23,ST335,K-24,DA-101,1,Present,100,Ivanenko,Excellent,Мельник Богдан Миколаївна
+REC0270,2024-05-01,ST335,K-24,DA-102,1,Absent,98.7,Ivanenko,Missed class,Мельник Богдан Миколаївна
+REC0426,2024-05-27,ST335,K-24,DA-102,1,Present,72.9,Ivanenko,Missed class,Мельник Богдан Миколаївна
+REC1357,2024-06-04,ST335,K-24,DA-101,1,Present,79.1,Petrenko,Excellent,Мельник Богдан Миколаївна
+REC1325,2024-06-09,ST335,K-24,DA-101,2,Present,99.1,Ivanenko,Excellent,Мельник Богдан Миколаївна
+REC1161,2024-06-22,ST335,K-24,DA-102,2,Present,100,Ivanenko,Needs improvement,Мельник Богдан Миколаївна
+REC0602,2024-02-09,ST336,K-22,DA-102,1,Absent,71.2,Petrenko,Good work,Лисенко Олена Олександрівна
+REC1730,2024-05-13,ST336,K-22,DA-102,1,Absent,55.5,Ivanenko,No comment,Лисенко Олена Олександрівна
+REC1291,2024-05-21,ST336,K-22,DA-102,1,Present,95.7,Petrenko,Additional task,Лисенко Олена Олександрівна
+REC0177,2024-06-02,ST336,K-22,DA-102,1,Late,74.2,Ivanenko,Missed class,Лисенко Олена Олександрівна
+REC1545,2024-06-08,ST336,K-22,DA-102,1,Present,82.7,Petrenko,Was late,Лисенко Олена Олександрівна
+REC0309,2024-06-26,ST336,K-22,DA-102,1,Present,35.8,Petrenko,Missed class,Лисенко Олена Олександрівна
+REC0724,2024-02-17,ST337,K-24,DA-101,1,Present,75,Petrenko,Good progress,Савченко Дмитро Іванівна
+REC1735,2024-03-05,ST337,K-24,DA-102,1,Late,64.8,Petrenko,Missed class,Савченко Дмитро Іванівна
+REC0242,2024-03-10,ST337,K-24,DA-101,1,Present,60.2,Ivanenko,Excellent,Савченко Дмитро Іванівна
+REC1013,2024-03-19,ST337,K-24,DA-102,1,Present,62.9,Petrenko,No comment,Савченко Дмитро Іванівна
+REC0781,2024-03-21,ST337,K-24,DA-101,1,Present,44.2,Ivanenko,Excellent,Савченко Дмитро Іванівна
+REC1032,2024-04-27,ST337,K-24,DA-101,1,Late,85.4,Ivanenko,Good work,Савченко Дмитро Іванівна
+REC0696,2024-05-12,ST337,K-24,DA-102,1,Present,64.5,Ivanenko,Excellent,Савченко Дмитро Іванівна
+REC1418,2024-05-26,ST337,K-24,DA-102,1,Late,76.6,Petrenko,Was late,Савченко Дмитро Іванівна
+REC1416,2024-05-31,ST337,K-24,DA-101,1,Present,81.7,Petrenko,Missed class,Савченко Дмитро Іванівна
+REC1273,2024-04-01,ST338,K-24,DA-102,1,Present,47.8,Petrenko,Missed class,Олійник Максим Іванович
+REC1503,2024-04-26,ST338,K-24,DA-102,1,Present,79.5,Petrenko,No comment,Олійник Максим Іванович
+REC0080,2024-02-15,ST339,K-24,DA-102,1,Present,84.5,Ivanenko,No comment,Бондаренко Дмитро Максимович
+REC0803,2024-04-03,ST339,K-24,DA-102,1,Present,75,Ivanenko,Good progress,Бондаренко Дмитро Максимович
+REC0571,2024-04-24,ST339,K-24,DA-102,1,Present,94.2,Ivanenko,Good work,Бондаренко Дмитро Максимович
+REC0875,2024-02-12,ST340,K-24,DA-102,1,Absent,85.9,Petrenko,Good progress,Марченко Анастасія Андріївна
+REC1551,2024-03-09,ST340,K-24,DA-101,2,Late,82.7,Ivanenko,Was late,Марченко Анастасія Андріївна
+REC1228,2024-05-04,ST340,K-24,DA-102,1,Absent,69.5,Ivanenko,Needs improvement,Марченко Анастасія Андріївна
+REC0273,2024-05-06,ST340,K-24,DA-102,1,Present,85.6,Ivanenko,Additional task,Марченко Анастасія Андріївна
+REC1764,2024-03-11,ST341,K-22,DA-101,1,Present,60.5,Petrenko,Missed class,Мельник Микола Андріївна
+REC0822,2024-04-04,ST341,K-22,DA-102,1,Present,78.9,Petrenko,Additional task,Мельник Микола Андріївна
+REC0111,2024-04-16,ST341,K-22,DA-102,1,Present,81.4,Petrenko,Additional task,Мельник Микола Андріївна
+REC1538,2024-05-06,ST341,K-22,DA-101,2,Late,73.6,Petrenko,Missed class,Мельник Микола Андріївна
+REC0593,2024-05-09,ST341,K-22,DA-102,1,Present,78.6,Petrenko,Excellent,Мельник Микола Андріївна
+REC1688,2024-06-21,ST341,K-22,DA-101,1,Present,62,Ivanenko,Was late,Мельник Микола Андріївна
+REC0153,2024-03-10,ST342,K-24,DA-101,1,Present,71.1,Ivanenko,Good work,Бондаренко Анна Іванівна
+REC0053,2024-03-30,ST342,K-24,DA-101,1,Present,65.8,Ivanenko,Was late,Бондаренко Анна Іванівна
+REC1212,2024-04-20,ST342,K-24,DA-102,1,Late,75,Ivanenko,Was late,Бондаренко Анна Іванівна
+REC0321,2024-04-25,ST342,K-24,DA-101,1,Absent,75,Petrenko,Was late,Бондаренко Анна Іванівна
+REC0794,2024-05-20,ST342,K-24,DA-102,1,Late,75,Petrenko,Good work,Бондаренко Анна Іванівна
+REC0336,2024-02-16,ST343,K-22,DA-101,1,Late,95,Petrenko,Missed class,Мельник Софія Миколаївна
+REC0500,2024-03-05,ST343,K-22,DA-102,1,Late,74.9,Petrenko,Needs improvement,Мельник Софія Миколаївна
+REC1791,2024-03-23,ST343,K-22,DA-101,1,Present,71.7,Ivanenko,Additional task,Мельник Софія Миколаївна
+REC1385,2024-05-18,ST343,K-22,DA-101,1,Absent,83.6,Petrenko,Missed class,Мельник Софія Миколаївна
+REC1536,2024-04-28,ST344,K-22,DA-102,2,Present,86.9,Ivanenko,Excellent,Петренко Дмитро Владиславович
+REC0476,2024-05-14,ST344,K-22,DA-102,1,Present,53,Petrenko,Additional task,Петренко Дмитро Владиславович
+REC0588,2024-06-28,ST344,K-22,DA-102,1,Present,80,Ivanenko,No comment,Петренко Дмитро Владиславович
+REC0122,2024-02-19,ST345,K-23,DA-101,1,Absent,76.4,Ivanenko,Additional task,Лисенко Богдан Миколаївна
+REC1233,2024-03-02,ST345,K-23,DA-101,1,Absent,90.3,Ivanenko,Good work,Лисенко Богдан Миколаївна
+REC1162,2024-04-25,ST345,K-23,DA-102,1,Present,70.1,Petrenko,Additional task,Лисенко Богдан Миколаївна
+REC0990,2024-04-21,ST346,K-23,DA-102,1,Present,67.7,Petrenko,Good work,Іваненко Максим Богданович
+REC0465,2024-05-17,ST346,K-23,DA-101,1,Present,72.9,Petrenko,Excellent,Іваненко Максим Богданович
+REC0996,2024-02-05,ST347,K-21,DA-102,1,Present,90.8,Petrenko,Additional task,Романенко Владислав Дмитрівна
+REC1218,2024-02-25,ST347,K-21,DA-102,1,Present,73,Petrenko,Good work,Романенко Владислав Дмитрівна
+REC1777,2024-03-09,ST347,K-21,DA-101,2,Present,99.9,Ivanenko,Additional task,Романенко Владислав Дмитрівна
+REC0143,2024-03-19,ST347,K-21,DA-101,1,Present,73,Ivanenko,Needs improvement,Романенко Владислав Дмитрівна
+REC0328,2024-03-26,ST347,K-21,DA-102,1,Present,76.8,Petrenko,Additional task,Романенко Владислав Дмитрівна
+REC1003,2024-04-16,ST347,K-21,DA-102,1,Present,66.5,Petrenko,Needs improvement,Романенко Владислав Дмитрівна
+REC0563,2024-04-23,ST347,K-21,DA-102,1,Present,66.4,Ivanenko,Was late,Романенко Владислав Дмитрівна
+REC0867,2024-06-23,ST347,K-21,DA-102,1,Absent,78.4,Ivanenko,Missed class,Романенко Владислав Дмитрівна
+REC1434,2024-02-29,ST348,K-21,DA-102,1,Present,75,Ivanenko,Needs improvement,Клименко Максим Дмитрівна
+REC0546,2024-04-11,ST348,K-21,DA-101,1,Present,83.8,Petrenko,Additional task,Клименко Максим Дмитрівна
+REC0126,2024-05-30,ST348,K-21,DA-101,1,Late,71.6,Ivanenko,Needs improvement,Клименко Максим Дмитрівна
+REC1494,2024-03-13,ST349,K-21,DA-101,2,Present,65.8,Ivanenko,Additional task,Романенко Максим Владиславович
+REC0310,2024-05-27,ST349,K-21,DA-102,1,Present,78.2,Petrenko,No comment,Романенко Максим Владиславович
+REC1618,2024-06-03,ST349,K-21,DA-101,2,Present,76.6,Ivanenko,Good work,Романенко Максим Владиславович
+REC1514,2024-06-29,ST349,K-21,DA-101,1,Present,65.8,Ivanenko,Missed class,Романенко Максим Владиславович
+REC0956,2024-06-30,ST349,K-21,DA-102,1,Present,89.3,Petrenko,Was late,Романенко Максим Владиславович
+REC1340,2024-02-11,ST350,K-22,DA-101,1,Late,74.9,Petrenko,Missed class,Мельник Богдан Максимівна
+REC0554,2024-03-12,ST350,K-22,DA-101,1,Present,63.6,Ivanenko,Good work,Мельник Богдан Максимівна
+REC1002,2024-04-11,ST350,K-22,DA-102,1,Present,77.1,Ivanenko,Was late,Мельник Богдан Максимівна
+REC1692,2024-05-01,ST350,K-22,DA-101,2,Present,64,Petrenko,Needs improvement,Мельник Богдан Максимівна
