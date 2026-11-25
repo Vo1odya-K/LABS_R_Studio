@@ -28,6 +28,18 @@ https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset/dat
 - Одиниця вимірювання ціни: USD.
 - Одиниця вимірювання пробігу: милі.
 
+### Ліцензія датасету
+
+- Назва: Used Car Price Prediction Dataset.
+- Автор на Kaggle: taeefnajib.
+- Джерело: https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset
+- Ліцензія: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- Внесені зміни: очищення даних, перетворення типів,
+  обробка пропущених значень та нормалізація категорій.
+
+Початковий датасет збережено без змін у data/raw/,
+а очищену версію — у data/processed/.
+
 ## Дослідницькі запитання
 
 1. Як розподіляються ціни вживаних автомобілів?
