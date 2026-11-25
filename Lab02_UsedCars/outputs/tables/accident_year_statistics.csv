@@ -1,0 +1,9 @@
+year_group,accident,count,median_price,median_milage
+До 2010,At least 1 accident or damage reported,228,10000,139225
+До 2010,None reported,430,13275,94223
+2010–2014,At least 1 accident or damage reported,260,15000,103733
+2010–2014,None reported,424,17500,88700
+2015–2019,At least 1 accident or damage reported,382,26499.5,67741.5
+2015–2019,None reported,961,34000,54423
+2020–2024,At least 1 accident or damage reported,116,41450,30601.5
+2020–2024,None reported,1095,51000,16113

@@ -1,0 +1,121 @@
+/*-- scss:defaults --*/
+$text-font: sans-serif;
+$heading-font: serif;
+$body-bg: #ffffff;
+$body-color: #262626;
+$font-family-sans-serif: $text-font;
+$presentation-heading-font: $heading-font;
+$presentation-heading-color: #262626;
+$presentation-font-size-root: 30px;
+$presentation-h2-font-size: 44px;
+$presentation-heading-font-weight: 700;
+$link-color: #0b6bb0;
+
+/*-- scss:rules --*/
+:root {
+  --primary: #0b6bb0;
+  --secondary: #e07b00;
+  --accent: #c0392b;
+  --ink: #262626;
+  --ink2: #5f5f5f;
+  --rule: #c9c9c9;
+}
+
+.reveal .slides section {
+  text-align: left;
+  box-sizing: border-box;
+  padding-bottom: 46px;
+}
+.reveal h1, .reveal h2, .reveal h3 {
+  text-transform: none;
+  letter-spacing: 0;
+}
+.reveal h2 {
+  font-size: 44px;
+  line-height: 1.14;
+  margin: 0 0 28px;
+}
+.reveal p, .reveal li {
+  font-size: 28px;
+  line-height: 1.32;
+}
+.reveal li { margin-bottom: 12px; }
+.reveal li::marker { color: var(--primary); }
+.reveal strong { color: inherit; }
+.reveal .figure-area { margin: 0; }
+.reveal .key {
+  font-family: $heading-font;
+  font-weight: 400;
+  color: var(--ink);
+  margin-top: 22px;
+  padding-top: 14px;
+  border-top: 1px solid var(--rule);
+}
+.reveal .key p { font-size: 28px; margin: 0; }
+.reveal .source-note {
+  margin-top: 18px;
+  color: var(--ink2);
+}
+.reveal .source-note p { font-size: 16px; line-height: 1.25; }
+.reveal .hl { color: var(--primary); font-weight: 700; }
+.reveal .hl2 { color: var(--secondary); font-weight: 700; }
+.reveal table {
+  border-collapse: collapse;
+  font-size: 24px;
+  width: 88%;
+  margin: 12px auto;
+}
+.reveal table th {
+  font-family: $heading-font;
+  border-bottom: 1px solid #777;
+  text-align: left;
+}
+.reveal table td { border-bottom: 1px solid #ddd; }
+.reveal table th, .reveal table td {
+  padding: 10px 14px;
+  vertical-align: middle;
+}
+.reveal .slide-number { font-size: 16px; color: var(--ink2); }
+.reveal img { box-shadow: none; }
+.reveal .card, .reveal .key, .reveal blockquote {
+  border-radius: 0;
+  box-shadow: none;
+  background: transparent;
+}
+.reveal blockquote {
+  font-family: $heading-font;
+  font-style: normal;
+  width: 90%;
+}
+
+/* Центрування графіків */
+.reveal .figure-area {
+  text-align: center;
+}
+
+.reveal .figure-area p {
+  margin: 0;
+  text-align: center;
+}
+
+.reveal .figure-area img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+/* Вирівнювання числових значень */
+.reveal table td:not(:first-child) {
+  text-align: right;
+}
+
+/* Компактні відступи під графіками */
+.reveal .key {
+  margin-top: 16px;
+  padding-top: 12px;
+}
+
+.reveal .source-note {
+  margin-top: 12px;
+}

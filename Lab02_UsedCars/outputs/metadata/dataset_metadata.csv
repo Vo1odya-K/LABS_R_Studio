@@ -1,0 +1,11 @@
+parameter,value
+Dataset,Used Car Price Prediction Dataset
+Source,https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset/data
+Target variable,price
+Rows,4009
+Columns,12
+Missing values strategy,Unknown for missing categorical values
+Outlier strategy,"IQR detection, retain potential outliers"
+Correlation methods,Pearson and Spearman
+Minimum subgroup size,10 observations per comparison group
+Language,R

@@ -1,0 +1,31 @@
+year_group,milage_group,accident,count,median_price
+До 2010,До 50 тис.,At least 1 accident or damage reported,15,19995
+До 2010,До 50 тис.,None reported,87,30000
+До 2010,50–100 тис.,At least 1 accident or damage reported,53,12999
+До 2010,50–100 тис.,None reported,147,13998
+До 2010,100–150 тис.,At least 1 accident or damage reported,64,9687.5
+До 2010,100–150 тис.,None reported,133,9999
+До 2010,Понад 150 тис.,At least 1 accident or damage reported,96,7999.5
+До 2010,Понад 150 тис.,None reported,63,8000
+2010–2014,До 50 тис.,At least 1 accident or damage reported,21,27900
+2010–2014,До 50 тис.,None reported,85,35000
+2010–2014,50–100 тис.,At least 1 accident or damage reported,102,18250
+2010–2014,50–100 тис.,None reported,163,18500
+2010–2014,100–150 тис.,At least 1 accident or damage reported,90,12992.5
+2010–2014,100–150 тис.,None reported,124,12000
+2010–2014,Понад 150 тис.,At least 1 accident or damage reported,47,9500
+2010–2014,Понад 150 тис.,None reported,52,10367.5
+2015–2019,До 50 тис.,At least 1 accident or damage reported,113,34955
+2015–2019,До 50 тис.,None reported,440,44925
+2015–2019,50–100 тис.,At least 1 accident or damage reported,192,25997.5
+2015–2019,50–100 тис.,None reported,400,30387
+2015–2019,100–150 тис.,At least 1 accident or damage reported,61,17900
+2015–2019,100–150 тис.,None reported,102,23302.5
+2015–2019,Понад 150 тис.,At least 1 accident or damage reported,16,21500
+2015–2019,Понад 150 тис.,None reported,19,17500
+2020–2024,До 50 тис.,At least 1 accident or damage reported,90,46099.5
+2020–2024,До 50 тис.,None reported,1013,52500
+2020–2024,50–100 тис.,At least 1 accident or damage reported,25,36500
+2020–2024,50–100 тис.,None reported,77,38500
+2020–2024,100–150 тис.,At least 1 accident or damage reported,1,18387
+2020–2024,100–150 тис.,None reported,5,32662
